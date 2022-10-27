@@ -8,10 +8,10 @@ Nothing Phone(1)のFastboot ROMとboot.imgを公開しています。<br>
 <b>English (DeepL)</b><br>
 Fastboot ROM and boot.img of Nothing Phone(1) are available.
 - <b>Nothing Phone(1) boot.img Files</b><br>
-[v1.1.0](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.0_Global.zip)<br>
-[v1.1.3](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.3_Global.zip)<br>
-[v1.1.4](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.4_Global.zip)<br>
-[v1.1.5](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.5_Global.zip)<br>
-[v1.1.6](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.6_Global.zip)<br>
+[v1.1.0](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.0_Global.zip?raw=true)<br>
+[v1.1.3](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.3_Global.zip?raw=true)<br>
+[v1.1.4](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.4_Global.zip?raw=true)<br>
+[v1.1.5](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.5_Global.zip?raw=true)<br>
+[v1.1.6](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.6_Global.zip?raw=true)<br>
 
 - <b>Nothing Phone(1) Fastboot ROM (GoogleDrive)</b>

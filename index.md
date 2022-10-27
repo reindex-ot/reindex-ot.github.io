@@ -20,3 +20,7 @@ Fastboot ROM and boot.img of Nothing Phone(1) are available.
 [v1.1.4](https://drive.google.com/file/d/1-oqPz1IYrlXhDUR8F_prgtBgKFS2Jzpo/view?usp=sharing)<br>
 [v1.1.5](https://drive.google.com/file/d/1YzJd7FAGDn04eog-5VC9uzrp45PZYJOb/view?usp=sharing)<br>
 [v1.1.6](https://drive.google.com/file/d/1x0zy_aatlWXQbZbkonLXOQMfp-5q2qNx/view?usp=sharing)<br>
+
+- <b>Nothing Phone(1) Magisk Module</b><br>
+[Nothing Phone(1) Patch](https://github.com/reindex-ot/magisk-module-nothing)<br>
+[Ndot to Roboto](https://github.com/reindex-ot/Ndot-to-Roboto)<br>

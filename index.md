@@ -29,6 +29,8 @@ Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 1
 ## Redmi Note 10 JE (XIG02)
 - <b>Redme Note 10 JE Fastboot ROM (GoogleDrive)</b><br>
 [12.5.12.0 (RKRJPKD)](https://drive.google.com/file/d/1bM8MV-fR91U4Aj10ukmW4A0R5PsCAh9D/view?usp=sharing)<br>
+[13.0.4.0 (SKRJPKD)](https://drive.google.com/file/d/1OrBIFEGWaWJy76-XnCflxKZrnzF905wH/view?usp=sharing)<br>
+[13.0.5.0 (SKRJPKD)](https://drive.google.com/file/d/1VwBi9Tp62L8rHauE2_CytKPlgqhlZ1VV/view?usp=sharing)<br>
 [13.0.7.0 (SKRJPKD)](https://drive.google.com/file/d/1s4ZmdzNROjMww-_1PhEbyYY6TASxVYHn/view?usp=sharing)<br>
 [13.0.8.0 (SKRJPKD)](https://drive.google.com/file/d/14NX6yPcQJSK5PTRszD83-Rk8ca1AXLQn/view?usp=sharing)<br>
 

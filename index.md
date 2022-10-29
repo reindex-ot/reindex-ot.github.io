@@ -2,12 +2,13 @@
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCE5tVfXXLSonqBJ1GZmLuyw?style=flat&logo=youtube)](https://www.youtube.com/channel/UCE5tVfXXLSonqBJ1GZmLuyw)
 [![Copano Rickey](https://raw.githubusercontent.com/reindex-ot/reindex-ot.github.io/main/image/copanorickey.jpg)](https://umamusume.jp/character/detail/?name=copanorickey)
 <br>
+## 📖About
 <b>Japanese (日本語)</b><br>
 Nothing Phone(1)のFastboot ROMとboot.imgとRedme Note 10 JE(XIG02)のFastboot ROMを公開しています。<br>
 <br>
 <b>English (DeepL)</b><br>
 Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 10 JE (XIG02) are available.<br>
-## Nothing Phone(1)
+## 📱Nothing Phone(1)
 - <b>Nothing Phone(1) boot.img File (Magisk patched boot included)</b><br>
 [v1.1.0](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.0_Global.zip?raw=true)<br>
 [v1.1.3](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.3_Global.zip?raw=true)<br>
@@ -26,7 +27,7 @@ Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 1
 - <b>Nothing Phone(1) Magisk Module</b><br>
 [Nothing Phone(1) Patch](https://github.com/reindex-ot/magisk-module-nothing)<br>
 [Ndot to Roboto](https://github.com/reindex-ot/Ndot-to-Roboto)<br>
-## Redmi Note 10 JE (XIG02)
+## 📱Redmi Note 10 JE (XIG02)
 - <b>Redme Note 10 JE Fastboot ROM (GoogleDrive)</b><br>
 [v12.5.12.0 (RKRJPKD)](https://drive.google.com/file/d/1bM8MV-fR91U4Aj10ukmW4A0R5PsCAh9D/view?usp=sharing)<br>
 [v13.0.4.0 (SKRJPKD)](https://drive.google.com/file/d/1OrBIFEGWaWJy76-XnCflxKZrnzF905wH/view?usp=sharing)<br>

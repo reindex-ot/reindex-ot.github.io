@@ -36,6 +36,6 @@ Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 1
 [v13.0.8.0 (SKRJPKD)](https://drive.google.com/file/d/14NX6yPcQJSK5PTRszD83-Rk8ca1AXLQn/view?usp=sharing)<br>
 
 - <b>XIG02 Tools (GoogleDrive)</b><br>
-[XIG02 Bloatware Remover & Disaler](https://drive.google.com/file/d/1EMQ6pax-Boj67xyCixEF7Ql5oX_CtHKe/view?usp=sharing)<br>
+[XIG02 Bloatware Remover & Disabler](https://drive.google.com/file/d/1EMQ6pax-Boj67xyCixEF7Ql5oX_CtHKe/view?usp=sharing)<br>
 [Fuck AppCloud](https://drive.google.com/file/d/1C8Uszdsie91VcHmIpTP8EIxq9sQJ-IDu/view?usp=sharing)<br>
 [Restore AppCloud](https://drive.google.com/file/d/1axGXUpmbaTE0uqQWoNvOerHUoEeWtYv2/view?usp=sharing)<br>

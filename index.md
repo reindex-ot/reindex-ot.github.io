@@ -3,10 +3,11 @@
 [![Copano Rickey](https://raw.githubusercontent.com/reindex-ot/reindex-ot.github.io/main/image/copanorickey.jpg)](https://umamusume.jp/character/detail/?name=copanorickey)
 <br>
 <b>Japanese (日本語)</b><br>
-Nothing Phone(1)のFastboot ROMとboot.imgを公開しています。<br>
+Nothing Phone(1)のFastboot ROMとboot.imgとRedme Note 10 JE(XIG02)のFastboot ROMを公開しています。<br>
 <br>
 <b>English (DeepL)</b><br>
-Fastboot ROM and boot.img of Nothing Phone(1) are available.
+Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 10 JE (XIG02) are available.<br>
+## Nothing Phone(1)
 - <b>Nothing Phone(1) boot.img File (Magisk patched boot included)</b><br>
 [v1.1.0](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.0_Global.zip?raw=true)<br>
 [v1.1.3](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.3_Global.zip?raw=true)<br>
@@ -25,3 +26,13 @@ Fastboot ROM and boot.img of Nothing Phone(1) are available.
 - <b>Nothing Phone(1) Magisk Module</b><br>
 [Nothing Phone(1) Patch](https://github.com/reindex-ot/magisk-module-nothing)<br>
 [Ndot to Roboto](https://github.com/reindex-ot/Ndot-to-Roboto)<br>
+## Redmi Note 10 JE (XIG02)
+- <b>Redme Note 10 JE Fastboot ROM (GoogleDrive)</b><br>
+[12.5.12.0 (RKRJPKD)](https://drive.google.com/file/d/1bM8MV-fR91U4Aj10ukmW4A0R5PsCAh9D/view?usp=sharing)<br>
+[13.0.7.0 (SKRJPKD)](https://drive.google.com/file/d/1s4ZmdzNROjMww-_1PhEbyYY6TASxVYHn/view?usp=sharing)<br>
+[13.0.8.0 (SKRJPKD)](https://drive.google.com/file/d/14NX6yPcQJSK5PTRszD83-Rk8ca1AXLQn/view?usp=sharing)<br>
+
+- <b>XIG02 Tools (GoogleDrive)</b><br>
+[XIG02 Bloatware Remover & Disaler](https://drive.google.com/file/d/1EMQ6pax-Boj67xyCixEF7Ql5oX_CtHKe/view?usp=sharing)<br>
+[Fuck AppCloud](https://drive.google.com/file/d/1C8Uszdsie91VcHmIpTP8EIxq9sQJ-IDu/view?usp=sharing)<br>
+[Restore AppCloud](https://drive.google.com/file/d/1axGXUpmbaTE0uqQWoNvOerHUoEeWtYv2/view?usp=sharing)<br>

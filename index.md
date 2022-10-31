@@ -17,7 +17,7 @@ Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 1
 [v1.1.5](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.5_Global.zip?raw=true)<br>
 [v1.1.6](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.6_Global.zip?raw=true)<br>
 
-- <b>Nothing Phone(1) Fastboot ROM (GoogleDrive)</b><br>
+- <b>Nothing Phone(1) Global Fastboot ROM (GoogleDrive)</b><br>
 [v1.1.0](https://drive.google.com/file/d/1-Gdamvxs1tMBcQvRIUoG_EbdFaaglfnS/view?usp=sharing)<br>
 [v1.1.3](https://drive.google.com/file/d/1kuGrqfM0HqPx8KcRZgag4e9exWig_y-f/view?usp=sharing)<br>
 [v1.1.4](https://drive.google.com/file/d/1-oqPz1IYrlXhDUR8F_prgtBgKFS2Jzpo/view?usp=sharing)<br>

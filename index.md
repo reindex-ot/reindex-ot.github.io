@@ -10,7 +10,7 @@ Nothing Phone(1)のFastboot ROMとboot.imgとRedme Note 10 JE(XIG02)のFastboot 
 Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 10 JE (XIG02) are available.<br>
 
 ## 📱Nothing Phone(1)
-- <b>Nothing Phone(1) boot.img File (Magisk patched boot included)</b><br>
+- <b>Nothing Phone(1) Global boot.img File (Magisk patched boot included)</b><br>
 [v1.1.0](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.0_Global.zip?raw=true)<br>
 [v1.1.3](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.3_Global.zip?raw=true)<br>
 [v1.1.4](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.4_Global.zip?raw=true)<br>

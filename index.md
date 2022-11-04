@@ -1,4 +1,5 @@
-[![Twitter](https://img.shields.io/twitter/follow/ot_inc?style=flat&logo=twitter)](https://twitter.com/ot_inc) [![GitHub](https://img.shields.io/github/followers/reindex-ot?style=flat&logo=github)](https://github.com/reindex-ot?tab=followers)
+[![Twitter](https://img.shields.io/twitter/follow/ot_inc?style=flat&logo=twitter)](https://twitter.com/ot_inc)
+[![GitHub](https://img.shields.io/github/followers/reindex-ot?style=flat&logo=github)](https://github.com/reindex-ot)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCE5tVfXXLSonqBJ1GZmLuyw?style=flat&logo=youtube)](https://www.youtube.com/channel/UCE5tVfXXLSonqBJ1GZmLuyw)
 [![Copano Rickey](https://raw.githubusercontent.com/reindex-ot/reindex-ot.github.io/main/image/copanorickey.jpg)](https://umamusume.jp/character/detail/?name=copanorickey)
 <br>
@@ -23,7 +24,7 @@ Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 1
 [v1.1.4](https://drive.google.com/file/d/1-oqPz1IYrlXhDUR8F_prgtBgKFS2Jzpo/view?usp=sharing)<br>
 [v1.1.5](https://drive.google.com/file/d/1YzJd7FAGDn04eog-5VC9uzrp45PZYJOb/view?usp=sharing)<br>
 [v1.1.6](https://drive.google.com/file/d/1x0zy_aatlWXQbZbkonLXOQMfp-5q2qNx/view?usp=sharing)<br>
-[v1.1.6 (simg version) / Recommend](https://drive.google.com/file/d/13W7IWx_ObuOhZJgloK92nWT1F1gNLnGE/view?usp=sharing)<br>
+[v1.1.6 (Simg Ver.) / Recommend](https://drive.google.com/file/d/13W7IWx_ObuOhZJgloK92nWT1F1gNLnGE/view?usp=sharing)<br>
 
 - <b>Nothing Phone(1) Magisk Module</b><br>
 [Nothing Phone(1) Patch](https://github.com/reindex-ot/magisk-module-nothing)<br>

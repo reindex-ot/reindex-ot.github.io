@@ -1,2 +1,2 @@
-# reindex-ot.github.io
-GitHub Pages
+# Re*Index. GitHub Pages
+Nothing Phone(1) Fastboot ROM & boot.img

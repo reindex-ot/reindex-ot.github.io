@@ -46,6 +46,7 @@ Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 1
 [XIG02 Bloatware Remover & Disabler](https://drive.google.com/file/d/1EMQ6pax-Boj67xyCixEF7Ql5oX_CtHKe/view?usp=sharing)<br>
 [Fuck AppCloud (AppCloud Disabler)](https://drive.google.com/file/d/1C8Uszdsie91VcHmIpTP8EIxq9sQJ-IDu/view?usp=sharing)<br>
 [Restore AppCloud](https://drive.google.com/file/d/1axGXUpmbaTE0uqQWoNvOerHUoEeWtYv2/view?usp=sharing)<br>
+[SDK Platform-Tools r29.0.5](https://drive.google.com/file/d/1wDN0bfmWSEaAx9KoN-7GI4sW0qo3XRo6/view?usp=shareing)<br>
 
 ## 📱OnePlus 9
 - <b>OOS13 Tools (GoogleDrive)</b><br>

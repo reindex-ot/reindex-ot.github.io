@@ -17,14 +17,15 @@ Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 1
 [v1.1.4](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.4_Global.zip?raw=true)<br>
 [v1.1.5](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.5_Global.zip?raw=true)<br>
 [v1.1.6](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.6_Global.zip?raw=true)<br>
+[v1.1.7](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.7_Global.zip?raw=true)<br>
 
 - <b>Nothing Phone(1) Global Fastboot ROM (GoogleDrive)</b><br>
 [v1.1.0](https://drive.google.com/file/d/1-Gdamvxs1tMBcQvRIUoG_EbdFaaglfnS/view?usp=sharing)<br>
 [v1.1.3](https://drive.google.com/file/d/1kuGrqfM0HqPx8KcRZgag4e9exWig_y-f/view?usp=sharing)<br>
 [v1.1.4](https://drive.google.com/file/d/1-oqPz1IYrlXhDUR8F_prgtBgKFS2Jzpo/view?usp=sharing)<br>
 [v1.1.5](https://drive.google.com/file/d/1YzJd7FAGDn04eog-5VC9uzrp45PZYJOb/view?usp=sharing)<br>
-[v1.1.6](https://drive.google.com/file/d/1x0zy_aatlWXQbZbkonLXOQMfp-5q2qNx/view?usp=sharing)<br>
-[v1.1.6 (Simg Ver.) / Recommend](https://drive.google.com/file/d/13W7IWx_ObuOhZJgloK92nWT1F1gNLnGE/view?usp=sharing)<br>
+[v1.1.6](https://drive.google.com/file/d/13W7IWx_ObuOhZJgloK92nWT1F1gNLnGE/view?usp=sharing)<br>
+[v1.1.7](https://drive.google.com/file/d/1ABPWLm8oQLfDft2bTdrf_U0cG8FA5MaK/view?usp=sharing)<br>
 
 - <b>Nothing Phone(1) Magisk Module</b><br>
 [Nothing Phone(1) Patch](https://github.com/reindex-ot/magisk-module-nothing)<br>
@@ -32,17 +33,20 @@ Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 1
 
 ## 📱Redmi Note 10 JE (XIG02)
 - <b>Redme Note 10 JE Fastboot ROM (GoogleDrive)</b><br>
+⚠ If you experience a bootloop with fastboot, please use latest fastboot or r29.0.5.<br>
 [v12.5.12.0 (RKRJPKD)](https://drive.google.com/file/d/1bM8MV-fR91U4Aj10ukmW4A0R5PsCAh9D/view?usp=sharing)<br>
 [v13.0.4.0 (SKRJPKD)](https://drive.google.com/file/d/1OrBIFEGWaWJy76-XnCflxKZrnzF905wH/view?usp=sharing)<br>
 [v13.0.5.0 (SKRJPKD)](https://drive.google.com/file/d/1VwBi9Tp62L8rHauE2_CytKPlgqhlZ1VV/view?usp=sharing)<br>
 [v13.0.7.0 (SKRJPKD)](https://drive.google.com/file/d/1s4ZmdzNROjMww-_1PhEbyYY6TASxVYHn/view?usp=sharing)<br>
 [v13.0.8.0 (SKRJPKD)](https://drive.google.com/file/d/14NX6yPcQJSK5PTRszD83-Rk8ca1AXLQn/view?usp=sharing)<br>
 [v13.0.9.0 (SKRJPKD)](https://drive.google.com/file/d/1DLoJhGQL5Z0xGkXbWIPuBzZnJwTLAlGu/view?usp=sharing)<br>
+[v13.0.10.0 (SKRJPKD)](https://drive.google.com/file/d/1kcAmCEv0xBI6eB-Y4iZdLtUAUa02Ajbe/view?usp=shareing)<br>
 
 - <b>XIG02 Tools (GoogleDrive)</b><br>
 [XIG02 Bloatware Remover & Disabler](https://drive.google.com/file/d/1EMQ6pax-Boj67xyCixEF7Ql5oX_CtHKe/view?usp=sharing)<br>
 [Fuck AppCloud (AppCloud Disabler)](https://drive.google.com/file/d/1C8Uszdsie91VcHmIpTP8EIxq9sQJ-IDu/view?usp=sharing)<br>
 [Restore AppCloud](https://drive.google.com/file/d/1axGXUpmbaTE0uqQWoNvOerHUoEeWtYv2/view?usp=sharing)<br>
+[SDK Platform-Tools r29.0.5](https://drive.google.com/file/d/1wDN0bfmWSEaAx9KoN-7GI4sW0qo3XRo6/view?usp=shareing)<br>
 
 ## 📱OnePlus 9
 - <b>OOS13 Tools (GoogleDrive)</b><br>

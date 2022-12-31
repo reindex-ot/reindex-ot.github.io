@@ -5,7 +5,7 @@
 <br>
 ## 📖About
 <b>Japanese (日本語)</b><br>
-Nothing Phone(1)のFastboot ROMとboot.imgとRedme Note 10 JE(XIG02)のFastboot ROMを公開しています。<br>
+Nothing Phone(1)のFastboot ROMとboot.imgとRedme Note 10 JE(XIG02)のFastboot ROMなどを公開しています。<br>
 <br>
 <b>English (DeepL)</b><br>
 Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 10 JE (XIG02) are available.<br>
@@ -53,3 +53,8 @@ Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 1
 ## 📱OnePlus 9
 - <b>OOS13 Tools (GoogleDrive)</b><br>
 [Fuck OrangeState (Orange State Boot Messeage Remover)](https://drive.google.com/file/d/1MUlZYzqKGtAV4iqjjWHT4MMQe906LvmV/view?usp=sharing)
+
+## 📱Xperia 1 (SO-03L,SOV40,802SO)
+- <b>Xperia 1 (JP) Files</b><br>
+[Xperia 1 (JP) dtbo,vbmeta,boot](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/Xperia/Xperia1_JP_dtbo,vbmeta,boot.7z?raw=true)<br>
+[Xperia 1 (JP) wipe userdata](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/Xperia/Xperia1_JP_wipe_userdata.7z?raw=true)<br>

@@ -57,4 +57,5 @@ Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 1
 ## 📱Xperia 1 (SO-03L,SOV40,802SO)
 - <b>Xperia 1 (JP) Files</b><br>
 [Xperia 1 (JP) dtbo,vbmeta,boot](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/Xperia/Xperia1_JP_dtbo,vbmeta,boot.7z?raw=true)<br>
+[Xperia 1 (Global) dtbo,vbmeta,boot](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/Xperia/Xperia1_J8110_dtbo,vbmeta,boot.7z?raw=true)<br> 
 [Xperia 1 (JP) wipe userdata](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/Xperia/Xperia1_JP_wipe_userdata.7z?raw=true)<br>

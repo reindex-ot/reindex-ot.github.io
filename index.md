@@ -6,9 +6,11 @@
 ## 📖About
 <b>Japanese (日本語)</b><br>
 Nothing Phone(1)のFastboot ROMとboot.imgとRedme Note 10 JE(XIG02)のFastboot ROMなどを公開しています。<br>
+Fastboot ROMやOTAのやり方を作りました。[こちら](https://reindex-ot.github.io/how_to_use)です。<br>
 <br>
 <b>English (DeepL)</b><br>
 Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 10 JE (XIG02) are available.<br>
+I made a Fastboot ROM and OTA instructions. [Here](https://reindex-ot.github.io/how_to_use) it is.<br>
 
 ## 📱Nothing Phone(1)
 - <b>Nothing Phone(1) Global boot.img Files (Magisk patched boot included)</b><br>

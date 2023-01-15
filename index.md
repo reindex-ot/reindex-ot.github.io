@@ -11,7 +11,7 @@ Nothing Phone(1)のFastboot ROMとboot.imgとRedme Note 10 JE(XIG02)のFastboot 
 Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 10 JE (XIG02) are available.<br>
 
 ## 📱Nothing Phone(1)
-- <b>Nothing Phone(1) Global boot.img File (Magisk patched boot included)</b><br>
+- <b>Nothing Phone(1) Global boot.img Files (Magisk patched boot included)</b><br>
 [v1.1.0](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.0_Global.zip?raw=true)<br>
 [v1.1.3](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.3_Global.zip?raw=true)<br>
 [v1.1.4](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.4_Global.zip?raw=true)<br>
@@ -30,6 +30,18 @@ Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 1
 [v1.1.7](https://drive.google.com/file/d/1ABPWLm8oQLfDft2bTdrf_U0cG8FA5MaK/view?usp=sharing)<br>
 [v1.5.0 (Beta1)](https://drive.google.com/file/d/1V1xlzbtBV06FnJH1mZp3FcQ152f01DkD/view?usp=sharing)<br>
 [v1.5.1 (Beta2)](https://drive.google.com/file/d/1kFsNFPL-K_UAu4Zl2mdhjRUETb9yuoU_/view?usp=sharing)<br>
+
+- <b>Nothing Phone(1) Global Local OTA Files (MEGA)</b><br>
+[v1.1.0](https://mega.nz/file/G8g0yCAb#Hcd1U7LK-Q4XpLKjDzOV3HKkRzo7deYSvI42aIIYuY0)<br>
+[v1.1.2](https://mega.nz/file/D94AwbRA#pTGVDBcJ9ItdG8dheCctb6T3PwCz7tEBz5LA8f7ku6U)<br>
+[v1.1.3](https://mega.nz/file/GoQGgZzD#L3Cm1dTtXPo1BFMCAV-cgM1kELWb_WJsWfwq0lrEuU0)<br>
+[v1.1.4](https://mega.nz/file/bg5VFK6J#_e8i_QpNZXyEjEU2CjtZGK9lgb-XypFAcqXsz1BfjYg)<br>
+[v1.1.4 (HotFix)](https://mega.nz/file/X0BDHQoA#neBOopiUWQbHb1DKgtcQByf015nFT8zrY4VZ0sFfaG0)<br>
+[v1.1.5](https://mega.nz/file/SpBRCDAK#iieoMySHHwkJWD4tJY7tNmESPOSZ05dTC6RKHRZEkqY)<br>
+[v1.1.6](https://mega.nz/file/WtREnCSa#6bC6HPSjXoIVTdYDZGv-57C-4v0LOx6IgC1L4klRQnA)<br>
+[v1.1.7](https://mega.nz/file/a1p3nbbK#4ofRZ_466eyt6p6n51qti2YS5tVZ_dzhz5K2MnjZ7UM)<br>
+[v1.5.0 (Beta1)](https://mega.nz/file/T9xSyRzL#eamdfM3ym0q43UDWcGwPBFzausPlAKmL4D1Hw3VjfD4)<br>
+[v1.5.1 (Beta2)](https://mega.nz/file/W0wlGJzJ#nCzWu7kY4ZTjvR8EiuVnSYx-sc-76gNqZ7Awj8FYUs0)<br>
 
 - <b>Nothing Phone(1) Magisk Module</b><br>
 [Nothing Phone(1) Patch](https://github.com/reindex-ot/magisk-module-nothing)<br>

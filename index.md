@@ -7,11 +7,12 @@
 <b>Japanese (日本語)</b><br>
 Nothing Phone(1)のFastboot ROMとboot.imgとRedme Note 10 JE(XIG02)のFastboot ROMなどを公開しています。<br>
 Fastboot ROMやOTAのやり方を作りました。[こちら](https://reindex-ot.github.io/how_to_use)です。<br>
+Nothingはv1.5.1からGlobalとEEAが統合されました。それ以降はデバイスを問わず使用可能です。<br>
 <br>
 <b>English (DeepL)</b><br>
 Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 10 JE (XIG02) are available.<br>
 I made a Fastboot ROM and OTA instructions. [Here](https://reindex-ot.github.io/how_to_use) it is.<br>
-
+Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can be used on any device.<br>
 ## 📱Nothing Phone(1)
 - <b>Nothing Phone(1) boot.img Files (Magisk patched boot included)</b><br>
 [v1.1.0 (Global)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.0_Global.zip?raw=true)<br>
@@ -22,6 +23,7 @@ I made a Fastboot ROM and OTA instructions. [Here](https://reindex-ot.github.io/
 [v1.1.7 (Global)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.7_Global.zip?raw=true)<br>
 [v1.5.0 (Beta1) (Global)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.5.0_Beta_Global.zip?raw=true)<br>
 [v1.5.1 (Beta2)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.5.1_Beta_Global.zip?raw=true)<br>
+[v1.5.1 (Beta2) (HotFix)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.5.1(hotfix)_Beta.zip?raw=true)<br>
 
 - <b>Nothing Phone(1) Fastboot ROM (GoogleDrive)</b><br>
 [v1.1.0 (Global)](https://drive.google.com/file/d/1-Gdamvxs1tMBcQvRIUoG_EbdFaaglfnS/view?usp=sharing)<br>
@@ -32,6 +34,7 @@ I made a Fastboot ROM and OTA instructions. [Here](https://reindex-ot.github.io/
 [v1.1.7 (Global)](https://drive.google.com/file/d/1ABPWLm8oQLfDft2bTdrf_U0cG8FA5MaK/view?usp=sharing)<br>
 [v1.5.0 (Beta1) (Global)](https://drive.google.com/file/d/1V1xlzbtBV06FnJH1mZp3FcQ152f01DkD/view?usp=sharing)<br>
 [v1.5.1 (Beta2)](https://drive.google.com/file/d/1kFsNFPL-K_UAu4Zl2mdhjRUETb9yuoU_/view?usp=sharing)<br>
+[v1.5.1 (Beta2) (HotFix)](https://drive.google.com/file/d/1TeBJMFBLEc0iDJlwC9bb_pmfB_eBUOrd/view?usp=sharing)<br>
 
 - <b>Nothing Phone(1) Local OTA Files (MEGA)</b><br>
 [v1.1.0 (Global)](https://mega.nz/file/G8g0yCAb#Hcd1U7LK-Q4XpLKjDzOV3HKkRzo7deYSvI42aIIYuY0)<br>
@@ -44,6 +47,7 @@ I made a Fastboot ROM and OTA instructions. [Here](https://reindex-ot.github.io/
 [v1.1.7 (Global)](https://mega.nz/file/a1p3nbbK#4ofRZ_466eyt6p6n51qti2YS5tVZ_dzhz5K2MnjZ7UM)<br>
 [v1.5.0 (Beta1) (Global)](https://mega.nz/file/T9xSyRzL#eamdfM3ym0q43UDWcGwPBFzausPlAKmL4D1Hw3VjfD4)<br>
 [v1.5.1 (Beta2)](https://mega.nz/file/W0wlGJzJ#nCzWu7kY4ZTjvR8EiuVnSYx-sc-76gNqZ7Awj8FYUs0)<br>
+[v1.5.1 (Beta2) (HotFix)](https://mega.nz/file/T1oXVYhB#qfvHzfAgc2719yDHyZUrPgoTaqzMRA6sBtKUP8cwV68)<br>
 
 - <b>Nothing Phone(1) Magisk Module</b><br>
 [Nothing Phone(1) Patch](https://github.com/reindex-ot/magisk-module-nothing)<br>

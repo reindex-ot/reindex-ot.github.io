@@ -97,6 +97,7 @@ Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can 
 [Xperia 5 (Japan) dtbo,vbmeta,boot](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/Xperia/Xperia5_JP_dtbo,vbmeta,boot.7z?raw=true)<br>
 [Xperia 5 (Global) dtbo,vbmeta,boot](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/Xperia/Xperia5_J8210_dtbo,vbmeta,boot.7z?raw=true)<br>
 [Xperia 5 (Japan/DualSIM) dtbo,vbmeta,boot](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/Xperia/Xperia5_J9260(DualSIM)_dtbo,vbmeta,boot.7z?raw=true)<br>
+[Xperia 5 (Global/DualSIM) dtbo,vbmeta,boot](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/Xperia/Xperia5_J9210(DualSIM)_dtbo,vbmeta,boot.7z?raw=true)<br>
 - <b>Xperia 5 Stock ROM</b><br>
 [SO-01M (docomo) - 55.2.D.3.22 (A11)](https://mega.nz/file/6txQFITA#nzf0W6t9umRlRBbJwYYHkYIL9plnP87Gbp1-EZPNZBs)<br>
 [SOV41 (au) - 55.2.C.3.21 (A11)](https://mega.nz/file/O95FWKxR#x3vvkfj1uxlPhF76xwiSjhworYOg8dOmt8JeKIk8GBU)<br>

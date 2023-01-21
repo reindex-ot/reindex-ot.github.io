@@ -78,10 +78,17 @@ Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can 
 ## 📱Xperia 1
 - <b>Xperia 1 Files</b><br>
 [Xperia 1 (JP) dtbo,vbmeta,boot](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/Xperia/Xperia1_JP_dtbo,vbmeta,boot.7z?raw=true)<br>
-[Xperia 1 (Global) dtbo,vbmeta,boot](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/Xperia/Xperia1_J8110_dtbo,vbmeta,boot.7z?raw=true)<br> 
+[Xperia 1 (JP/DualSIM) dtbo,vbmeta,boot](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/Xperia/Xperia1_J9110_JP(DualSIM)_dtbo,vbmeta,boot.7z?raw=true)<br>
+[Xperia 1 (Global) dtbo,vbmeta,boot](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/Xperia/Xperia1_J8110_dtbo,vbmeta,boot.7z?raw=true)<br>
+[Xperia 1 (Global/DualSIM) dtbo,vbmeta,boot](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/Xperia/Xperia1_J9110(DualSIM)_dtbo,vbmeta,boot.7z?raw=true)<br>
+[Xperia 1 Professional Edition dtbo,vbmeta,boot](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/Xperia/Xperia1_J9510(ProfessionalEdition)_dtbo,vbmeta,boot.7z?raw=true)<br>
 [Xperia 1 (JP) wipe userdata](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/Xperia/Xperia1_JP_wipe_userdata.7z?raw=true)<br>
 - <b>Xperia 1 Stock ROM (MEGA)</b><br>
 [SO-03L (docomo) - 55.2.D.3.22 (A11)](https://mega.nz/file/2ooAmYLI#ez4QfW3s4nipRKOT0vrby3NtFeCG0C4cCeQrziDOUW8)<br>
+
+## 📱Xperia 5
+- <b>Xperia 5 Files</b><br>
+
 [SOV40 (au) - 55.2.C.3.21 (A11)](https://mega.nz/file/XwpHTSQZ#7ASh31HfdgbynMSiR3VuGMha20XT3Aetgk0sXghJp6w)<br>
 [802SO (SoftBank) - 55.1.B.0.565 (A10)](https://mega.nz/file/j1wWGDSa#QCUxiMskO8txDOaAPSJfNYGR61Kcf8-VKCt4MZPofAk)<br>
 [J8110 (Global) - 55.2.A.4.332 (A11)](https://mega.nz/file/j0YCBCRR#A8P_14aK5buec0dQAceGCWCFdHoTNo75DJgaTiSHU70)<br>

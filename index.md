@@ -63,6 +63,7 @@ Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can 
 [v13.0.8.0 (SKRJPKD)](https://drive.google.com/file/d/14NX6yPcQJSK5PTRszD83-Rk8ca1AXLQn/view?usp=sharing)<br>
 [v13.0.9.0 (SKRJPKD)](https://drive.google.com/file/d/1DLoJhGQL5Z0xGkXbWIPuBzZnJwTLAlGu/view?usp=sharing)<br>
 [v13.0.10.0 (SKRJPKD)](https://drive.google.com/file/d/1kcAmCEv0xBI6eB-Y4iZdLtUAUa02Ajbe/view?usp=shareing)<br>
+[v14.0.4.0 (TKRJPKD)](https://drive.google.com/file/d/1ejbOBN_86wmeCeeBGurvzjnHNL0NnrEH/view?usp=shareing)<br>
 
 - <b>XIG02 Tools</b><br>
 [XIG02 Bloatware Remover & Disabler](https://drive.google.com/file/d/1EMQ6pax-Boj67xyCixEF7Ql5oX_CtHKe/view?usp=sharing)<br>

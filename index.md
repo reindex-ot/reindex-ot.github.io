@@ -56,6 +56,10 @@ Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can 
 ## 📱Redmi Note 10 JE (XIG02)
 - <b>Redme Note 10 JE Fastboot ROM (GoogleDrive)</b><br>
 ⚠ If you experience a bootloop with fastboot, please use latest fastboot or r29.0.5.<br>
+fastbootのバージョンによってfastbootでブートループを起こす症状が起きる場合があります。<br>
+「最新版のfastboot」か「r29.0.5のfastboot」を使用してください。<br><br>
+⚠ The partition size has changed since "v14.0.4.0". It is recommended to OTA with "v13.0.10.0" just to be safe.<br>
+「v14.0.4.0」以降からパーティションのサイズが変っています。念の為に一度「v13.0.10.0」でOTAを行なう事を推奨します。<br><br>
 [v12.5.12.0 (RKRJPKD)](https://drive.google.com/file/d/1bM8MV-fR91U4Aj10ukmW4A0R5PsCAh9D/view?usp=sharing)<br>
 [v13.0.4.0 (SKRJPKD)](https://drive.google.com/file/d/1OrBIFEGWaWJy76-XnCflxKZrnzF905wH/view?usp=sharing)<br>
 [v13.0.5.0 (SKRJPKD)](https://drive.google.com/file/d/1VwBi9Tp62L8rHauE2_CytKPlgqhlZ1VV/view?usp=sharing)<br>

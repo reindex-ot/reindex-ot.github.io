@@ -49,6 +49,11 @@ Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can 
 [v1.5.1 (Beta2)](https://mega.nz/file/W0wlGJzJ#nCzWu7kY4ZTjvR8EiuVnSYx-sc-76gNqZ7Awj8FYUs0)<br>
 [v1.5.1 (Beta2) (HotFix)](https://mega.nz/file/T1oXVYhB#qfvHzfAgc2719yDHyZUrPgoTaqzMRA6sBtKUP8cwV68)<br>
 
+- <b>Nothing Phone(1) QFIL ROM (EDL command or EDL Cable V2 required)</b><br>
+[QFIL ROM](https://mega.nz/file/qsxghKII#o_3XjvE321jWhOhNuFL92I9nBuPvezmY-ggCR_Zso4A)<br>
+[Qualcomm Image Flash Loader](https://mega.nz/file/ypBG1ZzI#bw8D7p_48WpN7agvxwVH94XkzpGNXnWMk2zH6kupOS8)<br>
+...Firehoseの確認はしたけど復旧できるかわからん。知らん。<br>
+
 - <b>Nothing Phone(1) Magisk Module</b><br>
 [Nothing Phone(1) Patch](https://github.com/reindex-ot/magisk-module-nothing)<br>
 [Ndot to Roboto](https://github.com/reindex-ot/Ndot-to-Roboto)<br>

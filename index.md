@@ -51,7 +51,7 @@ Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can 
 
 - <b>Nothing Phone(1) QFIL ROM (EDL Command or EDL Cable V2 Required)</b><br>
 [QFIL ROM](https://mega.nz/file/qsxghKII#o_3XjvE321jWhOhNuFL92I9nBuPvezmY-ggCR_Zso4A)<br>
-[Qualcomm Image Flash Loader](https://mega.nz/file/ypBG1ZzI#bw8D7p_48WpN7agvxwVH94XkzpGNXnWMk2zH6kupOS8)<br>
+[Qualcomm Flash Image Loader](https://mega.nz/file/ypBG1ZzI#bw8D7p_48WpN7agvxwVH94XkzpGNXnWMk2zH6kupOS8)<br>
 [Qualcomm HS-USB QDLoader 9008 Driver](https://mega.nz/file/O4ZVSA6a#uK7003-5sLr0ISy37pNzoNwwBGDFqRW8HFMAUppVIyE)<br>
 ...Firehoseの確認はしたけど復旧できるかわからん。知らん。<br>
 「Qualcomm HS-USB Diagnostics 900E」が出たらそれに「Qualcomm HS-USB QDLoader 9008 Driver」のドライバーを上書きで更新すれば認識します。<br>

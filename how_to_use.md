@@ -30,6 +30,7 @@ The OTA for Nothing OS is designed to perform an internal check, so if you are u
 If you do not revert, the check will be rejected and the update will fail.<br>
 You can specify the file, but if you create a folder called "ota" in the internal storage and put the OTA zip file in it, it will automatically recognize the file.<br>
 
+
 # 👤この人について
 私は、日本人です。<br>
 アプリケーションの日本語化とか色々やってますが、英語の能力はそれ程高くないです。詳細はGitHubのプロフィールをどうぞ。<br>

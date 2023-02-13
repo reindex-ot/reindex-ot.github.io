@@ -118,3 +118,13 @@ fastbootのバージョンによってfastbootでブートループを起こす�
 [J9260 (Japan/DualSIM) - 55.2.A.4.332 (A11)](https://mega.nz/file/q8YhkCTC#juZWd6fqSDl3bibpN37uQioywpJQtCJE9I7eNSokHZ8)<br>
 [J9210 (Global/DualSIM) - 55.2.A.4.332 (A11)](https://mega.nz/file/PtgCVJKZ#3ueuP49YKmcj39aUGtLvQr_C-o9L8L-0tWJzIFWq-ns)<br>
 
+
+# 👤この人について
+私は、日本人です。<br>
+アプリケーションの日本語化とか色々やってますが、英語の能力はそれ程高くないです。詳細はGitHubのプロフィールをどうぞ。<br>
+[GitHubのプロフィール](https://github.com/reindex-ot)<br>
+
+# 👤About (Translation DeepL)
+I am Japanese.<br>
+I do a lot of things like making applications Japanese, but my English skills are not that great. For more information, please visit my GitHub profile.<br>
+[GitHub Profile](https://github.com/reindex-ot)<br>

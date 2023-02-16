@@ -3,7 +3,7 @@
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCE5tVfXXLSonqBJ1GZmLuyw?style=flat&logo=youtube)](https://www.youtube.com/channel/UCE5tVfXXLSonqBJ1GZmLuyw)
 [![Copano Rickey](https://raw.githubusercontent.com/reindex-ot/reindex-ot.github.io/main/image/copanorickey.jpg)](https://umamusume.jp/character/detail/?name=copanorickey)
 <br>
-#暴言のコーナー
+# 暴言のコーナー
 日本語が読める人は色々察してね。<br>
 善意という事で色々と奔走(笑)している感じですが、XDAの民度の低さや運営のスパム対応をしてくれないなどの不満が積もっている最近です。「スタックした戻せない!助けろ!」とかEDLのROMを出したら「何、冗談言ってるの(笑)」とか。正直XDAで情報出したりするのボイコットしてやろうと思っているレベルです。<br>
 だったら言ってるテメェらがやれや!!うるせーーーーーー!!知らねぇーーーーーー!!<br>

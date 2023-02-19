@@ -48,10 +48,11 @@ Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can 
 [v1.1.6 (Global)](https://mega.nz/file/WtREnCSa#6bC6HPSjXoIVTdYDZGv-57C-4v0LOx6IgC1L4klRQnA)<br>
 [v1.1.7 (Global)](https://mega.nz/file/a1p3nbbK#4ofRZ_466eyt6p6n51qti2YS5tVZ_dzhz5K2MnjZ7UM)<br>
 [v1.1.8 (Global)](https://mega.nz/file/rwgl0A4T#fgOhTyRDJA0O3Ptzrt74ZvStSQ_JcV_Kj7ZOyw14fvE)<br>
+[v1.1.8 (Global)→v1.5.2](https://mega.nz/file/H9gjzSQa#iQ7XTS8yvhASakQ8TJuoQ_xjxwY9j0r636ajwvE-SXk)<br>
 [v1.5.0 (Beta1) (Global)](https://mega.nz/file/T9xSyRzL#eamdfM3ym0q43UDWcGwPBFzausPlAKmL4D1Hw3VjfD4)<br>
 [v1.5.1 (Beta2)](https://mega.nz/file/W0wlGJzJ#nCzWu7kY4ZTjvR8EiuVnSYx-sc-76gNqZ7Awj8FYUs0)<br>
 [v1.5.1 (Beta2) (HotFix)](https://mega.nz/file/T1oXVYhB#qfvHzfAgc2719yDHyZUrPgoTaqzMRA6sBtKUP8cwV68)<br>
-[v1.5.2](https://mega.nz/file/Ol40XQJB#tMW-U9IlkRWwxBBDLckc0jKesxAPrkVmJE2-CPwH5Hk)<br>
+[v1.5.1 (Beta2) (HotFix)→v1.5.2](https://mega.nz/file/Ol40XQJB#tMW-U9IlkRWwxBBDLckc0jKesxAPrkVmJE2-CPwH5Hk)<br>
 
 - <b>Nothing Phone(1) QFIL ROM (EDL Command or EDL Cable V1/V2 Required)</b><br>
 [QFIL ROM](https://mega.nz/file/qsxghKII#o_3XjvE321jWhOhNuFL92I9nBuPvezmY-ggCR_Zso4A)<br>

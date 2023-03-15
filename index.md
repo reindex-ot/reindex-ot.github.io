@@ -25,6 +25,7 @@ Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can 
 [v1.5.1 (Beta2)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.5.1_Beta_Global.zip?raw=true)<br>
 [v1.5.1 (Beta2) (HotFix)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.5.1(hotfix)_Beta.zip?raw=true)<br>
 [v1.5.2](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.5.2.zip?raw=true)<br>
+[v1.5.3](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.5.3.zip?raw=true)<br>
 
 - <b>Nothing Phone(1) Fastboot ROM (GoogleDrive)</b><br>
 [v1.1.0 (Global)](https://drive.google.com/file/d/1-Gdamvxs1tMBcQvRIUoG_EbdFaaglfnS/view?usp=sharing)<br>
@@ -37,6 +38,7 @@ Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can 
 [v1.5.1 (Beta2)](https://drive.google.com/file/d/1kFsNFPL-K_UAu4Zl2mdhjRUETb9yuoU_/view?usp=sharing)<br>
 [v1.5.1 (Beta2) (HotFix)](https://drive.google.com/file/d/1TeBJMFBLEc0iDJlwC9bb_pmfB_eBUOrd/view?usp=sharing)<br>
 [v1.5.2](https://drive.google.com/file/d/1AMWLqBio2Ix2fdufWY05Tc8C1_E0HNdb/view?usp=sharing)<br>
+[v1.5.3](https://drive.google.com/file/d/1QrMXDDUZMs6B-n-RN6LPvPX8wYK-bcbe/view?usp=shareing)<br>
 
 - <b>Nothing Phone(1) Local OTA Files (MEGA)</b><br>
 [v1.1.0 (Global)](https://mega.nz/file/G8g0yCAb#Hcd1U7LK-Q4XpLKjDzOV3HKkRzo7deYSvI42aIIYuY0)<br>
@@ -53,6 +55,7 @@ Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can 
 [v1.5.1 (Beta2)](https://mega.nz/file/W0wlGJzJ#nCzWu7kY4ZTjvR8EiuVnSYx-sc-76gNqZ7Awj8FYUs0)<br>
 [v1.5.1 (Beta2) (HotFix)](https://mega.nz/file/T1oXVYhB#qfvHzfAgc2719yDHyZUrPgoTaqzMRA6sBtKUP8cwV68)<br>
 [v1.5.1 (Beta2) (HotFix)→v1.5.2](https://mega.nz/file/Ol40XQJB#tMW-U9IlkRWwxBBDLckc0jKesxAPrkVmJE2-CPwH5Hk)<br>
+[1.5.3](https://mega.nz/file/Pw51nB7J#y6Duo-HnYsjNFZla8tIXoLad3vd3dpppiaUXKSvE16c)<br>
 
 - <b>Nothing Phone(1) QFIL ROM (EDL Command or EDL Cable V1/V2 Required)</b><br>
 [QFIL ROM](https://mega.nz/file/qsxghKII#o_3XjvE321jWhOhNuFL92I9nBuPvezmY-ggCR_Zso4A)<br>

@@ -55,7 +55,7 @@ Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can 
 [v1.5.1 (Beta2)](https://mega.nz/file/W0wlGJzJ#nCzWu7kY4ZTjvR8EiuVnSYx-sc-76gNqZ7Awj8FYUs0)<br>
 [v1.5.1 (Beta2) (HotFix)](https://mega.nz/file/T1oXVYhB#qfvHzfAgc2719yDHyZUrPgoTaqzMRA6sBtKUP8cwV68)<br>
 [v1.5.1 (Beta2) (HotFix)→v1.5.2](https://mega.nz/file/Ol40XQJB#tMW-U9IlkRWwxBBDLckc0jKesxAPrkVmJE2-CPwH5Hk)<br>
-[1.5.3](https://mega.nz/file/Pw51nB7J#y6Duo-HnYsjNFZla8tIXoLad3vd3dpppiaUXKSvE16c)<br>
+[v1.5.3](https://mega.nz/file/Pw51nB7J#y6Duo-HnYsjNFZla8tIXoLad3vd3dpppiaUXKSvE16c)<br>
 
 - <b>Nothing Phone(1) QFIL ROM (EDL Command or EDL Cable V1/V2 Required)</b><br>
 [QFIL ROM](https://mega.nz/file/qsxghKII#o_3XjvE321jWhOhNuFL92I9nBuPvezmY-ggCR_Zso4A)<br>

@@ -8,6 +8,7 @@
 Nothing Phone(1)のFastboot ROMとboot.imgとRedme Note 10 JE(XIG02)のFastboot ROMなどを公開しています。<br>
 Fastboot ROMやOTAのやり方を作りました。[こちら](https://reindex-ot.github.io/how_to_use)です。<br>
 Nothingはv1.5.1からGlobalとEEAが統合されました。それ以降はデバイスを問わず使用可能です。<br>
+v1.5.3(HotFix)からファイル名をSpacewarに変更する事にしました。<br>
 <br>
 <b>English (DeepL)</b><br>
 Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 10 JE (XIG02) are available.<br>
@@ -26,6 +27,7 @@ Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can 
 [v1.5.1 (Beta2) (HotFix)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.5.1(hotfix)_Beta.zip?raw=true)<br>
 [v1.5.2](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.5.2.zip?raw=true)<br>
 [v1.5.3](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.5.3.zip?raw=true)<br>
+[v1.5.3 (HotFix)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v1.5.3_hotfix.zip?raw=true)<br>
 
 - <b>Nothing Phone(1) Fastboot ROM (GoogleDrive)</b><br>
 [v1.1.0 (Global)](https://drive.google.com/file/d/1-Gdamvxs1tMBcQvRIUoG_EbdFaaglfnS/view?usp=sharing)<br>
@@ -39,6 +41,7 @@ Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can 
 [v1.5.1 (Beta2) (HotFix)](https://drive.google.com/file/d/1TeBJMFBLEc0iDJlwC9bb_pmfB_eBUOrd/view?usp=sharing)<br>
 [v1.5.2](https://drive.google.com/file/d/1AMWLqBio2Ix2fdufWY05Tc8C1_E0HNdb/view?usp=sharing)<br>
 [v1.5.3](https://drive.google.com/file/d/1QrMXDDUZMs6B-n-RN6LPvPX8wYK-bcbe/view?usp=shareing)<br>
+[v1.5.3 (HotFix)](https://drive.google.com/file/d/1A2CkheDJXKa_9KVNtJFdy60-CULJH3oK/view?usp=shareing)<br>
 
 - <b>Nothing Phone(1) Local OTA Files (MEGA)</b><br>
 [v1.1.0 (Global)](https://mega.nz/file/G8g0yCAb#Hcd1U7LK-Q4XpLKjDzOV3HKkRzo7deYSvI42aIIYuY0)<br>
@@ -56,6 +59,7 @@ Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can 
 [v1.5.1 (Beta2) (HotFix)](https://mega.nz/file/T1oXVYhB#qfvHzfAgc2719yDHyZUrPgoTaqzMRA6sBtKUP8cwV68)<br>
 [v1.5.1 (Beta2) (HotFix)→v1.5.2](https://mega.nz/file/Ol40XQJB#tMW-U9IlkRWwxBBDLckc0jKesxAPrkVmJE2-CPwH5Hk)<br>
 [v1.5.3](https://mega.nz/file/Pw51nB7J#y6Duo-HnYsjNFZla8tIXoLad3vd3dpppiaUXKSvE16c)<br>
+[v1.5.3 (HotFix)](https://mega.nz/file/zoRUEApa#fyF0DPpGAfhOEuxz0kh3aSyV0gXDpdc9LlvAC6cOr2A)<br>
 
 - <b>Nothing Phone(1) QFIL ROM (EDL Command or EDL Cable V1/V2 Required)</b><br>
 [QFIL ROM](https://mega.nz/file/qsxghKII#o_3XjvE321jWhOhNuFL92I9nBuPvezmY-ggCR_Zso4A)<br>

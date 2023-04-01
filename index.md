@@ -99,6 +99,13 @@ fastbootのバージョンによってfastbootでブートループを起こす�
 - <b>OOS13 Tools</b><br>
 [Fuck OrangeState (Orange State Boot Messeage Remover)](https://drive.google.com/file/d/1MUlZYzqKGtAV4iqjjWHT4MMQe906LvmV/view?usp=sharing)<br>
 
+## 📱Legion Y700
+- <b>Legion Y700 Fastboot ROM (MediaFire)</b><br>
+[v13.0.586 (Shop ROM)](https://www.mediafire.com/file/nxqlivgbpj3unlf/LEGION_Y700_ShopROM_13.0.586.7z/)<br>
+[v13.1.578](https://www.mediafire.com/file/vr7vh9xy8f5z8w8/LEGION_Y700_StockROM_13.1.578.7z/)<br>
+[v14.0.197](https://www.mediafire.com/file/hl7yj1140sw0ck9/LEGION_Y700_StockROM_14.0.197.7z/)<br>
+[v14.0.231](https://www.mediafire.com/file/a02vf3dfex0t8nm/LEGION_Y700_StockROM_14.0.231.7z/)<br>
+
 ## 📱Xperia 1
 - <b>Xperia 1 Files</b><br>
 [Xperia 1 (Japan) dtbo,vbmeta,boot](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/Xperia/Xperia1_JP_dtbo,vbmeta,boot.7z?raw=true)<br>

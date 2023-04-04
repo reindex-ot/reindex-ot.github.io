@@ -15,7 +15,7 @@ Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 1
 I made a Fastboot ROM and OTA instructions. [Here](https://reindex-ot.github.io/how_to_use) it is.<br>
 Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can be used on any device.<br>
 
-## 💻Required Tool (⚠Be sure to do this before using Fastboot ROM!)<br>
+## 💻Required Tool (⚠Be sure to do this before using Fastboot ROM!)
 <b>Japanese (日本語)</b><br>
 各種Fastboot ROMを使用する前にこのツールを使って最新のadb/fastboot環境に必ずアップデートを行なう事を推奨します。<br>
 バージョンが古い場合、fastbootでブートループを起こす症状が発生する場合があります。<br>

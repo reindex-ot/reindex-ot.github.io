@@ -14,6 +14,20 @@ v1.5.3(HotFix)からファイル名をSpacewarに変更する事にしました�
 Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 10 JE (XIG02) are available.<br>
 I made a Fastboot ROM and OTA instructions. [Here](https://reindex-ot.github.io/how_to_use) it is.<br>
 Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can be used on any device.<br>
+
+## 💻Required Tool (⚠Be sure to do this before using Fastboot ROM!)<br>
+<b>Japanese (日本語)</b><br>
+各種Fastboot ROMを使用する前にこのツールを使って最新のadb/fastboot環境に必ずアップデートを行なう事を推奨します。<br>
+バージョンが古い場合、fastbootでブートループを起こす症状が発生する場合があります。<br>
+指示に素直に従わない奴は一生ブートループしていろ。<br>
+
+<b>English (DeepL)</b><br>
+It is recommended that you update to the latest adb/fastboot environment using this tool before using the various fastboot ROMs. <br>
+Older versions may cause bootloops during fastboot.<br>
+Anyone who doesn't follow instructions honestly should bootloop for the rest of his life.<br>
+
+[15 Seconds Online ADB Installer and Updater](https://www.mediafire.com/file/lpjnhw7ii7nnmob/15_Seconds_Online_ADB_Installer_and_Updater.zip/)
+
 ## 📱Nothing Phone(1)
 - <b>Nothing Phone(1) boot.img Files (Magisk patched boot included)</b><br>
 [v1.1.0 (Global)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.0_Global.zip?raw=true)<br>
@@ -74,9 +88,6 @@ Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can 
 
 ## 📱Redmi Note 10 JE (XIG02)
 - <b>Redme Note 10 JE Fastboot ROM (GoogleDrive)</b><br>
-⚠ If you experience a bootloop with fastboot, please use latest fastboot or r29.0.5.<br>
-fastbootのバージョンによってfastbootでブートループを起こす症状が起きる場合があります。<br>
-「最新版のfastboot」か「r29.0.5のfastboot」を使用してください。<br><br>
 ⚠ The partition size has changed since "v14.0.4.0". It is recommended to OTA with "v13.0.10.0" just to be safe.<br>
 「v14.0.4.0」以降からパーティションのサイズが変っています。念の為に一度「v13.0.10.0」でOTAを行なう事を推奨します。<br><br>
 [v12.5.12.0 (RKRJPKD)](https://drive.google.com/file/d/1bM8MV-fR91U4Aj10ukmW4A0R5PsCAh9D/view?usp=sharing)<br>

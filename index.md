@@ -111,11 +111,15 @@ Anyone who doesn't follow instructions honestly should bootloop for the rest of 
 [Fuck OrangeState (Orange State Boot Messeage Remover)](https://drive.google.com/file/d/1MUlZYzqKGtAV4iqjjWHT4MMQe906LvmV/view?usp=sharing)<br>
 
 ## 📱Legion Y700
+- <b>Legion Y700 QFIL ROM (EDL command/button combo/EDL Cable V2 Required) / (MediaFire)</b><br>
+[QFIL ROM](https://www.mediafire.com/file/dwu5qmb59hu6dk0/LEGION_Stock_EDL.7z/)
 - <b>Legion Y700 Fastboot ROM (MediaFire)</b><br>
-[v13.0.586 (Shop ROM)](https://www.mediafire.com/file/nxqlivgbpj3unlf/LEGION_Y700_ShopROM_13.0.586.7z/)<br>
-[v13.1.578](https://www.mediafire.com/file/vr7vh9xy8f5z8w8/LEGION_Y700_StockROM_13.1.578.7z/)<br>
-[v14.0.197](https://www.mediafire.com/file/hl7yj1140sw0ck9/LEGION_Y700_StockROM_14.0.197.7z/)<br>
-[v14.0.231](https://www.mediafire.com/file/a02vf3dfex0t8nm/LEGION_Y700_StockROM_14.0.231.7z/)<br>
+[v13.0.586 (Shop ROM)](https://www.mediafire.com/file/deevf55yizd667m/LEGION_Y700_ShopROM_13.0.586.7z/)<br>
+[v13.1.578](https://www.mediafire.com/file/wyq924hz13bj5s8/LEGION_Y700_StockROM_13.1.578.7z/)<br>
+[v14.0.197](https://www.mediafire.com/file/9mg5gphdpv363e3/LEGION_Y700_StockROM_14.0.197.7z/)<br>
+[v14.0.231](https://www.mediafire.com/file/gojkcrdm6q1zr49/LEGION_Y700_StockROM_14.0.231.7z/)<br>
+- <b>Legion Y700 Stock/MIUI/Shop ROM v13.0.586 based (MediaFire)</b><br>
+[Download](https://www.mediafire.com/file/xs0zj9nnmen5i7j/Y700_v13.0.586_ROM.7z/)<br>
 
 ## 📱Xperia 1
 - <b>Xperia 1 Files</b><br>

@@ -87,7 +87,7 @@ Anyone who doesn't follow instructions honestly should bootloop for the rest of 
 [Ndot to Roboto](https://github.com/reindex-ot/Ndot-to-Roboto)<br>
 
 ## 📱Redmi Note 10 JE (XIG02)
-- <b>Redme Note 10 JE Fastboot ROM (GoogleDrive)</b><br>
+- <b>Redme Note 10 JE Fastboot ROM (GoogleDrive/MediaFire)</b><br>
 ⚠ The partition size has changed since "v14.0.4.0". It is recommended to OTA with "v13.0.10.0" just to be safe.<br>
 「v14.0.4.0」以降からパーティションのサイズが変っています。念の為に一度「v13.0.10.0」でOTAを行なう事を推奨します。<br><br>
 [v12.5.12.0 (RKRJPKD)](https://drive.google.com/file/d/1bM8MV-fR91U4Aj10ukmW4A0R5PsCAh9D/view?usp=sharing)<br>
@@ -98,6 +98,7 @@ Anyone who doesn't follow instructions honestly should bootloop for the rest of 
 [v13.0.9.0 (SKRJPKD)](https://drive.google.com/file/d/1DLoJhGQL5Z0xGkXbWIPuBzZnJwTLAlGu/view?usp=sharing)<br>
 [v13.0.10.0 (SKRJPKD)](https://drive.google.com/file/d/1kcAmCEv0xBI6eB-Y4iZdLtUAUa02Ajbe/view?usp=shareing)<br>
 [v14.0.4.0 (TKRJPKD)](https://drive.google.com/file/d/1ejbOBN_86wmeCeeBGurvzjnHNL0NnrEH/view?usp=shareing)<br>
+[v14.0.9.0 (TKRJPKD)](https://www.mediafire.com/file/ob8nu2bct223es3/Xiaomi_Iris_XIG02_MIUI_V14.0.9.0_TKRJPKD.7z/)<br>
 
 - <b>XIG02 Tools</b><br>
 [XIG02 Bloatware Remover & Disabler](https://drive.google.com/file/d/1EMQ6pax-Boj67xyCixEF7Ql5oX_CtHKe/view?usp=sharing)<br>

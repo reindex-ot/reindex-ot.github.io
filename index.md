@@ -3,7 +3,7 @@
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCE5tVfXXLSonqBJ1GZmLuyw?style=flat&logo=youtube)](https://www.youtube.com/channel/UCE5tVfXXLSonqBJ1GZmLuyw)
 [![Copano Rickey](https://raw.githubusercontent.com/reindex-ot/reindex-ot.github.io/main/image/copanorickey.jpg)](https://umamusume.jp/character/detail/?name=copanorickey)
 <br>
-## 📖About
+# 📖About this GitHub Pages
 <b>Japanese (日本語)</b><br>
 Nothing Phone(1)のFastboot ROMとboot.imgとRedme Note 10 JE(XIG02)のFastboot ROMなどを公開しています。<br>
 Fastboot ROMやOTAのやり方を作りました。[こちら](https://reindex-ot.github.io/how_to_use)です。<br>
@@ -15,7 +15,28 @@ Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 1
 I made a Fastboot ROM and OTA instructions. [Here](https://reindex-ot.github.io/how_to_use) it is.<br>
 Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can be used on any device.<br>
 
-## 💻Required Tool (⚠Be sure to do this before using Fastboot ROM!)
+# 👤この人について
+私はしがない日本人です。<br>
+アプリケーションの日本語化とか色々やってますが、英語の能力はそれ程高くないです。<br>
+詳細はGitHubのプロフィールをどうぞ。<br>
+
+[GitHubのプロフィール](https://github.com/reindex-ot)<br>
+
+ここ最近私が公開しているFastboot ROM使って「文鎮化しただの」「スタックしただの」と難癖付ける輩がXDAと言った界隈にいるのでやる気飛びまくってます。Bootloader UnlockやROM焼きは「自己責任な世界」と思うのでリスクの回避をする事は学んで欲しいです。(あまりにも酷い事になった場合は配布をやめる事も視野に入れる程でした)<br>
+「TelegramのNothing Phone(1)のコミュニティの方々」や「ROM焼き試験場の方々」にはすごく励まされています。本当に感謝です。🌹<br>
+
+# 💰Donate
+<b>Japanese (日本語)</b><br>
+この人に救いの手を差し出してくれるならお願いします。マジで疲れました。<br>
+<b>English (DeepL)</b><br>
+Please, if you can offer this person a helping hand, please do. I am seriously tired.<br>
+
+<b>Kyash (Kyash app user only)</b><br>
+![Kyash](https://github.com/reindex-ot/reindex-ot/blob/main/image/kyash_qr.png?raw=true)<br>
+<b>PayPal:</b> [https://paypal.me/reindex](https://paypal.me/reindex)<br>
+<b>Revolut:</b> [https://revolut.me/reindex](https://revolut.me/reindex)<br>
+
+# 💻Required Tool (⚠Be sure to do this before using Fastboot ROM!)
 <b>Japanese (日本語)</b><br>
 各種Fastboot ROMを使用する前にこのツールを使って最新のadb/fastboot環境に必ずアップデートを行なう事を推奨します。<br>
 バージョンが古い場合、fastbootでブートループを起こす症状が発生する場合があります。<br>
@@ -152,14 +173,3 @@ Anyone who doesn't follow instructions honestly should bootloop for the rest of 
 [J8210 (Global) - 55.2.A.4.332 (A11)](https://mega.nz/file/rh4VDLZa#K7ItHp1KpWWTpBqjQh5BMB_iseK6O0STin5cVMNOctc)<br>
 [J9260 (Japan/DualSIM) - 55.2.A.4.332 (A11)](https://mega.nz/file/q8YhkCTC#juZWd6fqSDl3bibpN37uQioywpJQtCJE9I7eNSokHZ8)<br>
 [J9210 (Global/DualSIM) - 55.2.A.4.332 (A11)](https://mega.nz/file/PtgCVJKZ#3ueuP49YKmcj39aUGtLvQr_C-o9L8L-0tWJzIFWq-ns)<br>
-
-
-# 👤この人について
-私は、日本人です。<br>
-アプリケーションの日本語化とか色々やってますが、英語の能力はそれ程高くないです。詳細はGitHubのプロフィールをどうぞ。<br>
-[GitHubのプロフィール](https://github.com/reindex-ot)<br>
-
-# 👤About (Translation DeepL)
-I am Japanese.<br>
-I do a lot of things like making applications Japanese, but my English skills are not that great. For more information, please visit my GitHub profile.<br>
-[GitHub Profile](https://github.com/reindex-ot)<br>

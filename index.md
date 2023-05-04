@@ -3,16 +3,53 @@
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCE5tVfXXLSonqBJ1GZmLuyw?style=flat&logo=youtube)](https://www.youtube.com/channel/UCE5tVfXXLSonqBJ1GZmLuyw)
 [![Copano Rickey](https://raw.githubusercontent.com/reindex-ot/reindex-ot.github.io/main/image/copanorickey.jpg)](https://umamusume.jp/character/detail/?name=copanorickey)
 <br>
-## 📖About
+# 📖About this GitHub Pages
 <b>Japanese (日本語)</b><br>
 Nothing Phone(1)のFastboot ROMとboot.imgとRedme Note 10 JE(XIG02)のFastboot ROMなどを公開しています。<br>
 Fastboot ROMやOTAのやり方を作りました。[こちら](https://reindex-ot.github.io/how_to_use)です。<br>
 Nothingはv1.5.1からGlobalとEEAが統合されました。それ以降はデバイスを問わず使用可能です。<br>
+v1.5.3(HotFix)からファイル名をSpacewarに変更する事にしました。<br>
 <br>
 <b>English (DeepL)</b><br>
 Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 10 JE (XIG02) are available.<br>
 I made a Fastboot ROM and OTA instructions. [Here](https://reindex-ot.github.io/how_to_use) it is.<br>
 Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can be used on any device.<br>
+
+# 👤この人について
+私はしがない日本人です。<br>
+アプリケーションの日本語化とか色々やってますが、英語の能力はそれ程高くないです。<br>
+詳細はGitHubのプロフィールをどうぞ。<br>
+
+[GitHubのプロフィール](https://github.com/reindex-ot)<br>
+
+ここ最近私が公開しているFastboot ROM使って「文鎮化しただの」「スタックしただの」と難癖付ける輩がXDAと言った界隈にいるのでやる気飛びまくってます。Bootloader UnlockやROM焼きは「自己責任な世界」と思うのでリスクの回避をする事は学んで欲しいです。(あまりにも酷い事になった場合は配布をやめる事も視野に入れる程でした)<br>
+「TelegramのNothing Phone(1)のコミュニティの方々」や「ROM焼き試験場の方々」にはすごく励まされています。本当に感謝です。🌹<br>
+
+# 💰Donate
+<b>Japanese (日本語)</b><br>
+この人に救いの手を差し出してくれるならお願いします。マジで疲れました。<br>
+<b>English (DeepL)</b><br>
+Please, if you can offer this person a helping hand, please do. I am seriously tired.<br>
+
+<b>Kyash (Kyash app user only)</b><br>
+![Kyash](https://github.com/reindex-ot/reindex-ot/blob/main/image/kyash_qr.png?raw=true)<br>
+<b>PayPal:</b> [https://paypal.me/reindex](https://paypal.me/reindex)<br>
+<b>Revolut:</b> [https://revolut.me/reindex](https://revolut.me/reindex)<br>
+<b>Buy Me a Coffee:</b> [https://www.buymeacoffee.com/reindex](https://www.buymeacoffee.com/reindex)<br>
+
+# 💻Required Tool (⚠Be sure to do this before using Fastboot ROM!)
+<b>Japanese (日本語)</b><br>
+各種Fastboot ROMを使用する前にこのツールを使って最新のadb/fastboot環境に必ずアップデートを行なう事を推奨します。<br>
+バージョンが古い場合、fastbootでブートループを起こす症状が発生する場合があります。<br>
+指示に素直に従わない奴は一生ブートループしていろ。<br>
+
+<b>English (DeepL)</b><br>
+It is recommended that you update to the latest adb/fastboot environment using this tool before using the various fastboot ROMs. <br>
+Older versions may cause bootloops during fastboot.<br>
+Anyone who doesn't follow instructions honestly should bootloop for the rest of his life.<br>
+
+[15 Seconds Online ADB Installer and Updater](https://www.mediafire.com/file/lpjnhw7ii7nnmob/15_Seconds_Online_ADB_Installer_and_Updater.zip/)
+
 ## 📱Nothing Phone(1)
 - <b>Nothing Phone(1) boot.img Files (Magisk patched boot included)</b><br>
 [v1.1.0 (Global)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.0_Global.zip?raw=true)<br>
@@ -26,6 +63,7 @@ Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can 
 [v1.5.1 (Beta2) (HotFix)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.5.1(hotfix)_Beta.zip?raw=true)<br>
 [v1.5.2](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.5.2.zip?raw=true)<br>
 [v1.5.3](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.5.3.zip?raw=true)<br>
+[v1.5.3 (HotFix)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v1.5.3_hotfix.zip?raw=true)<br>
 
 - <b>Nothing Phone(1) Fastboot ROM (GoogleDrive)</b><br>
 [v1.1.0 (Global)](https://drive.google.com/file/d/1-Gdamvxs1tMBcQvRIUoG_EbdFaaglfnS/view?usp=sharing)<br>
@@ -39,6 +77,7 @@ Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can 
 [v1.5.1 (Beta2) (HotFix)](https://drive.google.com/file/d/1TeBJMFBLEc0iDJlwC9bb_pmfB_eBUOrd/view?usp=sharing)<br>
 [v1.5.2](https://drive.google.com/file/d/1AMWLqBio2Ix2fdufWY05Tc8C1_E0HNdb/view?usp=sharing)<br>
 [v1.5.3](https://drive.google.com/file/d/1QrMXDDUZMs6B-n-RN6LPvPX8wYK-bcbe/view?usp=shareing)<br>
+[v1.5.3 (HotFix)](https://drive.google.com/file/d/1A2CkheDJXKa_9KVNtJFdy60-CULJH3oK/view?usp=shareing)<br>
 
 - <b>Nothing Phone(1) Local OTA Files (MEGA)</b><br>
 [v1.1.0 (Global)](https://mega.nz/file/G8g0yCAb#Hcd1U7LK-Q4XpLKjDzOV3HKkRzo7deYSvI42aIIYuY0)<br>
@@ -56,6 +95,7 @@ Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can 
 [v1.5.1 (Beta2) (HotFix)](https://mega.nz/file/T1oXVYhB#qfvHzfAgc2719yDHyZUrPgoTaqzMRA6sBtKUP8cwV68)<br>
 [v1.5.1 (Beta2) (HotFix)→v1.5.2](https://mega.nz/file/Ol40XQJB#tMW-U9IlkRWwxBBDLckc0jKesxAPrkVmJE2-CPwH5Hk)<br>
 [v1.5.3](https://mega.nz/file/Pw51nB7J#y6Duo-HnYsjNFZla8tIXoLad3vd3dpppiaUXKSvE16c)<br>
+[v1.5.3 (HotFix)](https://mega.nz/file/zoRUEApa#fyF0DPpGAfhOEuxz0kh3aSyV0gXDpdc9LlvAC6cOr2A)<br>
 
 - <b>Nothing Phone(1) QFIL ROM (EDL Command or EDL Cable V1/V2 Required)</b><br>
 [QFIL ROM](https://mega.nz/file/qsxghKII#o_3XjvE321jWhOhNuFL92I9nBuPvezmY-ggCR_Zso4A)<br>
@@ -69,10 +109,7 @@ Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can 
 [Ndot to Roboto](https://github.com/reindex-ot/Ndot-to-Roboto)<br>
 
 ## 📱Redmi Note 10 JE (XIG02)
-- <b>Redme Note 10 JE Fastboot ROM (GoogleDrive)</b><br>
-⚠ If you experience a bootloop with fastboot, please use latest fastboot or r29.0.5.<br>
-fastbootのバージョンによってfastbootでブートループを起こす症状が起きる場合があります。<br>
-「最新版のfastboot」か「r29.0.5のfastboot」を使用してください。<br><br>
+- <b>Redme Note 10 JE Fastboot ROM (GoogleDrive/MediaFire)</b><br>
 ⚠ The partition size has changed since "v14.0.4.0". It is recommended to OTA with "v13.0.10.0" just to be safe.<br>
 「v14.0.4.0」以降からパーティションのサイズが変っています。念の為に一度「v13.0.10.0」でOTAを行なう事を推奨します。<br><br>
 [v12.5.12.0 (RKRJPKD)](https://drive.google.com/file/d/1bM8MV-fR91U4Aj10ukmW4A0R5PsCAh9D/view?usp=sharing)<br>
@@ -83,6 +120,7 @@ fastbootのバージョンによってfastbootでブートループを起こす�
 [v13.0.9.0 (SKRJPKD)](https://drive.google.com/file/d/1DLoJhGQL5Z0xGkXbWIPuBzZnJwTLAlGu/view?usp=sharing)<br>
 [v13.0.10.0 (SKRJPKD)](https://drive.google.com/file/d/1kcAmCEv0xBI6eB-Y4iZdLtUAUa02Ajbe/view?usp=shareing)<br>
 [v14.0.4.0 (TKRJPKD)](https://drive.google.com/file/d/1ejbOBN_86wmeCeeBGurvzjnHNL0NnrEH/view?usp=shareing)<br>
+[v14.0.9.0 (TKRJPKD)](https://www.mediafire.com/file/ob8nu2bct223es3/Xiaomi_Iris_XIG02_MIUI_V14.0.9.0_TKRJPKD.7z/)<br>
 
 - <b>XIG02 Tools</b><br>
 [XIG02 Bloatware Remover & Disabler](https://drive.google.com/file/d/1EMQ6pax-Boj67xyCixEF7Ql5oX_CtHKe/view?usp=sharing)<br>
@@ -94,6 +132,17 @@ fastbootのバージョンによってfastbootでブートループを起こす�
 ## 📱OnePlus 9
 - <b>OOS13 Tools</b><br>
 [Fuck OrangeState (Orange State Boot Messeage Remover)](https://drive.google.com/file/d/1MUlZYzqKGtAV4iqjjWHT4MMQe906LvmV/view?usp=sharing)<br>
+
+## 📱Legion Y700
+- <b>Legion Y700 QFIL ROM (EDL command/button combo/EDL Cable V2 Required) / (MediaFire)</b><br>
+[QFIL ROM](https://www.mediafire.com/file/dwu5qmb59hu6dk0/LEGION_Stock_EDL.7z/)
+- <b>Legion Y700 Fastboot ROM (MediaFire)</b><br>
+[v13.0.586 (Shop ROM)](https://www.mediafire.com/file/deevf55yizd667m/LEGION_Y700_ShopROM_13.0.586.7z/)<br>
+[v13.1.578](https://www.mediafire.com/file/wyq924hz13bj5s8/LEGION_Y700_StockROM_13.1.578.7z/)<br>
+[v14.0.197](https://www.mediafire.com/file/9mg5gphdpv363e3/LEGION_Y700_StockROM_14.0.197.7z/)<br>
+[v14.0.231](https://www.mediafire.com/file/gojkcrdm6q1zr49/LEGION_Y700_StockROM_14.0.231.7z/)<br>
+- <b>Legion Y700 Stock/MIUI/Shop ROM v13.0.586 based (MediaFire)</b><br>
+[Download](https://www.mediafire.com/file/xs0zj9nnmen5i7j/Y700_v13.0.586_ROM.7z/)<br>
 
 ## 📱Xperia 1
 - <b>Xperia 1 Files</b><br>
@@ -125,14 +174,3 @@ fastbootのバージョンによってfastbootでブートループを起こす�
 [J8210 (Global) - 55.2.A.4.332 (A11)](https://mega.nz/file/rh4VDLZa#K7ItHp1KpWWTpBqjQh5BMB_iseK6O0STin5cVMNOctc)<br>
 [J9260 (Japan/DualSIM) - 55.2.A.4.332 (A11)](https://mega.nz/file/q8YhkCTC#juZWd6fqSDl3bibpN37uQioywpJQtCJE9I7eNSokHZ8)<br>
 [J9210 (Global/DualSIM) - 55.2.A.4.332 (A11)](https://mega.nz/file/PtgCVJKZ#3ueuP49YKmcj39aUGtLvQr_C-o9L8L-0tWJzIFWq-ns)<br>
-
-
-# 👤この人について
-私は、日本人です。<br>
-アプリケーションの日本語化とか色々やってますが、英語の能力はそれ程高くないです。詳細はGitHubのプロフィールをどうぞ。<br>
-[GitHubのプロフィール](https://github.com/reindex-ot)<br>
-
-# 👤About (Translation DeepL)
-I am Japanese.<br>
-I do a lot of things like making applications Japanese, but my English skills are not that great. For more information, please visit my GitHub profile.<br>
-[GitHub Profile](https://github.com/reindex-ot)<br>

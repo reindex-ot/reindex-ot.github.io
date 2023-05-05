@@ -8,7 +8,7 @@
 Nothing Phone(1)のFastboot ROMとboot.imgとRedme Note 10 JE(XIG02)のFastboot ROMなどを公開しています。<br>
 Fastboot ROMやOTAのやり方を作りました。[こちら](https://reindex-ot.github.io/how_to_use)です。<br>
 Nothingはv1.5.1からGlobalとEEAが統合されました。それ以降はデバイスを問わず使用可能です。<br>
-v1.5.3(HotFix)からファイル名をSpacewarに変更する事にしました。<br>
+各種ファイルのアップロード先をSourceForgeに移行しました。MediaFireやGoogleDrive、MEGAなどにアップされたファイルは一定期間残した後に削除します。<br>
 <br>
 <b>English (DeepL)</b><br>
 Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 10 JE (XIG02) are available.<br>
@@ -66,41 +66,44 @@ Anyone who doesn't follow instructions honestly should bootloop for the rest of 
 [v1.5.3 (HotFix)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v1.5.3_hotfix.zip?raw=true)<br>
 [v1.5.4](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v1.5.4.zip?raw=true)<br>
 
-- <b>Nothing Phone(1) Fastboot ROM (GoogleDrive)</b><br>
-[v1.1.0 (Global)](https://drive.google.com/file/d/1-Gdamvxs1tMBcQvRIUoG_EbdFaaglfnS/view?usp=sharing)<br>
-[v1.1.3 (Global)](https://drive.google.com/file/d/1kuGrqfM0HqPx8KcRZgag4e9exWig_y-f/view?usp=sharing)<br>
-[v1.1.4 (Global)](https://drive.google.com/file/d/1-oqPz1IYrlXhDUR8F_prgtBgKFS2Jzpo/view?usp=sharing)<br>
-[v1.1.5 (Global)](https://drive.google.com/file/d/1YzJd7FAGDn04eog-5VC9uzrp45PZYJOb/view?usp=sharing)<br>
-[v1.1.6 (Global)](https://drive.google.com/file/d/13W7IWx_ObuOhZJgloK92nWT1F1gNLnGE/view?usp=sharing)<br>
-[v1.1.7 (Global)](https://drive.google.com/file/d/1ABPWLm8oQLfDft2bTdrf_U0cG8FA5MaK/view?usp=sharing)<br>
-[v1.5.0 (Beta1) (Global)](https://drive.google.com/file/d/1V1xlzbtBV06FnJH1mZp3FcQ152f01DkD/view?usp=sharing)<br>
-[v1.5.1 (Beta2)](https://drive.google.com/file/d/1kFsNFPL-K_UAu4Zl2mdhjRUETb9yuoU_/view?usp=sharing)<br>
-[v1.5.1 (Beta2) (HotFix)](https://drive.google.com/file/d/1TeBJMFBLEc0iDJlwC9bb_pmfB_eBUOrd/view?usp=sharing)<br>
-[v1.5.2](https://drive.google.com/file/d/1AMWLqBio2Ix2fdufWY05Tc8C1_E0HNdb/view?usp=sharing)<br>
-[v1.5.3](https://drive.google.com/file/d/1QrMXDDUZMs6B-n-RN6LPvPX8wYK-bcbe/view?usp=shareing)<br>
-[v1.5.3 (HotFix)](https://drive.google.com/file/d/1A2CkheDJXKa_9KVNtJFdy60-CULJH3oK/view?usp=shareing)<br>
+- <b>Nothing Phone(1) Fastboot ROM (SourceForge)</b><br>
+[v1.1.0 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.1.0_Global.rar/download)<br>
+[v1.1.3 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.1.3_Global.rar/download)<br>
+[v1.1.4 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.1.4_Global.7z/download)<br>
+[v1.1.5 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.1.5_Global.7z/download)<br>
+[v1.1.6 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.1.6_Global.7z/download)<br>
+[v1.1.7 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.1.7_Global.7z/download)<br>
+[v1.5.0 (Beta1) (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.5.0_Beta_Global.7z/download)<br>
+[v1.5.1 (Beta2)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.5.1_Beta.7z/download)<br>
+[v1.5.1 (Beta2) (HotFix)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.5.1_Beta%28hotfix%29.7z/download)<br>
+[v1.5.2](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.5.2.7z/download)<br>
+[v1.5.3](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.5.3.7z/download)<br>
+[v1.5.3 (HotFix)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.5.3_hotfix.7z/download)<br>
 [v1.5.4](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.5.4.7z/download)<br>
 
-- <b>Nothing Phone(1) Local OTA Files (MEGA)</b><br>
-[v1.1.0 (Global)](https://mega.nz/file/G8g0yCAb#Hcd1U7LK-Q4XpLKjDzOV3HKkRzo7deYSvI42aIIYuY0)<br>
-[v1.1.2 (Global)](https://mega.nz/file/D94AwbRA#pTGVDBcJ9ItdG8dheCctb6T3PwCz7tEBz5LA8f7ku6U)<br>
-[v1.1.3 (Global)](https://mega.nz/file/GoQGgZzD#L3Cm1dTtXPo1BFMCAV-cgM1kELWb_WJsWfwq0lrEuU0)<br>
-[v1.1.4 (Global)](https://mega.nz/file/bg5VFK6J#_e8i_QpNZXyEjEU2CjtZGK9lgb-XypFAcqXsz1BfjYg)<br>
-[v1.1.4 (HotFix) (Global)](https://mega.nz/file/X0BDHQoA#neBOopiUWQbHb1DKgtcQByf015nFT8zrY4VZ0sFfaG0)<br>
-[v1.1.5 (Global)](https://mega.nz/file/SpBRCDAK#iieoMySHHwkJWD4tJY7tNmESPOSZ05dTC6RKHRZEkqY)<br>
-[v1.1.6 (Global)](https://mega.nz/file/WtREnCSa#6bC6HPSjXoIVTdYDZGv-57C-4v0LOx6IgC1L4klRQnA)<br>
-[v1.1.7 (Global)](https://mega.nz/file/a1p3nbbK#4ofRZ_466eyt6p6n51qti2YS5tVZ_dzhz5K2MnjZ7UM)<br>
-[v1.1.8 (Global)](https://mega.nz/file/rwgl0A4T#fgOhTyRDJA0O3Ptzrt74ZvStSQ_JcV_Kj7ZOyw14fvE)<br>
-[v1.1.8 (Global)→v1.5.2](https://mega.nz/file/H9gjzSQa#iQ7XTS8yvhASakQ8TJuoQ_xjxwY9j0r636ajwvE-SXk)<br>
-[v1.5.0 (Beta1) (Global)](https://mega.nz/file/T9xSyRzL#eamdfM3ym0q43UDWcGwPBFzausPlAKmL4D1Hw3VjfD4)<br>
-[v1.5.1 (Beta2)](https://mega.nz/file/W0wlGJzJ#nCzWu7kY4ZTjvR8EiuVnSYx-sc-76gNqZ7Awj8FYUs0)<br>
-[v1.5.1 (Beta2) (HotFix)](https://mega.nz/file/T1oXVYhB#qfvHzfAgc2719yDHyZUrPgoTaqzMRA6sBtKUP8cwV68)<br>
-[v1.5.1 (Beta2) (HotFix)→v1.5.2](https://mega.nz/file/Ol40XQJB#tMW-U9IlkRWwxBBDLckc0jKesxAPrkVmJE2-CPwH5Hk)<br>
-[v1.5.3](https://mega.nz/file/Pw51nB7J#y6Duo-HnYsjNFZla8tIXoLad3vd3dpppiaUXKSvE16c)<br>
-[v1.5.3 (HotFix)](https://mega.nz/file/zoRUEApa#fyF0DPpGAfhOEuxz0kh3aSyV0gXDpdc9LlvAC6cOr2A)<br>
+- <b>Nothing Phone(1) Local OTA Files (SourceForge)</b><br>
+⚠ After the v1.5.4 update, you may have to change your time zone to Shanghai or Taiwan to get local updates.<br>
+v1.5.4のアップデート以降では「上海」または「台湾」にタイムゾーンを変更をしないとローカルアップデートができないかもしれません。<br><br>
+[v1.1.0 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.0.2_to_v1.1.0.zip/download)<br>
+[v1.1.2 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.0_to_v1.1.2.zip/download)<br>
+[v1.1.3 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.2_to_v1.1.3.zip/download)<br>
+[v1.1.4 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.3_to_v1.1.4.zip/download)<br>
+[v1.1.4 (HotFix) (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.4_to_v1.1.4hotfix.zip/download)<br>
+[v1.1.5 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.4_to_v1.1.5.zip/download)<br>
+[v1.1.6 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.5_to_v1.1.6.zip/download)<br>
+[v1.1.7 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.6_to_v1.1.7.zip/download)<br>
+[v1.1.8 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.7_to_v1.1.8.zip/download)<br>
+[v1.1.8 (Global)→v1.5.2](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.8_to_v1.5.2.zip/download)<br>
+[v1.5.0 (Beta1) (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.7_to_v1.5.0beta1.zip/download)<br>
+[v1.5.1 (Beta2)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.5.0beta1_to_v1.5.1beta2.zip/download)<br>
+[v1.5.1 (Beta2) (HotFix)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.5.1beta2_to_v1.5.1beta2hotfix.zip/download)<br>
+[v1.5.1 (Beta2) (HotFix)→v1.5.2](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.5.1beta2hotfix_to_v1.5.2.zip/download)<br>
+[v1.5.3](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.5.2_to_1.5.3.zip/download)<br>
+[v1.5.3 (HotFix)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.5.3_to_v1.5.3hotfix.zip/download)<br>
+[v1.5.4](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.5.3hotfix_to_v1.5.4.zip/download)<br>
 
 - <b>Nothing Phone(1) QFIL ROM (EDL Command or EDL Cable V1/V2 Required)</b><br>
-[QFIL ROM](https://mega.nz/file/qsxghKII#o_3XjvE321jWhOhNuFL92I9nBuPvezmY-ggCR_Zso4A)<br>
+[QFIL ROM](https://sourceforge.net/projects/nothingphone-1-rom/files/QFIL/qfil_nothing_phone.rar/download)<br>
 [Qualcomm Flash Image Loader](https://mega.nz/file/ypBG1ZzI#bw8D7p_48WpN7agvxwVH94XkzpGNXnWMk2zH6kupOS8)<br>
 [Qualcomm HS-USB QDLoader 9008 Driver](https://mega.nz/file/O4ZVSA6a#uK7003-5sLr0ISy37pNzoNwwBGDFqRW8HFMAUppVIyE)<br>
 ...Firehoseの確認はしたけど復旧できるかわからん。知らん。<br>
@@ -111,18 +114,19 @@ Anyone who doesn't follow instructions honestly should bootloop for the rest of 
 [Ndot to Roboto](https://github.com/reindex-ot/Ndot-to-Roboto)<br>
 
 ## 📱Redmi Note 10 JE (XIG02)
-- <b>Redme Note 10 JE Fastboot ROM (GoogleDrive/MediaFire)</b><br>
+- <b>Redme Note 10 JE Fastboot ROM (SourceForge)</b><br>
 ⚠ The partition size has changed since "v14.0.4.0". It is recommended to OTA with "v13.0.10.0" just to be safe.<br>
 「v14.0.4.0」以降からパーティションのサイズが変っています。念の為に一度「v13.0.10.0」でOTAを行なう事を推奨します。<br><br>
-[v12.5.12.0 (RKRJPKD)](https://drive.google.com/file/d/1bM8MV-fR91U4Aj10ukmW4A0R5PsCAh9D/view?usp=sharing)<br>
-[v13.0.4.0 (SKRJPKD)](https://drive.google.com/file/d/1OrBIFEGWaWJy76-XnCflxKZrnzF905wH/view?usp=sharing)<br>
-[v13.0.5.0 (SKRJPKD)](https://drive.google.com/file/d/1VwBi9Tp62L8rHauE2_CytKPlgqhlZ1VV/view?usp=sharing)<br>
-[v13.0.7.0 (SKRJPKD)](https://drive.google.com/file/d/1s4ZmdzNROjMww-_1PhEbyYY6TASxVYHn/view?usp=sharing)<br>
-[v13.0.8.0 (SKRJPKD)](https://drive.google.com/file/d/14NX6yPcQJSK5PTRszD83-Rk8ca1AXLQn/view?usp=sharing)<br>
-[v13.0.9.0 (SKRJPKD)](https://drive.google.com/file/d/1DLoJhGQL5Z0xGkXbWIPuBzZnJwTLAlGu/view?usp=sharing)<br>
-[v13.0.10.0 (SKRJPKD)](https://drive.google.com/file/d/1kcAmCEv0xBI6eB-Y4iZdLtUAUa02Ajbe/view?usp=shareing)<br>
-[v14.0.4.0 (TKRJPKD)](https://drive.google.com/file/d/1ejbOBN_86wmeCeeBGurvzjnHNL0NnrEH/view?usp=shareing)<br>
-[v14.0.9.0 (TKRJPKD)](https://www.mediafire.com/file/ob8nu2bct223es3/Xiaomi_Iris_XIG02_MIUI_V14.0.9.0_TKRJPKD.7z/)<br>
+[v12.5.12.0 (RKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V12.5.12.0_RKRJPKD.rar/download)<br>
+[v13.0.4.0 (SKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V13.0.4.0.SKRJPKD.rar/download)<br>
+[v13.0.5.0 (SKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V13.0.5.0.SKRJPKD.rar/download)<br>
+[v13.0.7.0 (SKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V13.0.7.0_SKRJPKD.rar/download)<br>
+[v13.0.8.0 (SKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V13.0.8.0_SKRJPKD.rar/download)<br>
+[v13.0.9.0 (SKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V13.0.9.0_SKRJPKD.rar/download)<br>
+[v13.0.10.0 (SKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V13.0.10.0_SKRJPKD.rar/download)<br>
+[v14.0.4.0 (TKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V14.0.4.0_TKRJPKD.7z/download)<br>
+[v14.0.9.0 (TKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V14.0.9.0_TKRJPKD.7z/download)<br>
+[v14.0.12.0 (TKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V14.0.12.0_TKRJPKD.7z/download)<br>
 
 - <b>XIG02 Tools</b><br>
 [XIG02 Bloatware Remover & Disabler](https://drive.google.com/file/d/1EMQ6pax-Boj67xyCixEF7Ql5oX_CtHKe/view?usp=sharing)<br>

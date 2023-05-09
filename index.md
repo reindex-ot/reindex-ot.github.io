@@ -123,7 +123,9 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 [v13.0.7.0 (SKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V13.0.7.0_SKRJPKD.rar/download)<br>
 [v13.0.8.0 (SKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V13.0.8.0_SKRJPKD.rar/download)<br>
 [v13.0.9.0 (SKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V13.0.9.0_SKRJPKD.rar/download)<br>
-[v13.0.10.0 (SKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V13.0.10.0_SKRJPKD.rar/download)<br>
+[v13.0.10.0 (SKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V13.0.10.0_SKRJPKD.rar/download)<br><br>
+⚠ Attention: We have received reports of bricking with Fastboot ROMs after v14.0.4.0. We recommend limiting the use of boot.img to boot.img only.<br>
+警告: v14.0.4.0以降のFastboot ROMで文鎮化したという報告がありました。boot.imgの使用のみに絞る事を推奨します。<br>
 [v14.0.4.0 (TKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V14.0.4.0_TKRJPKD.7z/download)<br>
 [v14.0.9.0 (TKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V14.0.9.0_TKRJPKD.7z/download)<br>
 [v14.0.12.0 (TKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V14.0.12.0_TKRJPKD.7z/download)<br>

@@ -142,8 +142,9 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 [Fuck OrangeState (Orange State Boot Messeage Remover)](https://drive.google.com/file/d/1MUlZYzqKGtAV4iqjjWHT4MMQe906LvmV/view?usp=sharing)<br>
 
 ## 📱Legion Y700
-- <b>Legion Y700 QFIL ROM (EDL command/button combo/EDL Cable V2 Required) / (MediaFire)</b><br>
-[QFIL ROM](https://www.mediafire.com/file/dwu5qmb59hu6dk0/LEGION_Stock_EDL.7z/)
+- <b>Legion Y700 QFIL ROM (EDL reboot command,button combo,EDL Cable V2 (Hydra EDL),Test point Required) / (MediaFire/GoogleDrive)</b><br>
+[v13.0.586](https://www.mediafire.com/file/dwu5qmb59hu6dk0/LEGION_Stock_EDL.7z/)<br>
+[v14.0.255 (thx!terajima!)](https://drive.google.com/file/d/1o09kref9SRXpE8E9J49ZZBGjm1k-ebuR/view?usp=share_link)<br>
 - <b>Legion Y700 Fastboot ROM (MediaFire)</b><br>
 [v13.0.586 (Shop ROM)](https://www.mediafire.com/file/deevf55yizd667m/LEGION_Y700_ShopROM_13.0.586.7z/)<br>
 [v13.1.578](https://www.mediafire.com/file/wyq924hz13bj5s8/LEGION_Y700_StockROM_13.1.578.7z/)<br>

@@ -186,3 +186,7 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 [J8210 (Global) - 55.2.A.4.332 (A11)](https://mega.nz/file/rh4VDLZa#K7ItHp1KpWWTpBqjQh5BMB_iseK6O0STin5cVMNOctc)<br>
 [J9260 (Japan/DualSIM) - 55.2.A.4.332 (A11)](https://mega.nz/file/q8YhkCTC#juZWd6fqSDl3bibpN37uQioywpJQtCJE9I7eNSokHZ8)<br>
 [J9210 (Global/DualSIM) - 55.2.A.4.332 (A11)](https://mega.nz/file/PtgCVJKZ#3ueuP49YKmcj39aUGtLvQr_C-o9L8L-0tWJzIFWq-ns)<br>
+
+## 📱GSI
+[Phh Treble Settings Japanese Module (Multiple Languages Support)](https://github.com/reindex-ot/TrebleApp_Japanese)<br>
+[Phh Treble Settings Multiple Languages Support Source](https://github.com/exthmui-10-treble/treble_app)

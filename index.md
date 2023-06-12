@@ -155,6 +155,9 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 [Download](https://www.mediafire.com/file/xs0zj9nnmen5i7j/Y700_v13.0.586_ROM.7z/)<br>
 - <b>Legion Y700 dtbo,vbmeta,boot</b><br>
 [v14.0.255](https://www.mediafire.com/file/ri36vf0s50v7miw/Legion_Y700_v14.0.255_boot%252Cdtbo.vbmeta.7z/file)
+- <b>Legion Y700 Magisk Module</b><br>
+[Lenovo Legion Y700 GSI Fix MOD](https://github.com/reindex-ot/LegionY700-GSI-Fix_MOD)<br>
+
 
 ## 📱Xperia 1
 - <b>Xperia 1 Files</b><br>

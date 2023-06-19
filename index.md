@@ -106,6 +106,7 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 [QFIL ROM](https://sourceforge.net/projects/nothingphone-1-rom/files/QFIL/qfil_nothing_phone.rar/download)<br>
 [Qualcomm Flash Image Loader](https://mega.nz/file/ypBG1ZzI#bw8D7p_48WpN7agvxwVH94XkzpGNXnWMk2zH6kupOS8)<br>
 [Qualcomm HS-USB QDLoader 9008 Driver](https://mega.nz/file/O4ZVSA6a#uK7003-5sLr0ISy37pNzoNwwBGDFqRW8HFMAUppVIyE)<br>
+[Quectel QDLoader 9008 Driver (オススメ!)](https://raw.githubusercontent.com/reindex-ot/reindex-ot.github.io/main/edl_driver/QDLoader%209008_Driver.zip)<br>
 ...Firehoseの確認はしたけど復旧できるかわからん。知らん。<br>
 「Qualcomm HS-USB Diagnostics 900E」が出たらそれに「Qualcomm HS-USB QDLoader 9008 Driver」のドライバーを上書きで更新すれば認識します。<br>
 

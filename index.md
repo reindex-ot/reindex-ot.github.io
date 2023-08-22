@@ -121,6 +121,14 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 [Nothing Phone(1) Patch](https://github.com/reindex-ot/magisk-module-nothing)<br>
 [Ndot to Roboto](https://github.com/reindex-ot/Ndot-to-Roboto)<br>
 
+## 📱Nothing Phone(2)
+- <b>Nothing Phone(2) boot.img Files (Magisk patched boot included)</b><br>
+[v2.0.2](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.0.2.zip)<br>
+
+
+- <b>Nothing Phone(2) Fastboot ROM (SourceForge)</b><br>
+[v2.0.2](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.0.2.7z/download)<br>
+
 ## 📱Redmi Note 10 JE (XIG02)
 - <b>Redme Note 10 JE Fastboot ROM (SourceForge)</b><br>
 ⚠ The partition size has changed since "v14.0.4.0". It is recommended to OTA with "v13.0.10.0" just to be safe.<br>

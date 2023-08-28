@@ -67,6 +67,7 @@ Anyone who doesn't follow instructions honestly should bootloop for the rest of 
 [v1.5.4](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v1.5.4.zip?raw=true)<br>
 [v1.5.5](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v1.5.5.zip?raw=true)<br>
 [v1.5.6](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v1.5.6.zip?raw=true)<br>
+[v2.0.2](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.0.2.zip?raw=true)<br>
 
 - <b>Nothing Phone(1) Fastboot ROM (SourceForge)</b><br>
 [v1.1.0 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.1.0_Global.rar/download)<br>
@@ -84,6 +85,7 @@ Anyone who doesn't follow instructions honestly should bootloop for the rest of 
 [v1.5.4](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.5.4.7z/download)<br>
 [v1.5.5](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.5.5.7z/download)<br>
 [v1.5.6](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.5.6.7z/download)<br>
+[v2.0.2](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.0.2.7z/download)<br>
 
 - <b>Nothing Phone(1) Local OTA Files (SourceForge)</b><br>
 ⚠ After the v1.5.4 update, you may have to change your time zone to Shanghai or Taiwan to get local updates.<br>
@@ -107,6 +109,7 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 [v1.5.4](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.5.3hotfix_to_v1.5.4.zip/download)<br>
 [v1.5.5](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.5.4_to_v1.5.5.zip/download)<br>
 [v1.5.6](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.5.5_to_v1.5.6.zip/download)<br>
+[v2.0.2](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.5.6_to_v2.0.2.zip/download)<br>
 
 - <b>Nothing Phone(1) QFIL ROM (Required EDL Command or EDL Cable V1/V2)</b><br>
 [QFIL ROM](https://sourceforge.net/projects/nothingphone-1-rom/files/QFIL/qfil_nothing_phone.rar/download)<br>

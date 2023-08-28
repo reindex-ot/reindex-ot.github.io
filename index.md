@@ -122,12 +122,15 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 [Ndot to Roboto](https://github.com/reindex-ot/Ndot-to-Roboto)<br>
 
 ## 📱Nothing Phone(2)
+- <b>Nothing Phone(2) Unbrick Tool</b><br>
+[Download](https://sourceforge.net/projects/nothingphone-2-rom/files/NothingFlaser/22111_release_user_ntpi_20230709_200311.7z/)<br>
 - <b>Nothing Phone(2) boot.img Files (Magisk patched boot included)</b><br>
 [v2.0.2](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.0.2.zip)<br>
-
+[v2.0.2a](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.0.2a.zip)<br>
 
 - <b>Nothing Phone(2) Fastboot ROM (SourceForge)</b><br>
 [v2.0.2](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.0.2.7z/download)<br>
+[v2.0.2a](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.0.2a.7z/download)<br>
 
 ## 📱Redmi Note 10 JE (XIG02)
 - <b>Redme Note 10 JE Fastboot ROM (SourceForge)</b><br>

@@ -1,4 +1,9 @@
-﻿# Fastboot ROMの作り方
+[![Twitter](https://img.shields.io/twitter/follow/ot_inc?style=flat&logo=twitter)](https://twitter.com/ot_inc)
+[![GitHub](https://img.shields.io/github/followers/reindex-ot?style=flat&logo=github)](https://github.com/reindex-ot)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCE5tVfXXLSonqBJ1GZmLuyw?style=flat&logo=youtube)](https://www.youtube.com/channel/UCE5tVfXXLSonqBJ1GZmLuyw)
+[![Copano Rickey](https://raw.githubusercontent.com/reindex-ot/reindex-ot.github.io/main/image/copanorickey.jpg)](https://umamusume.jp/character/detail/?name=copanorickey)
+<br>
+# Fastboot ROMの作り方
 Fastboot ROMを作る方法をこちらに記しておきます。
 英語に訳す能力は皆無なので海外圏のユーザーは翻訳サービスを使って翻訳をしてください。
 

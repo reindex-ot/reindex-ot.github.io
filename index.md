@@ -68,6 +68,7 @@ Anyone who doesn't follow instructions honestly should bootloop for the rest of 
 [v1.5.5](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v1.5.5.zip?raw=true)<br>
 [v1.5.6](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v1.5.6.zip?raw=true)<br>
 [v2.0.2](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.0.2.zip?raw=true)<br>
+[v2.0.2 (HotFix)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.0.2_hotfix.zip?raw=true)<br>
 
 - <b>Nothing Phone(1) Fastboot ROM (SourceForge)</b><br>
 [v1.1.0 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.1.0_Global.rar/download)<br>
@@ -86,6 +87,7 @@ Anyone who doesn't follow instructions honestly should bootloop for the rest of 
 [v1.5.5](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.5.5.7z/download)<br>
 [v1.5.6](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.5.6.7z/download)<br>
 [v2.0.2](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.0.2.7z/download)<br>
+[v2.0.2 (HotFix)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.0.2_hotfix.7z/download)<br>
 
 - <b>Nothing Phone(1) Local OTA Files (SourceForge)</b><br>
 ⚠ After the v1.5.4 update, you may have to change your time zone to Shanghai or Taiwan to get local updates.<br>
@@ -129,10 +131,12 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 - <b>Nothing Phone(2) boot.img Files (Magisk patched boot included)</b><br>
 [v2.0.2](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.0.2.zip)<br>
 [v2.0.2a](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.0.2a.zip)<br>
+[v2.0.3](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.0.3.zip)<br>
 
 - <b>Nothing Phone(2) Fastboot ROM (SourceForge)</b><br>
 [v2.0.2](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.0.2.7z/download)<br>
 [v2.0.2a](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.0.2a.7z/download)<br>
+[v2.0.3](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.0.3.7z/download)<br>
 
 ## 📱Redmi Note 10 JE (XIG02)
 - <b>Redme Note 10 JE Fastboot ROM (SourceForge)</b><br>

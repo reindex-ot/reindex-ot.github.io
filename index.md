@@ -138,6 +138,9 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 [v2.0.2a](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.0.2a.7z/download)<br>
 [v2.0.3](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.0.3.7z/download)<br>
 
+- <b>Nothing Phone(2) Beta Fastboot ROM</b><br>
+  [SourceForge](https://sourceforge.net/projects/nothingphone-2-rom/files/Beta/)<br>
+
 ## 📱Redmi Note 10 JE (XIG02)
 - <b>Redme Note 10 JE Fastboot ROM (SourceForge)</b><br>
 ⚠ The partition size has changed since "v14.0.4.0". It is recommended to OTA with "v13.0.10.0" just to be safe.<br>

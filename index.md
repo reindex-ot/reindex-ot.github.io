@@ -118,6 +118,7 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 [v2.0.2](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.5.6_to_v2.0.2.zip/download)<br>
 [v2.0.4](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.0.2hotfix_to_v2.0.4.zip/download)<br>
 [v2.0.5](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.0.4_to_v2.0.5.zip/download)<br>
+[v2.5.1 (Beta1)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.0.5_to_v2.5.1beta1.zip/download)<br>
 
 - <b>Nothing Phone(1) QFIL ROM (Required EDL Command or EDL Cable V1/V2)</b><br>
 [QFIL ROM](https://sourceforge.net/projects/nothingphone-1-rom/files/QFIL/qfil_nothing_phone.rar/download)<br>

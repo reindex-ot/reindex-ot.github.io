@@ -183,6 +183,12 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 - <b>OOS13 Tools</b><br>
 [Fuck OrangeState (Orange State Boot Messeage Remover)](https://drive.google.com/file/d/1MUlZYzqKGtAV4iqjjWHT4MMQe906LvmV/view?usp=sharing)<br>
 
+## 📱Xiaomi 13
+- <b>China Model ROM</b><br>
+AliExpressで購入した中国版Xiaomi 13に入っていた似非のグローバル版ROMです。(OTAはできません)<br>
+また、このFastboot ROMで中国語版をrelockをしても問題はないかは未確認です。<br>
+[MIUI v14.0.9.0 TMSZIXM (Fake Global)](https://mega.nz/file/KhxFwbxa#F5xSNElRaWRKtDTQO4_MF8fsKUxzQ0YzEu-8C4tvFIE)<br>
+
 ## 📱Legion Y700
 - <b>Legion Y700 QFIL ROM [Required EDL reboot command,button combo,EDL Cable V2 (Hydra EDL),Testpoint] / (MediaFire/GoogleDrive)</b><br>
 [v13.0.586](https://www.mediafire.com/file/dwu5qmb59hu6dk0/LEGION_Stock_EDL.7z/)<br>

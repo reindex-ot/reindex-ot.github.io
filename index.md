@@ -186,7 +186,7 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 ## 📱Xiaomi 13
 - <b>China Model ROM</b><br>
 AliExpressで購入した中国版Xiaomi 13に入っていた似非のグローバル版ROMです。(OTAはできません)<br>
-また、このFastboot ROMで中国語版をrelockをしても問題はないかは未確認です。<br>
+また、このFastboot ROMで中国版をrelockをしても問題はないかは未確認です。<br>
 [MIUI v14.0.9.0 TMSZIXM (Fake Global)](https://mega.nz/file/KhxFwbxa#F5xSNElRaWRKtDTQO4_MF8fsKUxzQ0YzEu-8C4tvFIE)<br>
 
 ## 📱Legion Y700

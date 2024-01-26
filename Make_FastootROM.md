@@ -1,7 +1,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/ot_inc?style=flat&logo=twitter)](https://twitter.com/ot_inc)
 [![GitHub](https://img.shields.io/github/followers/reindex-ot?style=flat&logo=github)](https://github.com/reindex-ot)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCE5tVfXXLSonqBJ1GZmLuyw?style=flat&logo=youtube)](https://www.youtube.com/channel/UCE5tVfXXLSonqBJ1GZmLuyw)
-[![Copano Rickey](https://raw.githubusercontent.com/reindex-ot/reindex-ot.github.io/main/image/copanorickey.jpg)](https://umamusume.jp/character/detail/?name=copanorickey)
+[![Vivlos](https://raw.githubusercontent.com/reindex-ot/reindex-ot.github.io/main/image/vivlos.png)](https://umamusume.jp/character/detail/?name=vivlos)
 <br>
 # Fastboot ROMの作り方
 Fastboot ROMを作る方法をこちらに記しておきます。

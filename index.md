@@ -182,6 +182,7 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 [v14.0.4.0 (TKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V14.0.4.0_TKRJPKD.7z/download)<br>
 [v14.0.9.0 (TKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V14.0.9.0_TKRJPKD.7z/download)<br>
 [v14.0.12.0 (TKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V14.0.12.0_TKRJPKD.7z/download)<br>
+[v14.0.21.0 (TKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V14.0.21.0_TKRJPKD.7z/download)<br>
 
 - <b>XIG02 Tools</b><br>
 [XIG02 Bloatware Remover & Disabler](https://drive.google.com/file/d/1EMQ6pax-Boj67xyCixEF7Ql5oX_CtHKe/view?usp=sharing)<br>

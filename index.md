@@ -226,6 +226,11 @@ AliExpressで購入した中国版Xiaomi 13に入っていた似非のグロー�
 [Persist](https://www.mediafire.com/file/cmpf9t5d4h4tk2s/persist.img/)<br>
 [ZUI Wallpaper](https://www.mediafire.com/file/0o7czwhbpmbluvz/ZUI_wallpaper.7z/)<br>
 
+## 🎧HiBy Digital M300
+- <b>HiBy Digital M300 boot.img Files (Google Drive)</b><br>
+[1.30_20240126-1851](https://drive.google.com/drive/folders/1zIB0rBhjIbxcsXxXMPWI11d2ja_ZEZhX?usp=drive_link)
+- <b>HiBy Digital M300 Fastboot ROM (Google Drive)</b><br>
+[1.30_20240126-1851](https://drive.google.com/file/d/1zxw3cP-y6Ixx1o4PL_DA4rm3XwCWbgEU/view?usp=drive_link)
 
 ## 📱Xperia 1
 - <b>Xperia 1 Files</b><br>

@@ -75,6 +75,7 @@ Anyone who doesn't follow instructions honestly should bootloop for the rest of 
 [v2.5.2](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.5.2.zip?raw=true)<br>
 [v2.5.2 (HotFix)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.5.2_hotfix.zip?raw=true)<br>
 [v2.5.3](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.5.3.zip?raw=true)<br>
+[v2.5.3A](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.5.3A.zip?raw=true)<br>
 
 - <b>Nothing Phone(1) Fastboot ROM (SourceForge)</b><br>
 [v1.1.0 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.1.0_Global.rar/download)<br>
@@ -100,6 +101,7 @@ Anyone who doesn't follow instructions honestly should bootloop for the rest of 
 [v2.5.2](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.2.7z/download)<br>
 [v2.5.2 (HotFix)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.2_hotfix.7z/download)<br>
 [v2.5.3](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.3.7z/download)<br>
+[v2.5.3A](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.3A.7z/download)<br>
 
 - <b>Nothing Phone(1) Local OTA Files (SourceForge)</b><br>
 ⚠ After the v1.5.4 update, you may have to change your time zone to Shanghai or Taiwan to get local updates.<br>
@@ -131,6 +133,7 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 [v2.5.2](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.1beta2_to_v2.5.2.zip/download)<br>
 [v2.5.2 (HotFix)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.2_to_v2.5.2_hotfix.zip/download)<br>
 [v2.5.3](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.2_hotfix_to_v2.5.3.zip/download)<br>
+[v2.5.3A](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.3_to_v2.5.3A.zip/download)<br>
 
 
 - <b>Nothing Phone(1) QFIL ROM (Required EDL Command or EDL Cable V1/V2)</b><br>
@@ -154,8 +157,9 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 [v2.0.3](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.0.3.zip)<br>
 [v2.0.4](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.0.4.zip)<br>
 [v2.5.1](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.5.1.zip)<br>
-[v2.5.1.A](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.5.1A.zip)<br>
+[v2.5.1A](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.5.1A.zip)<br>
 [v2.5.2](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.5.2.zip)<br>
+[v2.5.3](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.5.3.zip)<br>
 
 - <b>Nothing Phone(2) Global Fastboot ROM (SourceForge) / ⚠Don't use in Pong_EEA and Pong_IND environments!</b><br>
 [v2.0.2](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.0.2.7z/download)<br>
@@ -163,8 +167,9 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 [v2.0.3](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.0.3.7z/download)<br>
 [v2.0.4](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.0.4.7z/download)<br>
 [v2.5.1](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.1.7z/download)<br>
-[v2.5.1.A](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.1A.7z/download)<br>
+[v2.5.1A](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.1A.7z/download)<br>
 [v2.5.2](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.2.7z/download)<br>
+[v2.5.3](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.3.7z/download)<br>
 
 - <b>Nothing Phone(2) Beta Fastboot ROM</b><br>
   [SourceForge](https://sourceforge.net/projects/nothingphone-2-rom/files/Beta/)<br>

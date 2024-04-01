@@ -74,6 +74,7 @@ Anyone who doesn't follow instructions honestly should bootloop for the rest of 
 [v2.5.1 (Beta1)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.5.1_beta1.zip?raw=true)<br>
 [v2.5.2](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.5.2.zip?raw=true)<br>
 [v2.5.2 (HotFix)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.5.2_hotfix.zip?raw=true)<br>
+[v2.5.3](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.5.3.zip?raw=true)<br>
 
 - <b>Nothing Phone(1) Fastboot ROM (SourceForge)</b><br>
 [v1.1.0 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.1.0_Global.rar/download)<br>
@@ -98,6 +99,7 @@ Anyone who doesn't follow instructions honestly should bootloop for the rest of 
 [v2.5.1 (Beta1)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.1_beta1.7z/download)<br>
 [v2.5.2](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.2.7z/download)<br>
 [v2.5.2 (HotFix)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.2_hotfix.7z/download)<br>
+[v2.5.3](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.3.7z/download)<br>
 
 - <b>Nothing Phone(1) Local OTA Files (SourceForge)</b><br>
 ⚠ After the v1.5.4 update, you may have to change your time zone to Shanghai or Taiwan to get local updates.<br>
@@ -128,6 +130,7 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 [v2.5.1 (Beta2)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.1beta1_to_v2.5.1beta2.zip/download)<br>
 [v2.5.2](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.1beta2_to_v2.5.2.zip/download)<br>
 [v2.5.2 (HotFix)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.2_to_v2.5.2_hotfix.zip/download)<br>
+[v2.5.3](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.2_hotfix_to_v2.5.3.zip/download)<br>
 
 
 - <b>Nothing Phone(1) QFIL ROM (Required EDL Command or EDL Cable V1/V2)</b><br>
@@ -223,6 +226,11 @@ AliExpressで購入した中国版Xiaomi 13に入っていた似非のグロー�
 [Persist](https://www.mediafire.com/file/cmpf9t5d4h4tk2s/persist.img/)<br>
 [ZUI Wallpaper](https://www.mediafire.com/file/0o7czwhbpmbluvz/ZUI_wallpaper.7z/)<br>
 
+## 🎧HiBy Digital M300
+- <b>HiBy Digital M300 boot.img Files (Magisk patched boot included/Google Drive)</b><br>
+[1.30_20240126-1851](https://drive.google.com/drive/folders/1zIB0rBhjIbxcsXxXMPWI11d2ja_ZEZhX?usp=drive_link)
+- <b>HiBy Digital M300 Fastboot ROM (Google Drive)</b><br>
+[1.30_20240126-1851](https://drive.google.com/file/d/1zxw3cP-y6Ixx1o4PL_DA4rm3XwCWbgEU/view?usp=drive_link)
 
 ## 📱Xperia 1
 - <b>Xperia 1 Files</b><br>

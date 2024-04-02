@@ -233,7 +233,7 @@ AliExpressで購入した中国版Xiaomi 13に入っていた似非のグロー�
 
 ## 🎧HiBy Digital M300
 - <b>HiBy Digital M300 boot.img Files (Magisk patched boot included/Google Drive)</b><br>
-[1.30_20240126-1851](https://drive.google.com/drive/folders/1zIB0rBhjIbxcsXxXMPWI11d2ja_ZEZhX?usp=drive_link)
+[1.30_20240126-1851](https://drive.google.com/file/d/1L0QurUo5cP5Z8luGYCnFNgXG9fcKCxJ3/view?usp=drivesdk)
 - <b>HiBy Digital M300 Fastboot ROM (Google Drive)</b><br>
 [1.30_20240126-1851](https://drive.google.com/file/d/1zxw3cP-y6Ixx1o4PL_DA4rm3XwCWbgEU/view?usp=drive_link)
 

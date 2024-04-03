@@ -232,6 +232,8 @@ AliExpressで購入した中国版Xiaomi 13に入っていた似非のグロー�
 [ZUI Wallpaper](https://www.mediafire.com/file/0o7czwhbpmbluvz/ZUI_wallpaper.7z/)<br>
 
 ## 🎧HiBy Digital M300
+- <b>HiBy Digital M300 blobs</b><br>
+[GitLab](https://gitlab.com/reindex_ot/hiby_digital_m300_blobs)
 - <b>HiBy Digital M300 boot.img Files (Magisk patched boot included/Google Drive)</b><br>
 [1.30_20240126-1851](https://drive.google.com/file/d/1L0QurUo5cP5Z8luGYCnFNgXG9fcKCxJ3/view?usp=drivesdk)
 - <b>HiBy Digital M300 Fastboot ROM (Google Drive)</b><br>

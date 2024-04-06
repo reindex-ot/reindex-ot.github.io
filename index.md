@@ -140,11 +140,18 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 [QFIL ROM](https://sourceforge.net/projects/nothingphone-1-rom/files/QFIL/qfil_nothing_phone.rar/download)<br>
 [Qualcomm Flash Image Loader](https://mega.nz/file/ypBG1ZzI#bw8D7p_48WpN7agvxwVH94XkzpGNXnWMk2zH6kupOS8)<br>
 [Qualcomm HS-USB QDLoader 9008 Driver](https://mega.nz/file/O4ZVSA6a#uK7003-5sLr0ISy37pNzoNwwBGDFqRW8HFMAUppVIyE)<br>
-[Qualcomm HS-USB Drivers x64 (オススメ!)](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/edl_driver/Qualcomm_HS-USB_Drivers_x64_v2.1.2.2.zip)<br>
-[Quectel QDLoader 9008 Driver (オススメ!)](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/edl_driver/QDLoader%209008_Driver.zip)<br>
+[Qualcomm HS-USB QDLodaer 9008 Driver x64 (オススメ!)](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/edl_driver/Qualcomm_HS-USB_Drivers_x64_v2.1.2.2.zip)<br>
+[Quectel QDLoader 9008 Driver](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/edl_driver/QDLoader%209008_Driver.zip)<br>
 [Quectel QDLoader 9008 Driver (2023/04/19)](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/edl_driver/QDLoader%209008_Driver_2023_4.zip)<br>
+[Quectel QDLoader 9008 Driver (2023/12/19)](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/edl_driver/QDLoader%209008_Driver_2023_12.zip)<br>
 ...Firehoseの確認はしたけど復旧できるかわからん。知らん。<br>
-「Qualcomm HS-USB Diagnostics 900E」が出たらそれに「Qualcomm HS-USB QDLoader 9008 Driver」のドライバーを上書きで更新すれば認識します。<br>
+
+- <b>QDLoader 9008 Driverについて</b><br>
+自分が公開しているドライバーは、Qualcommの最新バージョンなドライバーになります。<br>
+テストモードの環境でなくてもQFILが認識するドライバーです。テストモードで再起動される事もありません。<br>
+「Qualcomm HS-USB Diagnostics 900E」が出た場合は、それに「Qualcomm HS-USB QDLoader 9008 Driver」のドライバーを上書きで更新すればEDLが認識します。<br>
+Quectel QDLoader 9008 Driverは、AMD系の環境でもQFILが使用可能になります。<br>
+AMDな方はそちらもお試しください。<br>
 
 - <b>Nothing Phone(1) Magisk Module</b><br>
 [Nothing Phone(1) Patch](https://github.com/reindex-ot/magisk-module-nothing)<br>

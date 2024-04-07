@@ -1,9 +1,8 @@
 title: Re*Index.Lab
 author: Re*Index.(ot_inc)
 description: >
-  Japanese Android user.
-  Android boot.img and Fastboot ROM publish.
-
+  Powered by GitHub Pages
+  
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate

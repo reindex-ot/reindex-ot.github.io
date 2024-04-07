@@ -1,0 +1,37 @@
+title: Re*Index.Lab
+author: Re*Index.(ot_inc)
+description: >
+  Japanese Android user.
+  Android boot.img and Fastboot ROM publish.
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-redirect-from
+
+minima_reboot:
+  date_format: "%b %-d, %Y"
+  date_format_short: "%b %-d"
+
+header_pages:
+- nothing.md
+- xiaomi.md
+- xperia.md
+- legion.md
+- hiby.md
+- other.md
+- donate.md
+- about.md
+
+footer_icons:
+- username: reindex-ot
+  url: https://github.com/reindex-ot
+  icon: icon-github.svg
+
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - minima-reboot.gemspec

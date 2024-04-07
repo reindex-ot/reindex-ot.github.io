@@ -1,20 +1,17 @@
-[![Twitter](https://img.shields.io/twitter/follow/ot_inc?style=flat&logo=twitter)](https://twitter.com/ot_inc)
-[![GitHub](https://img.shields.io/github/followers/reindex-ot?style=flat&logo=github)](https://github.com/reindex-ot)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCE5tVfXXLSonqBJ1GZmLuyw?style=flat&logo=youtube)](https://www.youtube.com/channel/UCE5tVfXXLSonqBJ1GZmLuyw)
-[![Vivlos](https://raw.githubusercontent.com/reindex-ot/reindex-ot.github.io/main/image/vivlos.png)](https://umamusume.jp/character/detail/?name=vivlos)
-<br>
-# 📖About this GitHub Pages
-<b>Japanese (日本語)</b><br>
-Nothing Phone(1)のFastboot ROMとboot.imgとRedme Note 10 JE(XIG02)のFastboot ROMなどを公開しています。<br>
-Fastboot ROMやOTAのやり方を作りました。[こちら](https://reindex-ot.github.io/how_to_use)です。<br>
-Nothingはv1.5.1からGlobalとEEAが統合されました。それ以降はデバイスを問わず使用可能です。<br>
-各種ファイルのアップロード先をSourceForgeに移行しました。MediaFireやGoogleDrive、MEGAなどにアップされたファイルは一定期間残した後に削除します。<br>
-<br>
-<b>English (DeepL)</b><br>
-Fastboot ROM and boot.img for Nothing Phone(1) and Fastboot ROM for Redme Note 10 JE (XIG02) are available.<br>
-I made a Fastboot ROM and OTA instructions. [Here](https://reindex-ot.github.io/how_to_use) it is.<br>
-Global and EEA have been integrated in Nothing since v1.5.1. Since then, it can be used on any device.<br>
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+<<<<<<< HEAD
+layout: home
+---
+<img src="./img/vivlos.png" width="100%">
+## Welcome!
+AndroidのFastboot ROMやboot.img、その他諸々を公開しています。<br>
+Fastboot ROMにはADBとFastbootのバイナリが含まれていません。
+[こちら](https://www.mediafire.com/file/lpjnhw7ii7nnmob/15_Seconds_Online_ADB_Installer_and_Updater.zip/)を使用して環境の構築と最新のバージョンにしてください。<br>
+これらの使用に関しては自己責任となります。<br>
+=======
 # 👤この人について
 私はしがない日本人です。<br>
 アプリケーションの日本語化とか色々やってますが、英語の能力はそれ程高くないです。<br>
@@ -75,6 +72,7 @@ Anyone who doesn't follow instructions honestly should bootloop for the rest of 
 [v2.5.2](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.5.2.zip?raw=true)<br>
 [v2.5.2 (HotFix)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.5.2_hotfix.zip?raw=true)<br>
 [v2.5.3](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.5.3.zip?raw=true)<br>
+[v2.5.3A](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.5.3A.zip?raw=true)<br>
 
 - <b>Nothing Phone(1) Fastboot ROM (SourceForge)</b><br>
 [v1.1.0 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.1.0_Global.rar/download)<br>
@@ -100,6 +98,7 @@ Anyone who doesn't follow instructions honestly should bootloop for the rest of 
 [v2.5.2](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.2.7z/download)<br>
 [v2.5.2 (HotFix)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.2_hotfix.7z/download)<br>
 [v2.5.3](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.3.7z/download)<br>
+[v2.5.3A](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.3A.7z/download)<br>
 
 - <b>Nothing Phone(1) Local OTA Files (SourceForge)</b><br>
 ⚠ After the v1.5.4 update, you may have to change your time zone to Shanghai or Taiwan to get local updates.<br>
@@ -131,17 +130,25 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 [v2.5.2](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.1beta2_to_v2.5.2.zip/download)<br>
 [v2.5.2 (HotFix)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.2_to_v2.5.2_hotfix.zip/download)<br>
 [v2.5.3](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.2_hotfix_to_v2.5.3.zip/download)<br>
+[v2.5.3A](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.3_to_v2.5.3A.zip/download)<br>
 
 
 - <b>Nothing Phone(1) QFIL ROM (Required EDL Command or EDL Cable V1/V2)</b><br>
 [QFIL ROM](https://sourceforge.net/projects/nothingphone-1-rom/files/QFIL/qfil_nothing_phone.rar/download)<br>
 [Qualcomm Flash Image Loader](https://mega.nz/file/ypBG1ZzI#bw8D7p_48WpN7agvxwVH94XkzpGNXnWMk2zH6kupOS8)<br>
 [Qualcomm HS-USB QDLoader 9008 Driver](https://mega.nz/file/O4ZVSA6a#uK7003-5sLr0ISy37pNzoNwwBGDFqRW8HFMAUppVIyE)<br>
-[Qualcomm HS-USB Drivers x64 (オススメ!)](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/edl_driver/Qualcomm_HS-USB_Drivers_x64_v2.1.2.2.zip)<br>
-[Quectel QDLoader 9008 Driver (オススメ!)](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/edl_driver/QDLoader%209008_Driver.zip)<br>
+[Qualcomm HS-USB QDLodaer 9008 Driver x64 (オススメ!)](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/edl_driver/Qualcomm_HS-USB_Drivers_x64_v2.1.2.2.zip)<br>
+[Quectel QDLoader 9008 Driver](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/edl_driver/QDLoader%209008_Driver.zip)<br>
 [Quectel QDLoader 9008 Driver (2023/04/19)](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/edl_driver/QDLoader%209008_Driver_2023_4.zip)<br>
+[Quectel QDLoader 9008 Driver (2023/12/19)](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/edl_driver/QDLoader%209008_Driver_2023_12.zip)<br>
 ...Firehoseの確認はしたけど復旧できるかわからん。知らん。<br>
-「Qualcomm HS-USB Diagnostics 900E」が出たらそれに「Qualcomm HS-USB QDLoader 9008 Driver」のドライバーを上書きで更新すれば認識します。<br>
+
+- <b>QDLoader 9008 Driverについて</b><br>
+自分が公開しているドライバーは、Qualcommの最新バージョンなドライバーになります。<br>
+テストモードの環境でなくてもQFILが認識するドライバーです。テストモードで再起動される事もありません。<br>
+「Qualcomm HS-USB Diagnostics 900E」が出た場合は、それに「Qualcomm HS-USB QDLoader 9008 Driver」のドライバーを上書きで更新すればEDLが認識します。<br>
+Quectel QDLoader 9008 Driverは、AMD系の環境でもQFILが使用可能になります。<br>
+AMDな方はそちらもお試しください。<br>
 
 - <b>Nothing Phone(1) Magisk Module</b><br>
 [Nothing Phone(1) Patch](https://github.com/reindex-ot/magisk-module-nothing)<br>
@@ -154,8 +161,9 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 [v2.0.3](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.0.3.zip)<br>
 [v2.0.4](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.0.4.zip)<br>
 [v2.5.1](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.5.1.zip)<br>
-[v2.5.1.A](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.5.1A.zip)<br>
+[v2.5.1A](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.5.1A.zip)<br>
 [v2.5.2](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.5.2.zip)<br>
+[v2.5.3](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.5.3.zip)<br>
 
 - <b>Nothing Phone(2) Global Fastboot ROM (SourceForge) / ⚠Don't use in Pong_EEA and Pong_IND environments!</b><br>
 [v2.0.2](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.0.2.7z/download)<br>
@@ -163,8 +171,9 @@ v1.5.4のアップデート以降では「上海」または「台湾」にタ�
 [v2.0.3](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.0.3.7z/download)<br>
 [v2.0.4](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.0.4.7z/download)<br>
 [v2.5.1](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.1.7z/download)<br>
-[v2.5.1.A](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.1A.7z/download)<br>
+[v2.5.1A](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.1A.7z/download)<br>
 [v2.5.2](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.2.7z/download)<br>
+[v2.5.3](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.3.7z/download)<br>
 
 - <b>Nothing Phone(2) Beta Fastboot ROM</b><br>
   [SourceForge](https://sourceforge.net/projects/nothingphone-2-rom/files/Beta/)<br>
@@ -228,9 +237,13 @@ AliExpressで購入した中国版Xiaomi 13に入っていた似非のグロー�
 
 ## 🎧HiBy Digital M300
 - <b>HiBy Digital M300 boot.img Files (Magisk patched boot included/Google Drive)</b><br>
-[1.30_20240126-1851](https://drive.google.com/drive/folders/1zIB0rBhjIbxcsXxXMPWI11d2ja_ZEZhX?usp=drive_link)
+[1.30_20240126-1851](https://drive.google.com/file/d/1L0QurUo5cP5Z8luGYCnFNgXG9fcKCxJ3/view?usp=drivesdk)
 - <b>HiBy Digital M300 Fastboot ROM (Google Drive)</b><br>
 [1.30_20240126-1851](https://drive.google.com/file/d/1zxw3cP-y6Ixx1o4PL_DA4rm3XwCWbgEU/view?usp=drive_link)
+- <b>HiBy Digital M300 blobs</b><br>
+[GitLab Repo](https://gitlab.com/reindex_ot/hiby_digital_m300_blobs)
+- <b>HiBy Digital M300 Device tree</b><br>
+[GitHub Repo](https://github.com/reindex-ot/hiby_digital_m300)
 
 ## 📱Xperia 1
 - <b>Xperia 1 Files</b><br>
@@ -266,3 +279,4 @@ AliExpressで購入した中国版Xiaomi 13に入っていた似非のグロー�
 ## 📱GSI
 [Phh Treble Settings Japanese Module (Multiple Languages Support)](https://github.com/reindex-ot/TrebleApp_Japanese)<br>
 [Phh Treble Settings Multiple Languages Support Source](https://github.com/exthmui-10-treble/treble_app)
+>>>>>>> 603e586da7e8709f8cb3006404d0461229a495c4

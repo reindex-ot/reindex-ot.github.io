@@ -4,8 +4,9 @@ title: Lenovo
 permalink: /lenovo/
 ---
 
-## Legion Y700
-##### Legion Y700 QFIL ROM [Required EDL reboot command,button combo,EDL Cable V2 (Hydra EDL),Testpoint] / (MediaFire/GoogleDrive)
+### Legion Y700
+##### Legion Y700 QFIL ROM (MediaFire/GoogleDrive)
+###### Required EDL reboot command,button combo,EDL Cable V2 (Hydra EDL),Testpoint
 [v13.0.586](https://www.mediafire.com/file/dwu5qmb59hu6dk0/LEGION_Stock_EDL.7z/)<br>
 [v14.0.255 (thx!terajima!)](https://drive.google.com/file/d/1o09kref9SRXpE8E9J49ZZBGjm1k-ebuR/view?usp=share_link)<br>
 ##### Legion Y700 Fastboot ROM (MediaFire)
@@ -20,6 +21,7 @@ permalink: /lenovo/
 [v14.0.255](https://www.mediafire.com/file/ri36vf0s50v7miw/Legion_Y700_v14.0.255_boot%252Cdtbo.vbmeta.7z/file)
 
 ##### Magisk Module
+###### Legion Y700 Magisk Module (GSI)
 [Lenovo Legion Y700 GSI Fix MOD](https://github.com/reindex-ot/LegionY700-GSI-Fix_MOD)<br>
 
 ##### Misc

@@ -4,8 +4,9 @@ title: Nothing
 permalink: /nothing/
 ---
 
-## Nothing Phone(1)
-##### Nothing Phone(1) boot.img Files (Magisk patched boot included)
+### Nothing Phone(1)
+##### Nothing Phone(1) boot.img Files
+###### Magisk patched boot included
 [v1.1.0 (Global)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.0_Global.zip?raw=true)<br>
 [v1.1.3 (Global)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.3_Global.zip?raw=true)<br>
 [v1.1.4 (Global)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.4_Global.zip?raw=true)<br>
@@ -87,11 +88,13 @@ permalink: /nothing/
 [v2.5.3](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.2_hotfix_to_v2.5.3.zip/download)<br>
 [v2.5.3A](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.3_to_v2.5.3A.zip/download)<br>
 
-##### Nothing Phone(1) QFIL ROM (Required EDL Command or EDL Cable V1/V2)
+##### Nothing Phone(1) QFIL ROM
+######  Required EDL Command or EDL Cable V1/V2
 [QFIL ROM](https://sourceforge.net/projects/nothingphone-1-rom/files/QFIL/qfil_nothing_phone.rar/download)<br>
 
-## Nothing Phone(2)
-##### Nothing Phone(2) boot.img Files (Magisk patched boot included)
+### Nothing Phone(2)
+##### Nothing Phone(2) boot.img Files
+###### Magisk patched boot included
 [v2.0.2](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.0.2.zip)<br>
 [v2.0.2a](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.0.2a.zip)<br>
 [v2.0.3](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.0.3.zip)<br>
@@ -101,7 +104,8 @@ permalink: /nothing/
 [v2.5.2](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.5.2.zip)<br>
 [v2.5.3](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.5.3.zip)<br>
 
-##### Nothing Phone(2) Global Fastboot ROM (SourceForge) / ⚠Don't use in Pong_EEA and Pong_IND environments!!
+##### Nothing Phone(2) Global Fastboot ROM (SourceForge)
+###### ⚠Don't use in Pong_EEA and Pong_IND environments!!
 [v2.0.2](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.0.2.7z/download)<br>
 [v2.0.2a](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.0.2a.7z/download)<br>
 [v2.0.3](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.0.3.7z/download)<br>
@@ -111,7 +115,7 @@ permalink: /nothing/
 [v2.5.2](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.2.7z/download)<br>
 [v2.5.3](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.3.7z/download)<br>
 
-### Magisk Module
-##### Nothing Phone Magisk Module
+##### Magisk Module
+###### Nothing Phone Magisk Module
 [Nothing Phone Patch](https://github.com/reindex-ot/magisk-module-nothing)<br>
 [Ndot to Roboto](https://github.com/reindex-ot/Ndot-to-Roboto)<br>

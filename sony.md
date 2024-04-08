@@ -4,7 +4,7 @@ title: Sony
 permalink: /sony/
 ---
 
-## Xperia 1
+### Xperia 1
 ##### Xperia 1 Files
 [Xperia 1 (Japan) dtbo,vbmeta,boot](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/Xperia/Xperia1_JP_dtbo,vbmeta,boot.7z?raw=true)<br>
 [Xperia 1 (Global) dtbo,vbmeta,boot](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/Xperia/Xperia1_J8110_dtbo,vbmeta,boot.7z?raw=true)<br>
@@ -21,7 +21,7 @@ permalink: /sony/
 [J9110 (Global/DualSIM) - 55.2.A.4.332 (A11)](https://mega.nz/file/74RkkA6S#MMeXVw8sTMy0Ty1uxHnzWWcs39VNQTzdCTXnUgICZGg)<br>
 [J9150 (Professional Edition) - 55.2.A.4.332 (A11)](https://mega.nz/file/uwQThTyL#ocWxUV70uXzGpGYNrWTp5OBMbPy_Mtg5mJLBFWVYs7Y)<br>
 
-## Xperia 5
+### Xperia 5
 ##### Xperia 5 Files
 [Xperia 5 (Japan) dtbo,vbmeta,boot](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/Xperia/Xperia5_JP_dtbo,vbmeta,boot.7z?raw=true)<br>
 [Xperia 5 (Global) dtbo,vbmeta,boot](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/Xperia/Xperia5_J8210_dtbo,vbmeta,boot.7z?raw=true)<br>

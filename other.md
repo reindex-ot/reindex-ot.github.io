@@ -4,7 +4,7 @@ title: Other
 permalink: /other/
 ---
 
-## QFIL
+### QFIL
 [Qualcomm Flash Image Loader](https://mega.nz/file/ypBG1ZzI#bw8D7p_48WpN7agvxwVH94XkzpGNXnWMk2zH6kupOS8)<br>
 [Qualcomm HS-USB QDLoader 9008 Driver](https://mega.nz/file/O4ZVSA6a#uK7003-5sLr0ISy37pNzoNwwBGDFqRW8HFMAUppVIyE)<br>
 [Qualcomm HS-USB QDLodaer 9008 Driver x64](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/edl_driver/Qualcomm_HS-USB_Drivers_x64_v2.1.2.2.zip)<br>
@@ -19,9 +19,9 @@ permalink: /other/
 Quectel QDLoader 9008 Driverは、AMD系の環境でもQFILが使用可能になります。<br>
 AMDな方はそちらもお試しください。<br>
 
-## OnePlus 9
+### OnePlus 9
 [Fuck OrangeState (Orange State Boot Messeage Remover)](https://drive.google.com/file/d/1MUlZYzqKGtAV4iqjjWHT4MMQe906LvmV/view?usp=sharing)<br>
 
-## GSI
-[Phh Treble Settings Japanese Module (Multiple Languages Support)](https://github.com/reindex-ot/TrebleApp_Japanese)<br>
-[Phh Treble Settings Multiple Languages Support Source](https://github.com/exthmui-10-treble/treble_app)
+### GSI
+[Phh Treble Settings Japanese Magisk Module (Multiple Languages Support)](https://github.com/reindex-ot/TrebleApp_Japanese)<br>
+[Phh Treble Settings Multiple Languages Support Source code](https://github.com/exthmui-10-treble/treble_app)

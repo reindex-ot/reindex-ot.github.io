@@ -5,8 +5,8 @@ permalink: /nothing/
 ---
 
 ### How to use (Fastboot ROM)
-<div class="wrap">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/x9vmZL6DLJk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<div class="youtubeWrapper">
+<iframe width="560" height="315" src="//www.youtube.com/embed/x9vmZL6DLJk?si=0xPxXEruC_A2qPna" frameborder="0" allowfullscreen></iframe>
 </div>
 ⚠ Flash should be 'fastboot flashing unlock' or fastboot'd' (fastboot reboot fastboot).<br>
 Note that if you don't do that, it will brick.

@@ -18,9 +18,11 @@ permalink: /lenovo/
 [Download](https://www.mediafire.com/file/xs0zj9nnmen5i7j/Y700_v13.0.586_ROM.7z/)<br>
 - <b>Legion Y700 dtbo,vbmeta,boot</b><br>
 [v14.0.255](https://www.mediafire.com/file/ri36vf0s50v7miw/Legion_Y700_v14.0.255_boot%252Cdtbo.vbmeta.7z/file)
-- <b>Legion Y700 Magisk Module</b><br>
+
+## Magisk Module
 [Lenovo Legion Y700 GSI Fix MOD](https://github.com/reindex-ot/LegionY700-GSI-Fix_MOD)<br>
-- <b>Misc</b><br>
+
+## Misc
 [Restore Serial Number (QFIL Required)](https://www.mediafire.com/file/hgi2i7tab5fh6rj/fpinfo_restore.bin/)<br>
 [Restore FRP (QFIL Required)](https://www.mediafire.com/file/9arstg8us7xfnf3/frp.bin/)<br>
 [Persist](https://www.mediafire.com/file/cmpf9t5d4h4tk2s/persist.img/)<br>

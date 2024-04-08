@@ -5,7 +5,7 @@ permalink: /nothing/
 ---
 
 ## Nothing Phone(1)
-#### Nothing Phone(1) boot.img Files (Magisk patched boot included)
+##### Nothing Phone(1) boot.img Files (Magisk patched boot included)
 [v1.1.0 (Global)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.0_Global.zip?raw=true)<br>
 [v1.1.3 (Global)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.3_Global.zip?raw=true)<br>
 [v1.1.4 (Global)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.4_Global.zip?raw=true)<br>
@@ -31,7 +31,7 @@ permalink: /nothing/
 [v2.5.3](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.5.3.zip?raw=true)<br>
 [v2.5.3A](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.5.3A.zip?raw=true)<br>
 
-#### Nothing Phone(1) Fastboot ROM (SourceForge)
+##### Nothing Phone(1) Fastboot ROM (SourceForge)
 [v1.1.0 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.1.0_Global.rar/download)<br>
 [v1.1.3 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.1.3_Global.rar/download)<br>
 [v1.1.4 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.1.4_Global.7z/download)<br>
@@ -57,7 +57,7 @@ permalink: /nothing/
 [v2.5.3](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.3.7z/download)<br>
 [v2.5.3A](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.3A.7z/download)<br>
 
-#### Nothing Phone(1) Local OTA Files (SourceForge)
+##### Nothing Phone(1) Local OTA Files (SourceForge)
 [v1.1.0 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.0.2_to_v1.1.0.zip/download)<br>
 [v1.1.2 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.0_to_v1.1.2.zip/download)<br>
 [v1.1.3 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.2_to_v1.1.3.zip/download)<br>
@@ -87,11 +87,11 @@ permalink: /nothing/
 [v2.5.3](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.2_hotfix_to_v2.5.3.zip/download)<br>
 [v2.5.3A](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.3_to_v2.5.3A.zip/download)<br>
 
-#### Nothing Phone(1) QFIL ROM (Required EDL Command or EDL Cable V1/V2)
+##### Nothing Phone(1) QFIL ROM (Required EDL Command or EDL Cable V1/V2)
 [QFIL ROM](https://sourceforge.net/projects/nothingphone-1-rom/files/QFIL/qfil_nothing_phone.rar/download)<br>
 
 ## Nothing Phone(2)
-#### Nothing Phone(2) boot.img Files (Magisk patched boot included)
+##### Nothing Phone(2) boot.img Files (Magisk patched boot included)
 [v2.0.2](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.0.2.zip)<br>
 [v2.0.2a](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.0.2a.zip)<br>
 [v2.0.3](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.0.3.zip)<br>
@@ -101,7 +101,7 @@ permalink: /nothing/
 [v2.5.2](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.5.2.zip)<br>
 [v2.5.3](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.5.3.zip)<br>
 
-#### Nothing Phone(2) Global Fastboot ROM (SourceForge) / ⚠Don't use in Pong_EEA and Pong_IND environments!!
+##### Nothing Phone(2) Global Fastboot ROM (SourceForge) / ⚠Don't use in Pong_EEA and Pong_IND environments!!
 [v2.0.2](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.0.2.7z/download)<br>
 [v2.0.2a](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.0.2a.7z/download)<br>
 [v2.0.3](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.0.3.7z/download)<br>

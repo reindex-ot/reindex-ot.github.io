@@ -5,9 +5,9 @@ permalink: /xiaomi/
 ---
 
 ## Redmi Note 10 JE (XIG02)
-- <b>Redme Note 10 JE Fastboot ROM (SourceForge)</b><br>
+### Redme Note 10 JE Fastboot ROM (SourceForge)
 ⚠ The partition size has changed since "v14.0.4.0". It is recommended to OTA with "v13.0.10.0" just to be safe.<br>
-「v14.0.4.0」以降からパーティションのサイズが変っています。念の為に一度「v13.0.10.0」でOTAを行なう事を推奨します。<br><br>
+「v14.0.4.0」以降からパーティションのサイズが変っています。念の為に一度「v13.0.10.0」でOTAを行なう事を推奨します。<br>
 [v12.5.12.0 (RKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V12.5.12.0_RKRJPKD.rar/download)<br>
 [v13.0.4.0 (SKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V13.0.4.0.SKRJPKD.rar/download)<br>
 [v13.0.5.0 (SKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V13.0.5.0.SKRJPKD.rar/download)<br>
@@ -22,15 +22,17 @@ permalink: /xiaomi/
 [v14.0.12.0 (TKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V14.0.12.0_TKRJPKD.7z/download)<br>
 [v14.0.21.0 (TKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V14.0.21.0_TKRJPKD.7z/download)<br>
 
-- <b>XIG02 Tools</b><br>
+#### Magisk Module
+[Redmi Note 10 JE FeliCa Module](https://github.com/reindex-ot/magisk-module-iris-felica/releases)<br>
+
+#### XIG02 Tools
 [XIG02 Bloatware Remover & Disabler](https://drive.google.com/file/d/1EMQ6pax-Boj67xyCixEF7Ql5oX_CtHKe/view?usp=sharing)<br>
 [Fuck AppCloud (AppCloud Disabler)](https://drive.google.com/file/d/1C8Uszdsie91VcHmIpTP8EIxq9sQJ-IDu/view?usp=sharing)<br>
 [Restore AppCloud](https://drive.google.com/file/d/1axGXUpmbaTE0uqQWoNvOerHUoEeWtYv2/view?usp=sharing)<br>
 [SDK Platform-Tools r29.0.5](https://drive.google.com/file/d/1wDN0bfmWSEaAx9KoN-7GI4sW0qo3XRo6/view?usp=shareing)<br>
-[Redmi Note 10 JE FeliCa Module](https://github.com/reindex-ot/magisk-module-iris-felica/releases)<br>
 
 ## Xiaomi 13
-- <b>China Model ROM</b><br>
+### China Model ROM
 AliExpressで購入した中国版Xiaomi 13に入っていた似非のグローバル版ROMです。(OTAはできません)<br>
 また、このFastboot ROMで中国版をrelockをしても問題はないかは未確認です。<br>
 このROMを使用してグローバル版と偽った物を転売する事を禁じます。悪用を確認した場合は公開をやめる可能性があります。<br>

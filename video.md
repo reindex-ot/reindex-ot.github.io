@@ -18,3 +18,4 @@ permalink: /video/
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/B-xXdkdKBMQ?si=PpLe0qMuLKULKQ1q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<br>

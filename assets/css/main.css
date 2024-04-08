@@ -1,16 +1,21 @@
-.youtubeWrapper{
-position: relative ;
-margin-top: 1.2em ;
-margin-bottom: 1.2em ;
-padding-top: 69px ;
-padding-bottom: 50% ;
-overflow: hidden ;
+.youtube {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-bottom: 56.25%;
 }
 
-.youtubeWrapper iframe {
-position: absolute ;
-top: 0 ;
-left: 0 ;
-height: 100% ;
-width: 100% ;
+.youtube iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+@media screen and (max-width: 768px) {
+  .youtube-wrapper {
+    /* スマホなどの少画面サイズ向けの個別設定 */
+  }
 }

@@ -4,11 +4,6 @@ title: Nothing
 permalink: /nothing/
 ---
 
-### How to use (Fastboot ROM)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x9vmZL6DLJk?si=0xPxXEruC_A2qPna" frameborder="0" allowfullscreen></iframe>
-⚠ Flash should be 'fastboot flashing unlock' or fastboot'd' (fastboot reboot fastboot).<br>
-Note that if you don't do that, it will brick.
-<br>
 ### Nothing Phone(1)
 ##### Nothing Phone(1) boot.img Files
 ###### Magisk patched boot included

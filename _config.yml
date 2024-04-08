@@ -7,7 +7,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-redirect-from
-  - youtube
+  - responsive-youtube-jekyll-tag
 
 minima_reboot:
   date_format: "%b %-d, %Y"

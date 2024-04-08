@@ -5,7 +5,7 @@ permalink: /xiaomi/
 ---
 
 ## Redmi Note 10 JE (XIG02)
-#### Redme Note 10 JE Fastboot ROM (SourceForge)
+##### Redme Note 10 JE Fastboot ROM (SourceForge)
 ⚠ The partition size has changed since "v14.0.4.0". It is recommended to OTA with "v13.0.10.0" just to be safe.<br>
 「v14.0.4.0」以降からパーティションのサイズが変っています。念の為に一度「v13.0.10.0」でOTAを行なう事を推奨します。<br>
 [v12.5.12.0 (RKRJPKD)](https://sourceforge.net/projects/redmi-note-10-je-rom/files/FastbootROM/Xiaomi_Iris_XIG02_MIUI_V12.5.12.0_RKRJPKD.rar/download)<br>
@@ -32,7 +32,7 @@ permalink: /xiaomi/
 [SDK Platform-Tools r29.0.5](https://drive.google.com/file/d/1wDN0bfmWSEaAx9KoN-7GI4sW0qo3XRo6/view?usp=shareing)<br>
 
 ## Xiaomi 13
-#### China Model ROM
+##### China Model ROM
 AliExpressで購入した中国版Xiaomi 13に入っていた似非のグローバル版ROMです。(OTAはできません)<br>
 また、このFastboot ROMで中国版をrelockをしても問題はないかは未確認です。<br>
 このROMを使用してグローバル版と偽った物を転売する事を禁じます。悪用を確認した場合は公開をやめる可能性があります。<br>

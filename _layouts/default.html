@@ -3,13 +3,13 @@ layout: compress
 ---
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
   {% include head.html %}
 
   <body>
 
     {% include header.html %}
-
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     <main aria-label="Content">
       <div id="content-container" class="container">
         {{ content }}

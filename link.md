@@ -25,6 +25,7 @@ permalink: /link/
 - [DMMGamePlayerFastLauncher](https://github.com/fa0311/DMMGamePlayerFastLauncher)
 - [obs-multi-rtmp](https://sorayuki.github.io/obs-multi-rtmp/)
 - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
+- [Starward](https://starward.scighost.com/)
 - [MIO-KITCHEN](https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE)
 - [Trainers' Legend G](https://github.com/MinamiChiwa/Trainers-Legend-G/)
 - [Trainers-Legend-G-External-Plugin](https://github.com/chinosk6/Trainers-Legend-G-External-Plugin)

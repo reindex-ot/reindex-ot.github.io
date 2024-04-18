@@ -14,3 +14,5 @@ Please, if you can offer this person a helping hand, please do. I am seriously t
 <b>PayPal:</b> [https://paypal.me/reindex](https://paypal.me/reindex)<br>
 <b>Revolut:</b> [https://revolut.me/reindex](https://revolut.me/reindex)<br>
 <b>Buy Me a Coffee:</b> [https://www.buymeacoffee.com/reindex](https://www.buymeacoffee.com/reindex)<br>
+<b>MIXI M:</b>
+[https://mixim.page.link/sXC5tsYPGryEJyHaA](https://mixim.page.link/sXC5tsYPGryEJyHaA)<br>

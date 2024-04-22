@@ -7,10 +7,10 @@ permalink: /other/
 ### QFIL
 [Qualcomm Flash Image Loader](https://mega.nz/file/ypBG1ZzI#bw8D7p_48WpN7agvxwVH94XkzpGNXnWMk2zH6kupOS8)<br>
 [Qualcomm HS-USB QDLoader 9008 Driver](https://mega.nz/file/O4ZVSA6a#uK7003-5sLr0ISy37pNzoNwwBGDFqRW8HFMAUppVIyE)<br>
-[Qualcomm HS-USB QDLodaer 9008 Driver x64](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/edl_driver/Qualcomm_HS-USB_Drivers_x64_v2.1.2.2.zip)<br>
-[Quectel QDLoader 9008 Driver](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/edl_driver/QDLoader%209008_Driver.zip)<br>
-[Quectel QDLoader 9008 Driver (2023/04/19)](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/edl_driver/QDLoader%209008_Driver_2023_4.zip)<br>
-[Quectel QDLoader 9008 Driver (2023/12/19)](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/edl_driver/QDLoader%209008_Driver_2023_12.zip)<br>
+[Qualcomm HS-USB QDLodaer 9008 Driver x64](https://github.com/reindex-ot/boot.img_repo/raw/main/other/edl_driver/Qualcomm_HS-USB_Drivers_x64_v2.1.2.2.zip)<br>
+[Quectel QDLoader 9008 Driver](https://github.com/reindex-ot/boot.img_repo/raw/main/other/edl_driver/QDLoader%209008_Driver.zip)<br>
+[Quectel QDLoader 9008 Driver (2023/04/19)](https://github.com/reindex-ot/boot.img_repo/raw/main/other/edl_driver/QDLoader%209008_Driver_2023_4.zip)<br>
+[Quectel QDLoader 9008 Driver (2023/12/19)](https://github.com/reindex-ot/boot.img_repo/raw/main/other/edl_driver/QDLoader%209008_Driver_2023_12.zip)<br>
 
 ##### QDLoader 9008 Driverについて
 自分が公開しているドライバーは、Qualcommの最新バージョンなドライバーになります。<br>

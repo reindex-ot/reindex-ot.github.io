@@ -14,30 +14,30 @@ If you don't do that, you'll get bricked. Okay?
 ### Nothing Phone(1)
 ##### Nothing Phone(1) boot.img Files
 ###### Magisk patched boot included
-[v1.1.0 (Global)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.0_Global.zip?raw=true)<br>
-[v1.1.3 (Global)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.3_Global.zip?raw=true)<br>
-[v1.1.4 (Global)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.4_Global.zip?raw=true)<br>
-[v1.1.5 (Global)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.5_Global.zip?raw=true)<br>
-[v1.1.6 (Global)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.6_Global.zip?raw=true)<br>
-[v1.1.7 (Global)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.1.7_Global.zip?raw=true)<br>
-[v1.5.0 (Beta1) (Global)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.5.0_Beta_Global.zip?raw=true)<br>
-[v1.5.1 (Beta2)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.5.1_Beta_Global.zip?raw=true)<br>
-[v1.5.1 (Beta2) (HotFix)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.5.1(hotfix)_Beta.zip?raw=true)<br>
-[v1.5.2](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.5.2.zip?raw=true)<br>
-[v1.5.3](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/lahaina_boot_v1.5.3.zip?raw=true)<br>
-[v1.5.3 (HotFix)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v1.5.3_hotfix.zip?raw=true)<br>
-[v1.5.4](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v1.5.4.zip?raw=true)<br>
-[v1.5.5](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v1.5.5.zip?raw=true)<br>
-[v1.5.6](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v1.5.6.zip?raw=true)<br>
-[v2.0.2](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.0.2.zip?raw=true)<br>
-[v2.0.2 (HotFix)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.0.2_hotfix.zip?raw=true)<br>
-[v2.0.4](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.0.4.zip?raw=true)<br>
-[v2.0.5](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.0.5.zip?raw=true)<br>
-[v2.5.1 (Beta1)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.5.1_beta1.zip?raw=true)<br>
-[v2.5.2](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.5.2.zip?raw=true)<br>
-[v2.5.2 (HotFix)](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.5.2_hotfix.zip?raw=true)<br>
-[v2.5.3](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.5.3.zip?raw=true)<br>
-[v2.5.3A](https://github.com/reindex-ot/reindex-ot.github.io/blob/main/boot_img/Spacewar_boot_v2.5.3A.zip?raw=true)<br>
+[v1.1.0 (Global)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v1.1.0_Global.zip)<br>
+[v1.1.3 (Global)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v1.1.3_Global.zip)<br>
+[v1.1.4 (Global)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v1.1.4_Global.zip)<br>
+[v1.1.5 (Global)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v1.1.5_Global.zip)<br>
+[v1.1.6 (Global)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v1.1.6_Global.zip)<br>
+[v1.1.7 (Global)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v1.1.7_Global.zip)<br>
+[v1.5.0 (Beta1) (Global)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v1.5.0_Beta_Global.zip)<br>
+[v1.5.1 (Beta2)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v1.5.1_Beta_Global.zip)<br>
+[v1.5.1 (Beta2) (HotFix)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v1.5.1(hotfix)_Beta.zip)<br>
+[v1.5.2](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v1.5.2.zip)<br>
+[v1.5.3](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v1.5.3.zip)<br>
+[v1.5.3 (HotFix)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v1.5.3_hotfix.zip)<br>
+[v1.5.4](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v1.5.4.zip)<br>
+[v1.5.5](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v1.5.5.zip)<br>
+[v1.5.6](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v1.5.6.zip)<br>
+[v2.0.2](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.0.2.zip)<br>
+[v2.0.2 (HotFix)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.0.2_hotfix.zip)<br>
+[v2.0.4](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.0.4.zip)<br>
+[v2.0.5](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.0.5.zip)<br>
+[v2.5.1 (Beta1)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.5.1_beta1.zip)<br>
+[v2.5.2](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.5.2.zip)<br>
+[v2.5.2 (HotFix)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.5.2_hotfix.zip)<br>
+[v2.5.3](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.5.3.zip)<br>
+[v2.5.3A](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.5.3A.zip)<br>
 
 ##### Nothing Phone(1) Fastboot ROM (SourceForge)
 [v1.1.0 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.1.0_Global.rar/download)<br>
@@ -102,14 +102,14 @@ If you don't do that, you'll get bricked. Okay?
 ### Nothing Phone(2)
 ##### Nothing Phone(2) boot.img Files
 ###### Magisk patched boot included
-[v2.0.2](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.0.2.zip)<br>
-[v2.0.2a](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.0.2a.zip)<br>
-[v2.0.3](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.0.3.zip)<br>
-[v2.0.4](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.0.4.zip)<br>
-[v2.5.1](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.5.1.zip)<br>
-[v2.5.1A](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.5.1A.zip)<br>
-[v2.5.2](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.5.2.zip)<br>
-[v2.5.3](https://github.com/reindex-ot/reindex-ot.github.io/raw/main/boot_img_pong/Pong_boot_v2.5.3.zip)<br>
+[v2.0.2](https://github.com/reindex-ot/boot.img_repo/blob/main/nothing/phone2/Pong_boot_v2.0.2.zip)<br>
+[v2.0.2a](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.0.2a.zip)<br>
+[v2.0.3](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.0.3.zip)<br>
+[v2.0.4](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.0.4.zip)<br>
+[v2.5.1](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.5.1.zip)<br>
+[v2.5.1A](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.5.1A.zip)<br>
+[v2.5.2](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.5.2.zip)<br>
+[v2.5.3](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.5.3.zip)<br>
 
 ##### Nothing Phone(2) Global Fastboot ROM (SourceForge)
 ###### ⚠Don't use in Pong_EEA and Pong_IND environments!!
@@ -126,3 +126,8 @@ If you don't do that, you'll get bricked. Okay?
 ###### Nothing Phone Magisk Module
 [Nothing Phone Patch](https://github.com/reindex-ot/magisk-module-nothing)<br>
 [Ndot to Roboto](https://github.com/reindex-ot/Ndot-to-Roboto)<br>
+
+##### Nothing support app
+[Nothing Quick Tools v1.3 JP](https://github.com/reindex-ot/boot.img_repo/raw/main/apk/NothingQuickTools-1.3_jp.apk)<br>
+[Nothing Quick Tools v1.4 JP](https://github.com/reindex-ot/boot.img_repo/raw/main/apk/NothingQuickTools-1.4_jp.apk)<br>
+[Nothing Quick Tools v1.5 JP](https://github.com/reindex-ot/boot.img_repo/raw/main/apk/NothingQuickTools-1.5_jp.apk)<br>

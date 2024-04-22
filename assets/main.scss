@@ -1,6 +1,8 @@
 ---
 ---
 
+/*レスポンシブ用*/
+
 .video-container {
   position: relative;
   width: 60%;
@@ -13,6 +15,40 @@
     height: 100% !important;
   }
 }
+
+/***追従するトップへ戻るボタン***/
+
+#page-top {
+    position: fixed;
+    right: 10px;
+    bottom: 25px;
+    height: 55px;
+    text-decoration: none;
+    font-weight: bold;
+    transform: rotate(90deg);
+    font-size: 80%;
+    line-height: 1.5rem;
+    color: #737373;
+    padding: 0 0 0 40px;
+    border-top: solid 1px;
+}
+#page-top::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: -1px;
+    left: 0px;
+    width: 30px;
+    border-top: solid 1px;
+    transform: rotate(35deg);
+    transform-origin: left top;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+/***トップへ戻るボタンここまで***/
 
 @import "minima-reboot";
 

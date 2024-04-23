@@ -110,6 +110,7 @@ If you don't do that, you'll get bricked. Okay?
 [v2.5.1A](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.5.1A.zip)<br>
 [v2.5.2](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.5.2.zip)<br>
 [v2.5.3](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.5.3.zip)<br>
+[v2.5.5](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.5.5.zip)<br>
 
 ##### Nothing Phone(2) Global Fastboot ROM (SourceForge)
 ###### ⚠Don't use in Pong_EEA and Pong_IND environments!!

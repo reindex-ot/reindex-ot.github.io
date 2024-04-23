@@ -122,6 +122,7 @@ If you don't do that, you'll get bricked. Okay?
 [v2.5.1A](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.1A.7z/download)<br>
 [v2.5.2](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.2.7z/download)<br>
 [v2.5.3](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.3.7z/download)<br>
+[v2.5.5](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.5.7z/download)<br>
 
 ##### Magisk Module
 ###### Nothing Phone Magisk Module

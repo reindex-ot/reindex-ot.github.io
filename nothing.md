@@ -38,6 +38,7 @@ If you don't do that, you'll get bricked. Okay?
 [v2.5.2 (HotFix)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.5.2_hotfix.zip)<br>
 [v2.5.3](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.5.3.zip)<br>
 [v2.5.3A](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.5.3A.zip)<br>
+[v2.5.5](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.5.5.zip)<br>
 
 ##### Nothing Phone(1) Fastboot ROM (SourceForge)
 [v1.1.0 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.1.0_Global.rar/download)<br>
@@ -64,6 +65,7 @@ If you don't do that, you'll get bricked. Okay?
 [v2.5.2 (HotFix)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.2_hotfix.7z/download)<br>
 [v2.5.3](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.3.7z/download)<br>
 [v2.5.3A](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.3A.7z/download)<br>
+[v2.5.5](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.5.7z/download)<br>
 
 ##### Nothing Phone(1) Local OTA Files (SourceForge)
 [v1.1.0 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.0.2_to_v1.1.0.zip/download)<br>
@@ -94,6 +96,7 @@ If you don't do that, you'll get bricked. Okay?
 [v2.5.2 (HotFix)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.2_to_v2.5.2_hotfix.zip/download)<br>
 [v2.5.3](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.2_hotfix_to_v2.5.3.zip/download)<br>
 [v2.5.3A](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.3_to_v2.5.3A.zip/download)<br>
+[v2.5.5](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.3A_to_v2.5.5.zip/download)<br>
 
 ##### Nothing Phone(1) QFIL ROM
 ######  Required EDL Command or EDL Cable V1/V2

@@ -23,4 +23,4 @@ permalink: /hiby/
 ##### HiBy Digital M300 blobs
 [GitLab Repo](https://gitlab.com/reindex_ot/hiby_digital_m300_blobs)
 ##### HiBy Digital M300 Device tree
-[GitHub Repo](https://github.com/reindex-ot/hiby_digital_m300)
+[GitHub Repo](https://github.com/twrpdtgen/android_device_hiby_M300)

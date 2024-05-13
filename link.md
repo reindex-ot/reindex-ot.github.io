@@ -77,3 +77,15 @@ permalink: /link/
 - [Ave Mujica](https://avemujica.bang-dream.com/)
 - [電音部 DEN-ON-BU](https://denonbu.jp/)
 - [D4DJ公式サイト](https://d4dj-pj.com/)
+
+#### 食品
+
+個人的に気になってる物や好きな物。<br>
+これまた「誰得?」と言われる。多分。
+
+- [明利酒類](https://meirishurui.com/)
+- [佐藤酒店](https://www.sake-ibaraki.com/)
+- [鈴木酒店](http://www.sake-online.com/)
+- [三芳菊酒造](https://www.instagram.com/miyoshikiku)
+- [イトウ製菓](https://www.mr-ito.jp/)
+- [是好醤](https://koreiijan.net/)

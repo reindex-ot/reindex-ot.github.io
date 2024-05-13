@@ -56,7 +56,7 @@ permalink: /link/
 #### 個人的に追っている物
 
 完全に個人的すぎる物です。<br>
-「誰得ですか?」と言われる、多分。
+「誰得ですか?」と言われる。多分。
 
 - [ヘブンバーンズレッド 公式サイト](https://heaven-burns-red.com/)
 - [She is Legend オフィシャルサイト](https://www.she-is-legend.com/)

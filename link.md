@@ -83,9 +83,17 @@ permalink: /link/
 個人的に気になってる物や好きな物。<br>
 これまた「誰得?」と言われる。多分。
 
+- [松屋フーズ](https://www.matsuyafoods.co.jp/)
+- [かつや](https://www.arclandservice.co.jp/katsuya/)
+- [ステーキ宮](https://www.miya.com/)
+- [ココス](https://www.cocos-jpn.co.jp/)
+- [タヴェルナハンバーグ](https://www.instagram.com/tavernahamburg)
+- [OwL](https://owl-ocha.com/)
 - [明利酒類](https://meirishurui.com/)
 - [佐藤酒店](https://www.sake-ibaraki.com/)
 - [鈴木酒店](http://www.sake-online.com/)
 - [三芳菊酒造](https://www.instagram.com/miyoshikiku)
+- [カルディコーヒーファーム](https://www.kaldi.co.jp/)
+- [業務スーパー](https://www.gyomusuper.jp/)
 - [イトウ製菓](https://www.mr-ito.jp/)
 - [是好醤](https://koreiijan.net/)

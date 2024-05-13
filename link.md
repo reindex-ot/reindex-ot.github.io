@@ -90,6 +90,7 @@ permalink: /link/
 - [ココス](https://www.cocos-jpn.co.jp/)
 - [タヴェルナハンバーグ](https://www.instagram.com/tavernahamburg)
 - [OwL](https://owl-ocha.com/)
+- [ティラミススター](https://thetiramisustar.com/)
 - [明利酒類](https://meirishurui.com/)
 - [佐藤酒店](https://www.sake-ibaraki.com/)
 - [鈴木酒店](http://www.sake-online.com/)

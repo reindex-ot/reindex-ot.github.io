@@ -25,3 +25,8 @@ AMDな方はそちらもお試しください。<br>
 ### GSI
 [Phh Treble Settings Japanese Magisk Module (Multiple Languages Support)](https://github.com/reindex-ot/TrebleApp_Japanese)<br>
 [Phh Treble Settings Multiple Languages Support Source code](https://github.com/exthmui-10-treble/treble_app)
+
+### Memo
+Androidの各種imgのバックアップの説明 (Japanese)<br>
+[GitHub Gist](https://gist.github.com/reindex-ot/3b453682b61d45ccc5bcfb2d645bb85a)<br>
+[Notion](https://fifth-ceramic-28f.notion.site/Android-img-28d6fb938b04498e9731c020c0d6591d)

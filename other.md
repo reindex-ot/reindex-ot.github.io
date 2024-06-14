@@ -29,4 +29,4 @@ AMDな方はそちらもお試しください。<br>
 ### Memo
 Androidの各種imgのバックアップの説明 (Japanese)<br>
 [GitHub Gist](https://gist.github.com/reindex-ot/3b453682b61d45ccc5bcfb2d645bb85a)<br>
-[Notion](https://fifth-ceramic-28f.notion.site/Android-img-28d6fb938b04498e9731c020c0d6591d)
+[Notion](https://reindex.notion.site/Android-img-28d6fb938b04498e9731c020c0d6591d?pvs=74)

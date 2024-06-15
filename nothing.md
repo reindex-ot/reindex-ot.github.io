@@ -114,6 +114,7 @@ If you don't do that, you'll get bricked. Okay?
 [v2.5.2](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.5.2.zip)<br>
 [v2.5.3](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.5.3.zip)<br>
 [v2.5.5](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.5.5.zip)<br>
+[v2.5.6](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.5.6.zip)<br>
 
 ##### Nothing Phone(2) Global Fastboot ROM (SourceForge)
 ###### ⚠Don't use in Pong_EEA and Pong_IND environments!!
@@ -126,6 +127,7 @@ If you don't do that, you'll get bricked. Okay?
 [v2.5.2](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.2.7z/download)<br>
 [v2.5.3](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.3.7z/download)<br>
 [v2.5.5](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.5.7z/download)<br>
+[v2.5.6](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.6.7z/download)<br>
 
 ##### Magisk Module
 ###### Nothing Phone Magisk Module

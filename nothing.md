@@ -132,6 +132,12 @@ If you don't do that, you'll get bricked. Okay?
 [v2.5.5](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.5.7z/download)<br>
 [v2.5.6](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.6.7z/download)<br>
 
+### Nothing Phone(2a)
+##### Nothing Phone(2a) init_boot.img Files
+###### Magisk patched init_boot included
+[v2.5.5a](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.5.5a_init_boot.zip)<br>
+[v2.5.6](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.5.6_init_boot.zip)<br>
+
 ##### Magisk Module
 ###### Nothing Phone Magisk Module
 [Nothing Phone Patch](https://github.com/reindex-ot/magisk-module-nothing)<br>

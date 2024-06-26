@@ -78,6 +78,8 @@ permalink: /link/
 - [Ave Mujica](https://avemujica.bang-dream.com/)
 - [電音部 DEN-ON-BU](https://denonbu.jp/)
 - [D4DJ公式サイト](https://d4dj-pj.com/)
+- [TSUKI Project Archive](https://systemspace.network/)
+- [Wired Sound For Wired People](https://fauux.neocities.org/)
 
 #### 食品
 

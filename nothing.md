@@ -143,7 +143,8 @@ If you don't do that, you'll get bricked. Okay?
 
 ##### Nothing Phone(2a) Fastboot ROM (GitHub)
 ###### Pacman/Pacman_EEA/Pacman_IND/Pacman_JPN SKU supported
-[Pacman Archive](https://github.com/spike0en/Pacman_Archive)
+[Pacman Archive](https://github.com/spike0en/Pacman_Archive)<br>
+[Nothing Phone 2a Fastboot ROM Flasher Japanese (Windows Only)](https://github.com/reindex-ot/flashtool)<br>
 
 ##### Magisk Module
 ###### Nothing Phone Magisk Module

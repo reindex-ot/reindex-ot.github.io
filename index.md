@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<img src="./img/vivlos.png"  width="100%" height="200">
+<img src="./img/vivlos.png"  width="100%" height="300">
 ## Welcome!
 AndroidのFastboot ROMやboot.img、その他諸々を公開しています。<br>
 Fastboot ROMにはADBとFastbootのバイナリが含まれていません。

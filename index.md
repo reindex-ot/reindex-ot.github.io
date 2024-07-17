@@ -8,7 +8,8 @@ layout: home
 ## Welcome!
 AndroidのFastboot ROMやboot.img、その他諸々を公開しています。<br>
 Fastboot ROMにはADBとFastbootのバイナリが含まれていません。
-[こちら](https://www.mediafire.com/file/lpjnhw7ii7nnmob/15_Seconds_Online_ADB_Installer_and_Updater.zip/)を必ず使用して環境の構築と最新のバージョンにしてください。Fastboot ROMなどの使用に関しては完全に自己責任となります。<br>
+[こちら](https://www.mediafire.com/file/lpjnhw7ii7nnmob/15_Seconds_Online_ADB_Installer_and_Updater.zip/)を必ず使用して環境の構築と最新のバージョンにしてください。<br>
+Fastboot ROMなどの使用に関しては完全に自己責任となります。<br><br>
 
 
 **さて、あなたのデバイスに魔法をかけにきましたよ。**

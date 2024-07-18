@@ -11,7 +11,7 @@ permalink: /sony/
 - [Xperia 1 (Japan/DualSIM) dtbo,vbmeta,boot](https://github.com/reindex-ot/boot.img_repo/raw/main/sony/Xperia1_J9110_JP(DualSIM)_dtbo,vbmeta,boot.7z)<br>
 - [Xperia 1 (Global/DualSIM) dtbo,vbmeta,boot](https://github.com/reindex-ot/boot.img_repo/raw/main/sony/Xperia1_J9110(DualSIM)_dtbo,vbmeta,boot.7z)<br>
 - [Xperia 1 Professional Edition dtbo,vbmeta,boot](https://github.com/reindex-ot/boot.img_repo/raw/main/sony/Xperia1_J9510(ProfessionalEdition)_dtbo,vbmeta,boot.7z)<br>
-- [Xperia 1 (Japan) wipe userdata](https://github.com/reindex-ot/boot.img_repo/raw/main/sony/Xperia1_JP_wipe_userdata.7z)<br>
+- [Xperia 1 (Japan) wipe userdata](https://github.com/reindex-ot/boot.img_repo/raw/main/sony/Xperia1_JP_wipe_userdata.7z)<br><br>
 ##### Xperia 1 Stock ROM (MEGA)
 - [SO-03L (docomo) - 55.2.D.3.22 (A11)](https://mega.nz/file/2ooAmYLI#ez4QfW3s4nipRKOT0vrby3NtFeCG0C4cCeQrziDOUW8)<br>
 - [SOV40 (au) - 55.2.C.3.21 (A11)](https://mega.nz/file/XwpHTSQZ#7ASh31HfdgbynMSiR3VuGMha20XT3Aetgk0sXghJp6w)<br>
@@ -26,7 +26,7 @@ permalink: /sony/
 - [Xperia 5 (Japan) dtbo,vbmeta,boot](https://github.com/reindex-ot/boot.img_repo/raw/main/sony/Xperia5_JP_dtbo,vbmeta,boot.7z)<br>
 - [Xperia 5 (Global) dtbo,vbmeta,boot](https://github.com/reindex-ot/boot.img_repo/raw/main/sony/Xperia5_J8210_dtbo,vbmeta,boot.7z)<br>
 - [Xperia 5 (Japan/DualSIM) dtbo,vbmeta,boot](https://github.com/reindex-ot/boot.img_repo/raw/main/sony/Xperia5_J9260(DualSIM)_dtbo,vbmeta,boot.7z)<br>
-- [Xperia 5 (Global/DualSIM) dtbo,vbmeta,boot](https://github.com/reindex-ot/boot.img_repo/raw/main/sony/Xperia5_J9210(DualSIM)_dtbo,vbmeta,boot.7z)<br>
+- [Xperia 5 (Global/DualSIM) dtbo,vbmeta,boot](https://github.com/reindex-ot/boot.img_repo/raw/main/sony/Xperia5_J9210(DualSIM)_dtbo,vbmeta,boot.7z)<br><br>
 ##### Xperia 5 Stock ROM (MEGA)
 - [SO-01M (docomo) - 55.2.D.3.22 (A11)](https://mega.nz/file/6txQFITA#nzf0W6t9umRlRBbJwYYHkYIL9plnP87Gbp1-EZPNZBs)<br>
 - [SOV41 (au) - 55.2.C.3.21 (A11)](https://mega.nz/file/O95FWKxR#x3vvkfj1uxlPhF76xwiSjhworYOg8dOmt8JeKIk8GBU)<br>

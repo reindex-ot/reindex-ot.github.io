@@ -4,7 +4,7 @@ title: Sony
 permalink: /sony/
 ---
 [こちら](https://sony.legit.id/)で配布されているほぼGSIなカスタムROMを使用する場合はAndroid 11のStock ROM(docomoまたはau)を必ず焼いてください。<br>
-Android 10(SoftBank)の場合、vendorの問題でデバイスの名が取得できない不具合が発生します。
+Android 10(SoftBank)の場合、vendorの問題でデバイス名が取得できない不具合が発生します。
 
 ### Xperia 1
 ##### Xperia 1 Files

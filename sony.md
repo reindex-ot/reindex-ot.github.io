@@ -6,6 +6,7 @@ permalink: /sony/
 
 ### Xperia 1
 ##### Xperia 1 Files
+###### Xperia 1 dtbo,vbmeta,boot
 - [Xperia 1 (Japan) dtbo,vbmeta,boot](https://github.com/reindex-ot/boot.img_repo/raw/main/sony/Xperia1_JP_dtbo,vbmeta,boot.7z)<br>
 - [Xperia 1 (Global) dtbo,vbmeta,boot](https://github.com/reindex-ot/boot.img_repo/raw/main/sony/Xperia1_J8110_dtbo,vbmeta,boot.7z)<br>
 - [Xperia 1 (Japan/DualSIM) dtbo,vbmeta,boot](https://github.com/reindex-ot/boot.img_repo/raw/main/sony/Xperia1_J9110_JP(DualSIM)_dtbo,vbmeta,boot.7z)<br>
@@ -25,6 +26,7 @@ permalink: /sony/
 
 ### Xperia 5
 ##### Xperia 5 Files
+###### Xperia 5 dtbo,vbmeta,boot
 - [Xperia 5 (Japan) dtbo,vbmeta,boot](https://github.com/reindex-ot/boot.img_repo/raw/main/sony/Xperia5_JP_dtbo,vbmeta,boot.7z)<br>
 - [Xperia 5 (Global) dtbo,vbmeta,boot](https://github.com/reindex-ot/boot.img_repo/raw/main/sony/Xperia5_J8210_dtbo,vbmeta,boot.7z)<br>
 - [Xperia 5 (Japan/DualSIM) dtbo,vbmeta,boot](https://github.com/reindex-ot/boot.img_repo/raw/main/sony/Xperia5_J9260(DualSIM)_dtbo,vbmeta,boot.7z)<br>

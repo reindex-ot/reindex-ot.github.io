@@ -12,6 +12,8 @@ permalink: /hiby/
 - [1.30_20240126-1851](https://drive.google.com/file/d/1L0QurUo5cP5Z8luGYCnFNgXG9fcKCxJ3/view?usp=sharing)<br>
 - [1.40_20240521-1829](https://drive.google.com/file/d/1P_W0ay1EffweCAcdTxgSAaqcV9M5vbLM/view?usp=sharing)<br>
 - [1.41_20240514-2009 (Beta)](https://drive.google.com/file/d/1KBQMUToT4jeYmg1_91URAK8P_cmamJhF/view?usp=sharing)
+
+
 ##### HiBy Digital M300 Fastboot ROM (Google Drive)
 ###### 注意: v1.00の環境は「fastboot reboot fastboot」を実行してfastbootdにしてください。
 ###### Note: v1.00 environments, run "fastboot reboot fastboot" to fastbootd.
@@ -20,6 +22,8 @@ permalink: /hiby/
 - [1.30_20240126-1851](https://drive.google.com/file/d/1fgp74rAQTD4oubPlEfxVQf_P3cNWpj9E/view?usp=sharing)<br>
 - [1.40_20240521-1829](https://drive.google.com/file/d/1WAeP-wZX8RutUuHlfG0V2LMvz4M3wuET/view?usp=sharing)<br>
 - [1.41_20240514-2009 (Beta)](https://drive.google.com/file/d/1CmRB_7SpJMsuxnUGlCtVxPySYmnRiizo/view?usp=sharing)
+
+
 ##### HiBy Digital M300 Local OTA Files (Google Drive)
 - [1.10](https://drive.google.com/file/d/1K2TFEQVvL2AYovUH5aj2cO8QOzDGXq9-/view?usp=sharing)<br>
 - [1.20](https://drive.google.com/file/d/1YQjNFeUM9VoIgHynsGlRG22e0iM4ZAVd/view?usp=sharing)<br>

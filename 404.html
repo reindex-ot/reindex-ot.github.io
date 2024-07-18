@@ -3,22 +3,26 @@ permalink: /404.html
 layout: default
 ---
 
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 100%;
+    text-align: center;
+  }
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</style>
 
-  {% include head.html %}
+<div class="container">
+  <h1>404</h1>
 
-  <body>
-
-    {% include header.html %}
-
-    <main aria-label="Content">
-      <div id="content-container" class="container">
-        {{ content }}
-      </div>
-    </main>
-
-    {% include footer.html %}
+  <p><strong>Page not found :(</strong></p>
+  <p>リクエストされたページは見つかりませんでした。</p>
+</div>
 
   </body>
 

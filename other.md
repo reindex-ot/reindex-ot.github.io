@@ -16,8 +16,17 @@ permalink: /other/
 自分が公開しているドライバーは、Qualcommの最新バージョンなドライバーになります。<br>
 テストモードの環境でなくてもQFILが認識するドライバーです。テストモードで再起動される事もありません。<br>
 「Qualcomm HS-USB Diagnostics 900E」が出た場合は、それに「Qualcomm HS-USB QDLoader 9008 Driver」のドライバーを上書きで更新すればEDLが認識します。<br>
-Quectel QDLoader 9008 Driverは、AMD系の環境でもQFILが使用可能になります。<br>
+｢Quectel QDLoader 9008 Driver｣は、AMD系の環境でもQFILが使用可能になります。<br>
 AMDな方はそちらもお試しください。<br>
+
+### MTK Driver
+- [Windows XP](https://drive.google.com/file/d/1rbDPoruUCM-ss0fDI6pZOj7qxoHvo089/view?usp=drive_link)<br>
+- [Windows 7,8,10](https://drive.google.com/file/d/168ZyTrZ-dSMTq01jf4BdQV-djWmf-x42/view?usp=drive_link)<br>
+- [Windows 11](https://drive.google.com/file/d/1d9Xz19YL6eRd-gxM7G9TTZcO3RaM3fO7/view?usp=drive_link)<br>
+
+##### MTK Driverについて
+各種OSに適合したドライバーをダウンロードしてください。<br>
+インストールが正常にされればVCOMの接続が可能になります。<br>
 
 ### OnePlus 9
 - [Fuck OrangeState (Orange State Boot Messeage Remover)](https://drive.google.com/file/d/1MUlZYzqKGtAV4iqjjWHT4MMQe906LvmV/view?usp=sharing)<br>

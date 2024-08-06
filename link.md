@@ -70,7 +70,7 @@ permalink: /link/
 - [AC部コミュニサイト](https://www.ac-bu.info/)
 - [WATARU336](https://bansoukou.org/)
 - [Project:;COLD](https://www.project-cold.net/)
-- [「シスタープリンセス」20周年特設サイト](http://sister-princess20th.com/)
+- [「シスタープリンセス」25周年特設サイト](http://sister-princess20th.com/)
 - [アニメ「ガールズバンドクライ」公式サイト](https://girls-band-cry.com/)
 - [ひみつのアイプリ](https://aipri.jp/)
 - [学園アイドルマスター](https://gakuen.idolmaster-official.jp/)

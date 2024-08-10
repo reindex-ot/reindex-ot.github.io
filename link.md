@@ -21,6 +21,7 @@ permalink: /link/
 - [AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking)
 - [Nullgram](https://github.com/qwq233/Nullgram)
 - [SmartTube](https://smarttubeapp.github.io/)
+- [Glyphify](https://github.com/Fr4nKB/Glyphify)
 
 #### Windows Apps
 - [DMMGamePlayerFastLauncher](https://github.com/fa0311/DMMGamePlayerFastLauncher)

@@ -154,7 +154,6 @@ If you don't do that, you'll get bricked. Okay?
 - [Nothing Phone Patch](https://github.com/reindex-ot/magisk-module-nothing)<br>
 - [Ndot to Roboto](https://github.com/reindex-ot/Ndot-to-Roboto)<br>
 
-##### Nothing support app
-- [Nothing Quick Tools v1.3 JP](https://github.com/reindex-ot/boot.img_repo/raw/main/apk/NothingQuickTools-1.3_jp.apk)<br>
-- [Nothing Quick Tools v1.4 JP](https://github.com/reindex-ot/boot.img_repo/raw/main/apk/NothingQuickTools-1.4_jp.apk)<br>
-- [Nothing Quick Tools v1.5 JP](https://github.com/reindex-ot/boot.img_repo/raw/main/apk/NothingQuickTools-1.5_jp.apk)<br>
+##### Nothing Support Apps
+- [NothingQuickTools](https://github.com/DylanAkp/NothingQuickTools)
+- [Glyphify](https://github.com/Fr4nKB/Glyphify)

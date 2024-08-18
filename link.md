@@ -20,6 +20,7 @@ permalink: /link/
 - [umamusume-localify-android](https://github.com/Kimjio/umamusume-localify-android/)
 - [AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking)
 - [Nullgram](https://github.com/qwq233/Nullgram)
+- [Cherrygram](https://github.com/arsLan4k1390/Cherrygram)
 - [SmartTube](https://smarttubeapp.github.io/)
 - [Glyphify](https://github.com/Fr4nKB/Glyphify)
 

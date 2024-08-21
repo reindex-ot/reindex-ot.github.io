@@ -149,6 +149,7 @@ If you don't do that, you'll get bricked. Okay?
 - [Pacman Archive](https://github.com/spike0en/Pacman_Archive)<br>
 - [Nothing Phone(2a) Fastboot ROM Flasher Japanese (Windows Only)](https://github.com/reindex-ot/flashtool)<br>
 
+### App & Magisk Module
 ##### Magisk Module
 ###### Nothing Phone Magisk Module
 - [Nothing Phone Patch](https://github.com/reindex-ot/magisk-module-nothing)<br>

@@ -13,6 +13,7 @@ permalink: /link/
 - [Miku UI](https://github.com/Miku-UI/manifesto)
 - [Project Elixir](https://projectelixiros.com/)
 - [AOSPA](https://paranoidandroid.co/)
+- [LeafOS](https://leafos.org/)
 
 #### Android Apps
 - [Gramophone](https://github.com/AkaneTan/Gramophone)

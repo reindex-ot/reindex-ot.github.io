@@ -79,12 +79,13 @@ permalink: /link/
 - [学園アイドルマスター](https://gakuen.idolmaster-official.jp/)
 - [せいぜいがんばれ! 魔法少女くるみ](https://www.seizeiganbare.jp/)
 - [BanG Dream! It's MyGO!!!!!](https://anime.bang-dream.com/mygo/)
-- [Ave Mujica](https://avemujica.bang-dream.com/)
+- [BanG Dream! Ave Mujica](https://anime.bang-dream.com/avemujica/)
 - [ヒプノシスマイク](https://hypnosismic.com/)
 - [電音部 DEN-ON-BU](https://denonbu.jp/)
 - [D4DJ公式サイト](https://d4dj-pj.com/)
 - [TSUKI Project Archive](https://systemspace.network/)
 - [Wired Sound For Wired People](https://fauux.neocities.org/)
+- [The Cutting Room Floor](https://tcrf.net/)
 
 #### 食品
 

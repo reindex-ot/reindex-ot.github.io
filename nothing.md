@@ -147,12 +147,13 @@ If you don't do that, you'll get bricked. Okay?
 ##### Nothing Phone(2a) Fastboot ROM (GitHub)
 ###### Pacman/Pacman_EEA/Pacman_IND/Pacman_JPN SKU supported
 - [Pacman Archive](https://github.com/spike0en/Pacman_Archive)<br>
-- [Nothing Phone(2a) Fastboot ROM Flasher Japanese (Windows Only)](https://github.com/reindex-ot/flashtool)<br>
+- [Nothing Phone(2a) Fastboot ROM  Flasher Japanese (Windows Only)](https://github.com/reindex-ot/flashtool)<br>
 
 ### CMF Phone 1
 ##### CMF Phone 1 init_boot.img Files
 ###### Magisk patched init_boot included
 - [v2.6.0](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v2.6.0_init_boot.zip)<br>
+
 ##### CMF Phone 1 Fastboot ROM (GitHub)
 - [Tetris Archive](https://github.com/spike0en/Tetris_Archive)<br>
 

@@ -18,7 +18,7 @@ permalink: /other/
 「Qualcomm HS-USB Diagnostics 900E」が出た場合は、それに「Qualcomm HS-USB QDLoader 9008 Driver」のドライバーを上書きで更新すればEDLが認識します。<br>
 ｢Quectel QDLoader 9008 Driver｣は、AMD系の環境でもQFILが使用可能になります。AMDな方はそちらもお試しください。<br>
 
-### MTK Driver
+### MTK VCOM Driver
 - [Windows XP](https://drive.google.com/uc?export=download&id=1rbDPoruUCM-ss0fDI6pZOj7qxoHvo089)
 - [Windows 7,8,10](https://drive.google.com/uc?export=download&id=168ZyTrZ-dSMTq01jf4BdQV-djWmf-x42)
 - [Windows 11](https://drive.google.com/uc?export=download&id=1d9Xz19YL6eRd-gxM7G9TTZcO3RaM3fO7)

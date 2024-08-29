@@ -13,11 +13,10 @@ permalink: /other/
 - [Quectel QDLoader 9008 Driver (2023/12/19)](https://github.com/reindex-ot/boot.img_repo/raw/main/other/edl_driver/QDLoader%209008_Driver_2023_12.zip)
 
 ##### QDLoader 9008 Driverについて
-自分が公開しているドライバーは、Qualcommの最新バージョンなドライバーになります。
-テストモードの環境でなくてもQFILが認識するドライバーです。テストモードで再起動される事もありません。
-「Qualcomm HS-USB Diagnostics 900E」が出た場合は、それに「Qualcomm HS-USB QDLoader 9008 Driver」のドライバーを上書きで更新すればEDLが認識します。
-｢Quectel QDLoader 9008 Driver｣は、AMD系の環境でもQFILが使用可能になります。
-AMDな方はそちらもお試しください。
+自分が公開しているドライバーは、Qualcommの最新バージョンなドライバーになります。<br>
+テストモードの環境でなくてもQFILが認識するドライバーです。テストモードで再起動される事もありません。<br>
+「Qualcomm HS-USB Diagnostics 900E」が出た場合は、それに「Qualcomm HS-USB QDLoader 9008 Driver」のドライバーを上書きで更新すればEDLが認識します。<br>
+｢Quectel QDLoader 9008 Driver｣は、AMD系の環境でもQFILが使用可能になります。AMDな方はそちらもお試しください。<br>
 
 ### MTK Driver
 - [Windows XP](https://drive.google.com/uc?export=download&id=1rbDPoruUCM-ss0fDI6pZOj7qxoHvo089)
@@ -25,8 +24,8 @@ AMDな方はそちらもお試しください。
 - [Windows 11](https://drive.google.com/uc?export=download&id=1d9Xz19YL6eRd-gxM7G9TTZcO3RaM3fO7)
 
 ##### MTK Driverについて
-各種OSに適合したドライバーをダウンロードしてください。
-インストールが正常にされればVCOMの接続が可能になります。
+各種OSに適合したドライバーをダウンロードしてください。<br>
+インストールが正常にされればVCOMの接続が可能になります。<br>
 このドライバーはMTKClient、MTKなNothing Flash Toolなどで必須になります。
 
 ### OnePlus 9

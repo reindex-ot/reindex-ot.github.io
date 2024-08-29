@@ -40,7 +40,9 @@ permalink: /xiaomi/
 
 ### Xiaomi 13
 ##### China Model ROM
-AliExpressで購入した中国版Xiaomi 13に入っていた似非のグローバル版ROMです。(OTAはできません)
+AliExpressで購入した中国版Xiaomi 13に入っていた似非のグローバル版ROMです。(OTAはできません)<br>
 また、このFastboot ROMで中国版をrelockをしても問題はないかは未確認です。
-このROMを使用してグローバル版と偽った物を転売する事を禁じます。悪用を確認した場合は公開をやめる可能性があります。
+
+ ⚠ このROMを使用してグローバル版と偽った物を転売する事を禁じます。<br>
+悪用を確認した場合は公開をやめる可能性があります。
 - [MIUI v14.0.9.0 TMSZIXM (Fake Global)](https://mega.nz/file/KhxFwbxa#F5xSNElRaWRKtDTQO4_MF8fsKUxzQ0YzEu-8C4tvFIE)

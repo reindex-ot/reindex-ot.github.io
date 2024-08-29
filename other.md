@@ -23,7 +23,7 @@ permalink: /other/
 - [Windows 7,8,10](https://drive.google.com/uc?export=download&id=168ZyTrZ-dSMTq01jf4BdQV-djWmf-x42)
 - [Windows 11](https://drive.google.com/uc?export=download&id=1d9Xz19YL6eRd-gxM7G9TTZcO3RaM3fO7)
 
-##### MTK Driverについて
+##### MTK VCOM Driverについて
 各種OSに適合したドライバーをダウンロードしてください。<br>
 インストールが正常にされればVCOMの接続が可能になります。<br>
 このドライバーはMTKClient、MTKなNothing Flash Toolなどで必須になります。

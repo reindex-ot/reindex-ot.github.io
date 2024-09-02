@@ -24,6 +24,7 @@ permalink: /link/
 - [Cherrygram](https://github.com/arsLan4k1390/Cherrygram)
 - [SmartTube](https://smarttubeapp.github.io/)
 - [Glyphify](https://github.com/Fr4nKB/Glyphify)
+- [MMRL](https://github.com/DerGoogler/MMRL)
 
 #### Windows Apps
 - [DMMGamePlayerFastLauncher](https://github.com/fa0311/DMMGamePlayerFastLauncher)

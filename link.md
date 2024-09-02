@@ -19,7 +19,7 @@ permalink: /link/
 - [Gramophone](https://github.com/AkaneTan/Gramophone)
 - [Graysky](https://graysky.app/)
 - [umamusume-localify-android](https://github.com/Kimjio/umamusume-localify-android/)
-- [AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking)
+- [AppErrorsTracking (CI build)](https://github.com/KitsunePie/AppErrorsTracking)
 - [Nullgram](https://github.com/qwq233/Nullgram)
 - [Cherrygram](https://github.com/arsLan4k1390/Cherrygram)
 - [SmartTube](https://smarttubeapp.github.io/)

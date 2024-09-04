@@ -16,25 +16,27 @@ permalink: /link/
 - [LeafOS](https://leafos.org/)
 
 #### Android Apps
-- [Gramophone](https://github.com/AkaneTan/Gramophone)
+- [Gramophone](https://github.com/AkaneTan/Gramophone/)
 - [Graysky](https://graysky.app/)
 - [umamusume-localify-android](https://github.com/Kimjio/umamusume-localify-android/)
-- [AppErrorsTracking (CI build)](https://github.com/KitsunePie/AppErrorsTracking)
-- [Nullgram](https://github.com/qwq233/Nullgram)
-- [Cherrygram](https://github.com/arsLan4k1390/Cherrygram)
+- [AppErrorsTracking (CI build)](https://github.com/KitsunePie/AppErrorsTracking/)
+- [Nullgram](https://github.com/qwq233/Nullgram/)
+- [Cherrygram](https://github.com/arsLan4k1390/Cherrygram/)
 - [SmartTube](https://smarttubeapp.github.io/)
-- [Glyphify](https://github.com/Fr4nKB/Glyphify)
-- [MMRL](https://github.com/DerGoogler/MMRL)
+- [Glyphify](https://github.com/Fr4nKB/Glyphify/)
+- [MMRL](https://github.com/DerGoogler/MMRL/)
 
 #### Windows Apps
-- [DMMGamePlayerFastLauncher](https://github.com/fa0311/DMMGamePlayerFastLauncher)
+- [DMMGamePlayerFastLauncher](https://github.com/fa0311/DMMGamePlayerFastLauncher/)
 - [obs-multi-rtmp](https://sorayuki.github.io/obs-multi-rtmp/)
-- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
+- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/)
 - [Starward](https://starward.scighost.com/)
-- [MIO-KITCHEN](https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE)
+- [MIO-KITCHEN](https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE/)
 - [Trainers' Legend G](https://github.com/MinamiChiwa/Trainers-Legend-G/)
-- [Trainers-Legend-G-External-Plugin](https://github.com/chinosk6/Trainers-Legend-G-External-Plugin)
-- [umamusume-localify (Kimjio build)](https://github.com/Kimjio/umamusume-localify)
+- [Trainers-Legend-G-External-Plugin](https://github.com/chinosk6/Trainers-Legend-G-External-Plugin/)
+- [umamusume-localify (Kimjio build)](https://github.com/Kimjio/umamusume-localify/)
+- [Windhawk](https://windhawk.net/)
+- [Free Download Manager](https://www.freedownloadmanager.org/)
 
 #### Web Browser Add-Ons
 - [FastStream](https://faststream.online/)
@@ -56,7 +58,7 @@ permalink: /link/
 - [日本語化工房](https://www.nihongoka.com/)
 - [TiltStr::不定期版](http://tiltstr.seesaa.net/)
 - [アパタイト](https://www.appetite-game.com/)
-- [CHILL OUT DISPENSARY](https://twitter.com/chillout_cbd)
+- [CHILL OUT DISPENSARY](https://twitter.com/chillout_cbd/)
 
 
 #### 個人的に追っている物

@@ -122,7 +122,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.5.5](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.5.5.zip)
 - [v2.5.6](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.5.6.zip)
 - [v2.6.0](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.6.0.zip)
-- [v2.6.0 (Sep.Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.6.0-240828-1751.zip)
+- [v2.6.0 (Sep Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.6.0-240828-1751.zip)
 
 ##### Nothing Phone(2) Global Fastboot ROM (SourceForge)
 ###### ⚠Don't use in Pong_EEA and Pong_IND environments!!
@@ -137,7 +137,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.5.5](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.5.7z/download)
 - [v2.5.6](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.6.7z/download)
 - [v2.6.0](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.6.0.7z/download)
-- [v2.6.0 (Sep.Update)](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.6.0-240828-1751.7z/download)
+- [v2.6.0 (Sep Update)](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.6.0-240828-1751.7z/download)
 
 ##### Nothing Phone(2) Flash Tool (GoogleDrive)
 ######  Required EDL Command or EDL Cable V2
@@ -145,10 +145,11 @@ If you don't do that, you'll get bricked. Okay?
 
 ### Nothing Phone(2a)
 ##### Nothing Phone(2a) init_boot.img Files
-###### Magisk patched init_boot included
+###### Magisk patched init_boot included (Pacman_JPNとありますが、SKUは問わず使用可能です)
 - [v2.5.5a](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.5.5a_init_boot.zip)
 - [v2.5.6](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.5.6_init_boot.zip)
 - [v2.6.0](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.6.0_init_boot.zip)
+- [v2.6.0 (Sep Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.6.0-240828-1906_init_boot.zip)
 
 ##### Nothing Phone(2a) Fastboot ROM (GitHub)
 ###### Pacman/Pacman_EEA/Pacman_IND/Pacman_JPN SKU supported

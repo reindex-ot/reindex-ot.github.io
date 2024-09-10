@@ -3,7 +3,7 @@ layout: page
 title: Nothing
 permalink: /nothing/
 ---
-### How to use (Fastboot ROM)
+### ■ How to use (Fastboot ROM)
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x9vmZL6DLJk?si=cC450KSKrAI0ZgZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -181,7 +181,7 @@ If you don't do that, you'll get bricked. Okay?
 - [NothingQuickTools](https://github.com/DylanAkp/NothingQuickTools)
 - [Glyphify](https://github.com/Fr4nKB/Glyphify)
 
-#### ROM Archives Link
+### ■ ROM Archives Link
 - [Spacewar](https://github.com/spike0en/Spacewar_Archive)
 - [Pong](https://github.com/spike0en/Pong_Archive)
 - [Pacman & PacmanPro](https://github.com/spike0en/Pacman_Archive)

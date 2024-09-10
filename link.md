@@ -8,14 +8,14 @@ permalink: /link/
 殆どが日本語訳で開発のお手伝いをしている物になります。<br>
 ...その他にも色々日本語化してるけどね。
 
-#### Android ROM
+#### ■ Android ROM
 
 - [Miku UI](https://github.com/Miku-UI/manifesto)
 - [Project Elixir](https://projectelixiros.com/)
 - [AOSPA](https://paranoidandroid.co/)
 - [LeafOS](https://leafos.org/)
 
-#### Android Apps
+#### ■ Android Apps
 - [Gramophone](https://github.com/AkaneTan/Gramophone/)
 - [Graysky](https://graysky.app/)
 - [umamusume-localify-android](https://github.com/Kimjio/umamusume-localify-android/)
@@ -26,7 +26,7 @@ permalink: /link/
 - [Glyphify](https://github.com/Fr4nKB/Glyphify/)
 - [MMRL](https://github.com/DerGoogler/MMRL/)
 
-#### Windows Apps
+#### ■ Windows Apps
 - [DMMGamePlayerFastLauncher](https://github.com/fa0311/DMMGamePlayerFastLauncher/)
 - [obs-multi-rtmp](https://sorayuki.github.io/obs-multi-rtmp/)
 - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/)
@@ -38,10 +38,10 @@ permalink: /link/
 - [Windhawk](https://windhawk.net/)
 - [Free Download Manager](https://www.freedownloadmanager.org/)
 
-#### Web Browser Add-Ons
+#### ■ Web Browser Add-Ons
 - [FastStream](https://faststream.online/)
 
-#### お世話になっている所や人
+#### ■ お世話になっている所や人
 
 中の人がお世話になっている所や人をまとめています。
 
@@ -61,7 +61,7 @@ permalink: /link/
 - [CHILL OUT DISPENSARY](https://twitter.com/chillout_cbd/)
 
 
-#### 個人的に追っている物
+#### ■ 個人的に追っている物
 
 完全に個人的すぎる物です。<br>
 「誰得ですか?」と言われる。多分。
@@ -90,7 +90,7 @@ permalink: /link/
 - [Wired Sound For Wired People](https://fauux.neocities.org/)
 - [The Cutting Room Floor](https://tcrf.net/)
 
-#### 食品
+#### ■ 食品
 
 個人的に気になってる物や好きな物。<br>
 これまた「誰得?」と言われる。多分。

@@ -4,7 +4,7 @@ title: Xiaomi
 permalink: /xiaomi/
 ---
 
-### Redmi Note 10 JE (XIG02)
+### ■ Redmi Note 10 JE (XIG02)
 ##### Redme Note 10 JE Fastboot ROM (SourceForge)
 
 ###### ⚠ The partition size has changed since "v14.0.4.0". It is recommended to OTA with "v13.0.10.0" just to be safe.
@@ -38,7 +38,7 @@ permalink: /xiaomi/
 - [Restore AppCloud](https://drive.google.com/uc?export=download&id=1axGXUpmbaTE0uqQWoNvOerHUoEeWtYv2)
 - [SDK Platform-Tools r29.0.5](https://drive.google.com/uc?export=download&id=1wDN0bfmWSEaAx9KoN-7GI4sW0qo3XRo6)
 
-### Xiaomi 13
+### ■ Xiaomi 13
 ##### China Model ROM
 AliExpressで購入した中国版Xiaomi 13に入っていた似非のグローバル版ROMです。(OTAはできません)<br>
 また、このFastboot ROMで中国版をrelockをしても問題はないかは未確認です。

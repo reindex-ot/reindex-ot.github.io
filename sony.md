@@ -6,7 +6,7 @@ permalink: /sony/
 [こちら](https://sony.legit.id/)で配布されているほぼGSIなカスタムROMを使用する場合はAndroid 11のStock ROM(docomoまたはau)を必ず焼いてください。<br>
 Android 10(SoftBank)の場合、vendorの問題でデバイス名が取得できない不具合が発生します。
 
-### Xperia 1
+### ■ Xperia 1
 ##### Xperia 1 Files
 ###### Xperia 1 dtbo,vbmeta,boot
 - [Xperia 1 (Japan) dtbo,vbmeta,boot](https://github.com/reindex-ot/boot.img_repo/raw/main/sony/Xperia1_JP_dtbo,vbmeta,boot.7z)
@@ -26,7 +26,7 @@ Android 10(SoftBank)の場合、vendorの問題でデバイス名が取得でき
 - [J9110 (Global/DualSIM) - 55.2.A.4.332 (A11)](https://mega.nz/file/74RkkA6S#MMeXVw8sTMy0Ty1uxHnzWWcs39VNQTzdCTXnUgICZGg)
 - [J9150 (Professional Edition) - 55.2.A.4.332 (A11)](https://mega.nz/file/uwQThTyL#ocWxUV70uXzGpGYNrWTp5OBMbPy_Mtg5mJLBFWVYs7Y)
 
-### Xperia 5
+### ■ Xperia 5
 ##### Xperia 5 Files
 ###### Xperia 5 dtbo,vbmeta,boot
 - [Xperia 5 (Japan) dtbo,vbmeta,boot](https://github.com/reindex-ot/boot.img_repo/raw/main/sony/Xperia5_JP_dtbo,vbmeta,boot.7z)

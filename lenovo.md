@@ -4,7 +4,7 @@ title: Lenovo
 permalink: /lenovo/
 ---
 
-### Legion Y700
+### ■ Legion Y700 (Gen1)
 ##### Legion Y700 QFIL ROM (MediaFire/GoogleDrive)
 ###### Required EDL reboot command,button combo,EDL Cable V2 (Hydra EDL),Testpoint
 - [v13.0.586](https://www.mediafire.com/file/dwu5qmb59hu6dk0/LEGION_Stock_EDL.7z/)

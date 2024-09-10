@@ -4,7 +4,7 @@ title: HiBy
 permalink: /hiby/
 ---
 
-### HiBy Digital M300
+### ■ HiBy Digital M300
 ##### HiBy Digital M300 boot.img Files (GoogleDrive)
 ###### Magisk patched boot included
 - [1.00_20230927-2114](https://drive.google.com/uc?export=download&id=1hMVh6t5YuFux8K-TjQ0ZNvq1IBNvKAXP)

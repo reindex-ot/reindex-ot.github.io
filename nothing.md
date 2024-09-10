@@ -11,7 +11,7 @@ permalink: /nothing/
 ⚠ Please use "fastboot flashing unlock" or "fastbootd (fastboot reboot fastboot)" to perform Flash.<br>
 If you don't do that, you'll get bricked. Okay?
 
-### Nothing Phone(1)
+### ■ Nothing Phone(1) - Spacewar
 ##### Nothing Phone(1) boot.img Files
 ###### Magisk patched boot included
 - [v1.1.0 (Global)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v1.1.0_Global.zip)
@@ -108,7 +108,7 @@ If you don't do that, you'll get bricked. Okay?
 ######  Required EDL Command or EDL Cable V1/V2
 - [QFIL ROM](https://sourceforge.net/projects/nothingphone-1-rom/files/QFIL/qfil_nothing_phone.rar/download)
 
-### Nothing Phone(2)
+### ■ Nothing Phone(2) - Pong
 ##### Nothing Phone(2) boot.img Files
 ###### Magisk patched boot included
 - [v2.0.2](https://github.com/reindex-ot/boot.img_repo/blob/main/nothing/phone2/Pong_boot_v2.0.2.zip)
@@ -143,7 +143,7 @@ If you don't do that, you'll get bricked. Okay?
 ######  Required EDL Command or EDL Cable V2
 - [Nothing Flash Tool](https://drive.google.com/uc?export=download&id=1kOrmPSibLIxQxexTxbHL7ebNsLaeGQKq)
 
-### Nothing Phone(2a)
+### ■ Nothing Phone(2a) - Pacman
 ##### Nothing Phone(2a) init_boot.img Files
 ###### Magisk patched init_boot included (Pacman_JPNとありますが、SKUは問わず使用可能です)
 - [v2.5.5a](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.5.5a_init_boot.zip)
@@ -160,7 +160,7 @@ If you don't do that, you'll get bricked. Okay?
 ######  Power Off → Press Vol Up+Down → Connect USB
 - [Nothing Flash Tool](https://drive.google.com/uc?export=download&id=1_j0xWERd2YkC5ktyQjqXI67tmVRXg7LF)
 
-### CMF Phone 1
+### ■ CMF Phone 1 - Tetris
 ##### CMF Phone 1 init_boot.img Files
 ###### Magisk patched init_boot included
 - [v2.6.0](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v2.6.0_init_boot.zip)
@@ -172,7 +172,7 @@ If you don't do that, you'll get bricked. Okay?
 ######  Power Off → Press Vol Up+Down → Connect USB
 - [Nothing Flash Tool](https://drive.google.com/uc?export=download&id=1TQ_-ESPmfqM--3h-Dy9OKHDRVaI7buB5)
 
-### App and Magisk Module
+### ■ App and Magisk Module
 ##### Nothing Magisk Modules
 - [Nothing Phone Patch](https://github.com/reindex-ot/magisk-module-nothing)
 - [Ndot to Roboto](https://github.com/reindex-ot/Ndot-to-Roboto)
@@ -180,3 +180,9 @@ If you don't do that, you'll get bricked. Okay?
 ##### Nothing Support Apps
 - [NothingQuickTools](https://github.com/DylanAkp/NothingQuickTools)
 - [Glyphify](https://github.com/Fr4nKB/Glyphify)
+
+#### ROM Archives Link
+- [Spacewar](https://github.com/spike0en/Spacewar_Archive)
+- [Pong](https://github.com/spike0en/Pong_Archive)
+- [Pacman & PacmanPro](https://github.com/spike0en/Pacman_Archive)
+- [Tetris](https://github.com/spike0en/Tetris_Archive)

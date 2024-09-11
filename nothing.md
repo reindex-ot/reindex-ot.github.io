@@ -40,7 +40,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.5.3A](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.5.3A.zip)
 - [v2.5.5](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.5.5.zip)
 - [v2.5.6](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.5.6.zip)
-- [v2.6.0](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.6.0.zip)
+- [v2.6.0 (Sep Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.6.0-240904-1634.zip)
 
 ##### Nothing Phone(1) Fastboot ROM (SourceForge)
 - [v1.1.0 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.1.0_Global.rar/download)
@@ -70,6 +70,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.5.5](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.5.7z/download)
 - [v2.5.6](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.6.7z/download)
 - [v2.6.0](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.6.0.7z/download)
+- [v2.6.0 (Sep Update)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.6.0-240904-1634.7z/download)
 
 ##### Nothing Phone(1) Local OTA Files (SourceForge)
 - [v1.1.0 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.0.2_to_v1.1.0.zip/download)
@@ -103,6 +104,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.5.5](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.3A_to_v2.5.5.zip/download)
 - [v2.5.6](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.5_to_v2.5.6.zip/download)
 - [v2.6.0](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/2.5.6_to_2.6.0.zip/download)
+- [v2.6.0 (Sep Update)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.6.0_to_v2.6.0%28sep%29.zip/download)
 
 ##### Nothing Phone(1) QFIL ROM
 ######  Required EDL Command or EDL Cable V1/V2

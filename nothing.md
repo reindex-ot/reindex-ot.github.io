@@ -40,6 +40,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.5.3A](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.5.3A.zip)
 - [v2.5.5](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.5.5.zip)
 - [v2.5.6](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.5.6.zip)
+- [v2.6.0](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.6.0.zip)
 - [v2.6.0 (Sep Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.6.0-240904-1634.zip)
 
 ##### Nothing Phone(1) Fastboot ROM (SourceForge)

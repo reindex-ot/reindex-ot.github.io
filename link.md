@@ -68,7 +68,7 @@ permalink: /link/
 
 - [ヘブンバーンズレッド 公式サイト](https://heaven-burns-red.com/)
 - [She is Legend オフィシャルサイト](https://www.she-is-legend.com/)
-- [KREVA Official Site](https://www.kreva.biz/)
+- [KREVA CLUB](https://kreva.club/)
 - [STEREO DIVE FOUNDATION](https://stereodivefoundation.jp/)
 - [(K)NoW_NAME Official Site](https://knowname.jp/)
 - [DJMAX Entertainment](https://www.youtube.com/@DJMAXENT)

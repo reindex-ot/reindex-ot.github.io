@@ -7,7 +7,7 @@ permalink: /frp/
 [https://kuku.lu/s3aa78f](https://kuku.lu/s3aa78f)
 
 ### QR Code
-<img src="https://raw.githubusercontent.com/reindex-ot/reindex-ot.github.io/main/img/frp.png" width="15%">
+<img src="https://raw.githubusercontent.com/reindex-ot/reindex-ot.github.io/main/img/frp.png" width="30%">
 
 ### Open Apps
 ##### QR Code Reader

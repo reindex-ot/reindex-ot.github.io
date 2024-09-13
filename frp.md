@@ -14,7 +14,7 @@ permalink: /frp/
 - [DialCode *#85#](tel:100-000-000/#Intent;scheme=android-app;end)
 ##### Samsung Store
 - [Samsung Store Direct](samsungapps://MainPage)
-- [Samsung Store:Alliance Shield](samsungapps://ProductDetail/com.rrivenllc.shieldx)
-- [Samsung Store:Activity Manager](samsungapps://ProductDetail/com.activitymanager)
-- [Samsung Store:XShare](samsungapps://ProductDetail/com.infinix.xshare)
-- [Samsung Store:Files Shortcut](samsungapps://ProductDetail/org.aospstudio.files)
+- [Samsung Store: Alliance Shield](samsungapps://ProductDetail/com.rrivenllc.shieldx)
+- [Samsung Store: Activity Manager](samsungapps://ProductDetail/com.activitymanager)
+- [Samsung Store: XShare](samsungapps://ProductDetail/com.infinix.xshare)
+- [Samsung Store: Files Shortcut](samsungapps://ProductDetail/org.aospstudio.files)

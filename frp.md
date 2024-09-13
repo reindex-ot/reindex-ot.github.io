@@ -3,8 +3,8 @@ layout: page
 title: FRP Bypass
 permalink: /frp/
 ---
-### App
-##### QR Code
+### Open Apps
+##### QR Code Reader
 - [Open QR Scanner](intent://com.secuso.privacyFriendlyCodeScanner.QrScanActivity/#Intent;scheme=android-app;end)
 
 ##### Google Play
@@ -21,7 +21,7 @@ permalink: /frp/
 - [Open Samsung Store: XShare](samsungapps://ProductDetail/com.infinix.xshare)
 - [Open Samsung Store: Files Shortcut](samsungapps://ProductDetail/org.aospstudio.files)
 
-##### Open Apps
+##### Apps
 - [Open XShare](intent://com.infinix.xshare/#Intent;scheme=android-app;end)
 - [Open Files Shortcut](intent://org.aospstudio.files/#Intent;scheme=android-app;end)
 - [Open Activity Manager](intent://com.activitymanager/#Intent;scheme=android-app;end)

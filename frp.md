@@ -7,8 +7,9 @@ permalink: /frp/
 何となく作成、需要があるかは定かではない。ここを使う理由がある人は限られる場所です。<br>
 某所と異なり、アクセスを容易にするために｢短縮URL｣と｢QRコード｣を置いてます。
 
-#### Short URL
+#### Short URL & Link
 - [https://kuku.lu/s3aa78f](https://kuku.lu/s3aa78f)
+- [E-FRP](https://easy-firmware.com/efrp/)
 
 #### QR Code
 <img src="https://raw.githubusercontent.com/reindex-ot/reindex-ot.github.io/main/img/frp.png" width="20%">

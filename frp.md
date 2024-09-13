@@ -8,13 +8,13 @@ permalink: /frp/
 某所と異なり、アクセスを容易にするために｢短縮URL｣と｢QRコード｣を置いてます。
 
 #### Short URL
-[https://kuku.lu/s3aa78f](https://kuku.lu/s3aa78f)
+- [https://kuku.lu/s3aa78f](https://kuku.lu/s3aa78f)
 
 #### QR Code
 <img src="https://raw.githubusercontent.com/reindex-ot/reindex-ot.github.io/main/img/frp.png" width="20%">
 
 #### YouTube
-[FRP Bypass](https://www.youtube.com/results?search_query=FRP+Bypass)
+- [FRP Bypass](https://www.youtube.com/results?search_query=FRP+Bypass)
 
 #### Open Apps
 ##### QR Code Reader

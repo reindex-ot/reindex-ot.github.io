@@ -21,15 +21,12 @@ permalink: /frp/
 - [Open Samsung Store: Files Shortcut](samsungapps://ProductDetail/org.aospstudio.files)
 
 ##### Apps
-- [Open XShare](intent://com.infinix.xshare/#Intent;scheme=android-app;end)
 - [Open Files Shortcut](intent://org.aospstudio.files/#Intent;scheme=android-app;end)
-- [Open Activity Manager](intent://com.activitymanager/#Intent;scheme=android-app;end)
-- [Open Package Disabler](intent://com.school.optimize/#Intent;scheme=android-app;end)
 
 ##### Settings
 - [Open Settings](intent://com.android.settings/#Intent;scheme=android-app;end)
 - [Open PIN Code](intent://com.google.android.gms/#Intent;scheme=promote_smartlock_scheme;end)
-- [Open MyFiles App](intent://com.sec.android.app.myfiles/#Intent;scheme=android-app;end)
+- [Open Samsung My Files](intent://com.sec.android.app.myfiles/#Intent;scheme=android-app;end)
 
 ##### Other
 - [Open Alliance Shield](intent://com.rrivenllc.shieldx/#Intent;scheme=android-app;end)

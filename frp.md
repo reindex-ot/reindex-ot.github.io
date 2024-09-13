@@ -3,13 +3,17 @@ layout: page
 title: FRP Bypass
 permalink: /frp/
 ---
-### Short URL
+
+何となく作成、需要があるかは定かではない。ここを使う理由がある人は限られる場所です。<br>
+某所と異なり、アクセスを容易にするために｢短縮URL｣と｢QRコード｣を置いてます。
+
+#### Short URL
 [https://kuku.lu/s3aa78f](https://kuku.lu/s3aa78f)
 
-### QR Code
+#### QR Code
 <img src="https://raw.githubusercontent.com/reindex-ot/reindex-ot.github.io/main/img/frp.png" width="20%">
 
-### Open Apps
+#### Open Apps
 ##### QR Code Reader
 - [Open QR Scanner](intent://com.secuso.privacyFriendlyCodeScanner.QrScanActivity/#Intent;scheme=android-app;end)
 
@@ -50,7 +54,7 @@ permalink: /frp/
 - [Open Quick Shortcut Maker](intent://com.sika524.android.quickshortcut/#Intencom.google.android.gmst;scheme=android-app;end)
 - [Open Splashtop](intent://com.splashtop.streamer.addon.knox/#Intent;scheme=android-app;end)
 
-### Install Apps
+#### Install Apps
 ###### Package Disabler
 - [Package Disabler PDC](https://github.com/reindex-ot/frp_bypass/raw/main/frp/apk/PackageDisabler_pdc.apk)
 - [Disable System UI](https://github.com/reindex-ot/frp_bypass/raw/main/frp/xml/pd_disable_apps_disable_systemUI.xml)

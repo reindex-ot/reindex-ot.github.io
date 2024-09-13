@@ -9,7 +9,6 @@ permalink: /frp/
 
 ##### Google Play
 - [Open Google Play](intent://Easy-Firmware.com.com#Intent;scheme=http;package=com.google.android.apps.searchlite;end)
-- [Open Gmail](eft@gmail.com)
 
 ##### Enable ADB Tecno/Infinix
 - [Open Dialer Code (*#85#)](tel:100-000-000/#Intent;scheme=android-app;end)

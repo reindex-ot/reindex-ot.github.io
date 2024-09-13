@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Bypass FRP
+title: FRP Bypass
 permalink: /frp/
 ---

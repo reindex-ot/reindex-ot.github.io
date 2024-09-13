@@ -43,3 +43,14 @@ permalink: /frp/
 - [Open Alliance Shield](intent://com.rrivenllc.shieldx/#Intent;scheme=android-app;end)
 - [Open Quick Shortcut Maker](intent://com.sika524.android.quickshortcut/#Intencom.google.android.gmst;scheme=android-app;end)
 - [Open Splashtop](intent://com.splashtop.streamer.addon.knox/#Intent;scheme=android-app;end)
+
+### Install Apps
+###### Package Disabler
+- [Package Disabler PDC](https://github.com/reindex-ot/frp_bypass/raw/main/frp/apk/PackageDisabler_pdc.apk)
+- [Disable System UI](https://github.com/reindex-ot/frp_bypass/raw/main/frp/xml/pd_disable_apps_disable_systemUI.xml)
+- [Disable Google Service](https://github.com/reindex-ot/frp_bypass/raw/main/frp/xml/pd_disable_apps_disable_googleservice.xml)
+- [Disable System UI/MDM/Google/Knox](https://github.com/reindex-ot/frp_bypass/raw/main/frp/xml/pd_disable_apps_disable_mdmknox.xml)
+
+###### LG Devices
+- [LGBackup Market (Old)](https://github.com/reindex-ot/frp_bypass/raw/main/frp/LG/old/LGBackup_Market.lbf)
+- [LGBackup Market (New)](https://github.com/reindex-ot/frp_bypass/raw/main/frp/LG/new/LGBackup_Market.lbf)

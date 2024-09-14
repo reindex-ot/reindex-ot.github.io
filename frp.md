@@ -21,11 +21,15 @@ permalink: /frp/
 ##### QR Code Reader
 - [Open QR Scanner](intent://com.secuso.privacyFriendlyCodeScanner.QrScanActivity/#Intent;scheme=android-app;end)
 
-##### Google Play
-- [Open Google Play](intent://Easy-Firmware.com.com#Intent;scheme=http;package=com.google.android.apps.searchlite;end)
+##### Settings
+- [Open Settings](intent://com.android.settings/#Intent;scheme=android-app;end)
+- [Open PIN Code](intent://com.google.android.gms/#Intent;scheme=promote_smartlock_scheme;end)
 
 ##### Enable ADB Tecno/Infinix
 - [Open Dialer Code (*#85#)](tel:100-000-000/#Intent;scheme=android-app;end)
+
+##### Google Play
+- [Open Google Play](intent://Easy-Firmware.com.com#Intent;scheme=http;package=com.google.android.apps.searchlite;end)
 
 ##### Samsung Store
 - [Open Samsung Store](samsungapps://MainPage)
@@ -35,15 +39,11 @@ permalink: /frp/
 - [Open Samsung Store: Alliance Shield](samsungapps://ProductDetail/com.rrivenllc.shieldx)
 
 ##### Apps
+- [Open Samsung My Files](intent://com.sec.android.app.myfiles/#Intent;scheme=android-app;end)
 - [Open Activity Manager](intent://com.activitymanager/#Intent;scheme=android-app;end)
 - [Open XShare](intent://com.infinix.xshare/#Intent;scheme=android-app;end)
 - [Open Files Shortcut](intent://org.aospstudio.files/#Intent;scheme=android-app;end)
 - [Open Package Disabler](intent://com.school.optimize/#Intent;scheme=android-app;end)
-
-##### Settings
-- [Open Settings](intent://com.android.settings/#Intent;scheme=android-app;end)
-- [Open PIN Code](intent://com.google.android.gms/#Intent;scheme=promote_smartlock_scheme;end)
-- [Open Samsung My Files](intent://com.sec.android.app.myfiles/#Intent;scheme=android-app;end)
 
 ##### Other
 - [Open Google Search](intent://com.google.android.googlequicksearchbox/#Intent;scheme=android-app;end)

@@ -153,6 +153,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.5.6](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.5.6_init_boot.zip)
 - [v2.6.0](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.6.0_init_boot.zip)
 - [v2.6.0 (Sep Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.6.0-240828-1906_init_boot.zip)
+- [v3.0.0 Open Beta1](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v3.0.0-OB1_init_boot.zip)
 
 ##### Nothing Phone(2a) Fastboot ROM (GitHub)
 ###### Pacman/Pacman_EEA/Pacman_IND/Pacman_JPN SKU supported

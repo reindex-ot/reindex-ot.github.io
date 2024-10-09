@@ -81,6 +81,7 @@ permalink: /link/
 - [ひみつのアイプリ](https://aipri.jp/)
 - [学園アイドルマスター](https://gakuen.idolmaster-official.jp/)
 - [せいぜいがんばれ! 魔法少女くるみ](https://www.seizeiganbare.jp/)
+- [ぷにるはかわいいスライム](https://puniru-anime.com/)
 - [BanG Dream! It's MyGO!!!!!](https://anime.bang-dream.com/mygo/)
 - [BanG Dream! Ave Mujica](https://anime.bang-dream.com/avemujica/)
 - [ヒプノシスマイク](https://hypnosismic.com/)

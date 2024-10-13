@@ -164,6 +164,14 @@ If you don't do that, you'll get bricked. Okay?
 ######  Power Off → Press Vol Up+Down → Connect USB
 - [Nothing Flash Tool](https://drive.google.com/uc?export=download&id=1_j0xWERd2YkC5ktyQjqXI67tmVRXg7LF)
 
+##### Nothing Phone(2a) Pacman_JPN Join Nothing OS 3.0 Open Beta (Local OTA File)
+Pacman_JPN(日本国内版)でNothing OS 3.0のOpen Betaに参加するためのローカルOTAファイルです。<br>
+JPNのモデルではBeta参加用のAPKをインストールしても、**ボタンがグレーアウトしているため一般参加ができません。**<br>
+｢NothingOfflineOtaUpdate｣や｢adb sideload｣を使用してBetaのローカルOTAを行なうと強制的にBetaに参加できます(FeliCaの機能も維持されます)。
+######  Nothing OS 3.0 Local OTA File (OneDrive)
+- [Nothing OS 3.0 Beta1](https://1drv.ms/u/s!AgEojapKY5xGx1zZB8i6nLDLnDZR?e=nS9Qg0)
+- [Nothing OS 2.6 Rollback](https://1drv.ms/u/s!AgEojapKY5xGx1tOkwCrQI923xTj?e=AwmzgT)
+
 ### ■ CMF Phone 1 - Tetris
 ##### CMF Phone 1 init_boot.img Files
 ###### Magisk patched init_boot included

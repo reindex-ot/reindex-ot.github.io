@@ -126,6 +126,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.5.6](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.5.6.zip)
 - [v2.6.0](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.6.0.zip)
 - [v2.6.0 (Sep Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.6.0-240828-1751.zip)
+- [v2.6.0 (Oct Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.6.0-241016-1700.zip)
 
 ##### Nothing Phone(2) Global Fastboot ROM (SourceForge)
 ###### ⚠Don't use in Pong_EEA and Pong_IND environments!!
@@ -141,6 +142,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.5.6](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.6.7z/download)
 - [v2.6.0](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.6.0.7z/download)
 - [v2.6.0 (Sep Update)](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.6.0-240828-1751.7z/download)
+- [v2.6.0 (Oct Update)](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.6.0-241016-1700.7z/download)
 
 ##### Nothing Phone(2) Flash Tool (GoogleDrive)
 ######  Required EDL Command or EDL Cable V2

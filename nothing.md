@@ -179,6 +179,7 @@ JPNのモデルではBeta参加用のAPKをインストールしても、**ボ�
 ###### Magisk patched init_boot included
 - [v2.6.0](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v2.6.0_init_boot.zip)
 - [v2.6.0 (Sep Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v2.6.0-240910-1735_init_boot.zip)
+- [v2.6.0 (Oct Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v2.6.0-241021-2030_init_boot.zip)
 
 ##### CMF Phone 1 Fastboot ROM (GitHub)
 - [Tetris Archive](https://github.com/spike0en/Tetris_Archive)

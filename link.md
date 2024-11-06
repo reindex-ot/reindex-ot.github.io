@@ -58,7 +58,7 @@ permalink: /link/
 - [日本語化工房](https://www.nihongoka.com/)
 - [TiltStr::不定期版](http://tiltstr.seesaa.net/)
 - [アパタイト](https://www.appetite-game.com/)
-- [CHILL OUT DISPENSARY](https://twitter.com/chillout_cbd/)
+- [電脳秘密基地 土浦店](https://x.com/dennou_3)
 
 
 #### ■ 個人的に追っている物

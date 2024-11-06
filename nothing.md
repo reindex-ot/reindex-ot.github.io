@@ -127,6 +127,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.6.0](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.6.0.zip)
 - [v2.6.0 (Sep Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.6.0-240828-1751.zip)
 - [v2.6.0 (Oct Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.6.0-241016-1700.zip)
+- [v3.0.0 (Beta1)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v3.0.0_Beta1.zip)
 
 ##### Nothing Phone(2) Global Fastboot ROM (SourceForge)
 ###### ⚠Don't use in Pong_EEA and Pong_IND environments!!
@@ -143,6 +144,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.6.0](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.6.0.7z/download)
 - [v2.6.0 (Sep Update)](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.6.0-240828-1751.7z/download)
 - [v2.6.0 (Oct Update)](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.6.0-241016-1700.7z/download)
+- [v3.0.0 (Beta1)](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v3.0.0_Beta1.7z/download)
 
 ##### Nothing Phone(2) Flash Tool (GoogleDrive)
 ######  Required EDL Command or EDL Cable V2
@@ -192,6 +194,7 @@ JPNのモデルではBeta参加用のAPKをインストールしても、**ボ�
 ##### Nothing Magisk Modules
 - [Nothing Phone Patch](https://github.com/reindex-ot/magisk-module-nothing)
 - [Ndot to Roboto](https://github.com/reindex-ot/Ndot-to-Roboto)
+- [Bye-bye NotoSerif](https://github.com/reindex-ot/Bye-bye-NotoSerif)
 
 ##### Nothing Support Apps
 - [NothingQuickTools](https://github.com/DylanAkp/NothingQuickTools)

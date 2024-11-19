@@ -179,7 +179,7 @@ JPNのモデルではBeta参加用のAPKをインストールしても、**ボ�
 ######  Nothing OS 3.0 Local OTA File (OneDrive) : ロールバックファイルでのダウングレードは初期化が必要です。
 - [Nothing OS 3.0 Beta1 (Incremental)](https://1drv.ms/u/c/469c634aaa8d2801/EQEojapKY5wggEbcIwAAAAABvcbTQsuemV2D15TiDEFLkA?e=rEuwhX)
 - [Nothing OS 3.0 Beta2 (Incremental)](https://1drv.ms/u/c/469c634aaa8d2801/EdVNe8GKcJJGuJ9NyG6flrUBBhkrGKp5Cnngu6I4xQBqtg?e=fbACbW)
-- [Nothing OS 3.0 Beta2 (Full ROM)](https://1drv.ms/u/c/469c634aaa8d2801/EUcXYCDoYwpEuwWuA7GM5EQBLcKvse-17J67n6NtsnOl7Q)
+- [Nothing OS 3.0 Beta2 (Full)](https://1drv.ms/u/c/469c634aaa8d2801/EUcXYCDoYwpEuwWuA7GM5EQBLcKvse-17J67n6NtsnOl7Q)
 - [Nothing OS 2.6 Rollback](https://1drv.ms/u/c/469c634aaa8d2801/EQEojapKY5wggEbbIwAAAAABSzl7NxbqsGHzGvWyDHb8JQ?e=hPU9Mg)
 
 ### ■ CMF Phone 1 - Tetris

@@ -16,6 +16,7 @@ permalink: /link/
 - [LeafOS](https://leafos.org/)
 
 #### ■ Android Apps
+
 - [Gramophone](https://github.com/AkaneTan/Gramophone/)
 - [Graysky](https://graysky.app/)
 - [umamusume-localify-android](https://github.com/Kimjio/umamusume-localify-android/)
@@ -27,6 +28,7 @@ permalink: /link/
 - [MMRL](https://github.com/DerGoogler/MMRL/)
 
 #### ■ Windows Apps
+
 - [DMMGamePlayerFastLauncher](https://github.com/fa0311/DMMGamePlayerFastLauncher/)
 - [obs-multi-rtmp](https://sorayuki.github.io/obs-multi-rtmp/)
 - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/)
@@ -39,6 +41,7 @@ permalink: /link/
 - [Free Download Manager](https://www.freedownloadmanager.org/)
 
 #### ■ Web Browser Add-Ons
+
 - [FastStream](https://faststream.online/)
 
 #### ■ お世話になっている所や人
@@ -76,7 +79,7 @@ permalink: /link/
 - [AC部コミュニサイト](https://www.ac-bu.info/)
 - [WATARU336](https://bansoukou.org/)
 - [Project:;COLD](https://www.project-cold.net/)
-- [「シスタープリンセス」25周年特設サイト](http://sister-princess20th.com/)
+- [「シスタープリンセス」25周年特設サイト](https://sister-princess25th.com/)
 - [アニメ「ガールズバンドクライ」公式サイト](https://girls-band-cry.com/)
 - [ひみつのアイプリ](https://aipri.jp/)
 - [学園アイドルマスター](https://gakuen.idolmaster-official.jp/)
@@ -87,6 +90,8 @@ permalink: /link/
 - [ヒプノシスマイク](https://hypnosismic.com/)
 - [電音部 DEN-ON-BU](https://denonbu.jp/)
 - [D4DJ公式サイト](https://d4dj-pj.com/)
+- [ネガティヴハッピィ](https://negahapi.com/)
+- [primaniacs](https://primaniacs.com/)
 - [TSUKI Project Archive](https://systemspace.network/)
 - [Wired Sound For Wired People](https://fauux.neocities.org/)
 - [The Cutting Room Floor](https://tcrf.net/)

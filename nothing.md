@@ -160,6 +160,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.5.6](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.5.6_init_boot.zip)
 - [v2.6.0](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.6.0_init_boot.zip)
 - [v2.6.0 (Sep Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.6.0-240828-1906_init_boot.zip)
+- [v2.6.0 (Oct Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.6.0-241021-2253_init_boot.zip)
 - [v3.0.0 (Beta1)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v3.0.0-OB1_init_boot.zip)
 - [v3.0.0 (Beta2)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v3.0.0-OB2_init_boot.zip)
 

@@ -190,8 +190,9 @@ JPNのモデルではBeta参加用のAPKをインストールしても、**ボ�
 - [v2.6.0 (Oct Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v2.6.0-241021-2030_init_boot.zip)
 - [v2.6.0 (Dec Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v2.6.0-241125-2107_init_boot.zip)
 
-##### CMF Phone 1 Fastboot ROM (GitHub)
-- [Tetris Archive](https://github.com/spike0en/Tetris_Archive)
+##### CMF Phone 1 Fastboot ROM (Pixeldrain)
+- [v2.6.0 (Oct Update)](https://pixeldrain.com/u/TZF5yTNW)
+- [v2.6.0 (Dec Update)](https://pixeldrain.com/u/HEc6WKXC)
 
 ##### CMF Phone 1 Flash Tool (GoogleDrive)
 ######  Power Off → Press Vol Up+Down → Connect USB

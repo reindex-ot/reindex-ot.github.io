@@ -4,9 +4,6 @@ title: Nothing
 permalink: /nothing/
 ---
 ### 重要なお知らせ
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2VU_P1Obhyw?si=bhIoG8uoMbdjdUh_" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 #### 日本語
 自分が公開しているファイルをあたかも[自分が公開してるっぽい振る舞いでミラーしている人](https://github.com/quintenvandamme/nothing_archive)がいるようです。<br>
@@ -20,6 +17,10 @@ It seems someone is mirroring the files I’ve published, [acting as if they’r
 For now, I’m exhausted from running around trying to deal with this, so I’m thinking of stopping the public release of all files.<br>
 If the person in question deletes their repository and site, I might consider resuming the release.<br>
 **GET IN TOUCH, Quinten Van Damme?**<br>
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XLyl82rqdnk?si=0w52nK82PxGOb_qZ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### ■ How to use (Fastboot ROM)
 <div class="video-container">

@@ -92,6 +92,7 @@ permalink: /link/
 - [D4DJ公式サイト](https://d4dj-pj.com/)
 - [ネガティヴハッピィ](https://negahapi.com/)
 - [primaniacs](https://primaniacs.com/)
+- [FAIRYTAIL PARFUM](https://www.fairytail.jp/)
 - [TSUKI Project Archive](https://systemspace.network/)
 - [Wired Sound For Wired People](https://fauux.neocities.org/)
 - [The Cutting Room Floor](https://tcrf.net/)

@@ -3,24 +3,13 @@ layout: page
 title: Nothing
 permalink: /nothing/
 ---
-### 重要なお知らせ
 
-#### 日本語
-自分が公開しているファイルをあたかも[自分が公開してるっぽい振る舞いでミラーしている人](https://github.com/quintenvandamme/nothing_archive)がいるようです。<br>
-とりあえず奔走して疲れたんで各ファイルの公開を止めようかと思います。<br>
-原因の人がリポジトリとサイトの削除をやったのであれば公開を再開するでしょう。<br>
-**あと連絡をよこせ、Quinten Van Damme君?**<br>
-日本語でだけ愚痴を言うけど[こっち](https://quintenvandamme.github.io/nothing_archive/)はクレジットの記載がないんだよな。そっちにも書けよ。<br>
-
-#### English (ChatGPT)
-It seems someone is mirroring the files I’ve published, [acting as if they’re the ones who released them](https://github.com/quintenvandamme/nothing_archive).<br>
-For now, I’m exhausted from running around trying to deal with this, so I’m thinking of stopping the public release of all files.<br>
-If the person in question deletes their repository and site, I might consider resuming the release.<br>
-**GET IN TOUCH, Quinten Van Damme?**<br>
-
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eCc4md8Cuy8?si=W4j6ij3uiq_viM5Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+### 愚か者のQuinten Van Dammeへ
+やぁ、愚か者の[Quinten Van Damme](https://github.com/quintenvandamme)。<br>
+現在の君は自分が公開しているファイルをミラーしようとしているかい?<br>
+君が裏切る行為をしたので、色々と自分にかかる負担が大きかったです。ある意味ありがとうございます。<br>
+自分で色々とファイルを公開する能力がない(init_boot.imgの公開すら人任せ)のに自分が公開していると振る舞うような行為はマジでやめろ。<br>
+**お前の事は一生恨むつもりなのでよろしく☆**
 
 ### ■ How to use (Fastboot ROM)
 <div class="video-container">
@@ -62,6 +51,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.6.0](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.6.0.zip)
 - [v2.6.0 (Sep Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.6.0-240904-1634.zip)
 - [v2.6.0 (Nov Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.6.0-241031-1818.zip)
+- [v3.0.0 (Beta1)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v3.0.0-241211-0926.zip)
 
 ##### Nothing Phone(1) Fastboot ROM (SourceForge)
 - [v1.1.0 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.1.0_Global.rar/download)
@@ -94,41 +84,6 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.6.0 (Sep Update)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.6.0-240904-1634.7z/download)
 - [v2.6.0 (Nov Update)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.6.0-241031-1818.7z/download)
 
-##### Nothing Phone(1) Local OTA Files (SourceForge)
-- [v1.1.0 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.0.2_to_v1.1.0.zip/download)
-- [v1.1.2 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.0_to_v1.1.2.zip/download)
-- [v1.1.3 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.2_to_v1.1.3.zip/download)
-- [v1.1.4 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.3_to_v1.1.4.zip/download)
-- [v1.1.4 (HotFix) (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.4_to_v1.1.4hotfix.zip/download)
-- [v1.1.5 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.4_to_v1.1.5.zip/download)
-- [v1.1.6 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.5_to_v1.1.6.zip/download)
-- [v1.1.7 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.6_to_v1.1.7.zip/download)
-- [v1.1.8 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.7_to_v1.1.8.zip/download)
-- [v1.1.8 (Global)→v1.5.2](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.8_to_v1.5.2.zip/download)
-- [v1.5.0 (Beta1) (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.1.7_to_v1.5.0beta1.zip/download)
-- [v1.5.1 (Beta2)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.5.0beta1_to_v1.5.1beta2.zip/download)
-- [v1.5.1 (Beta2) (HotFix)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.5.1beta2_to_v1.5.1beta2hotfix.zip/download)
-- [v1.5.1 (Beta2) (HotFix)→v1.5.2](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.5.1beta2hotfix_to_v1.5.2.zip/download)
-- [v1.5.3](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.5.2_to_1.5.3.zip/download)
-- [v1.5.3 (HotFix)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.5.3_to_v1.5.3hotfix.zip/download)
-- [v1.5.4](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.5.3hotfix_to_v1.5.4.zip/download)
-- [v1.5.5](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.5.4_to_v1.5.5.zip/download)
-- [v1.5.6](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.5.5_to_v1.5.6.zip/download)
-- [v2.0.2](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v1.5.6_to_v2.0.2.zip/download)
-- [v2.0.4](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.0.2hotfix_to_v2.0.4.zip/download)
-- [v2.0.5](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.0.4_to_v2.0.5.zip/download)
-- [v2.5.1 (Beta1)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.0.5_to_v2.5.1beta1.zip/download)
-- [v2.5.1 (Beta2)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.1beta1_to_v2.5.1beta2.zip/download)
-- [v2.5.2](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.1beta2_to_v2.5.2.zip/download)
-- [v2.5.2 (HotFix)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.2_to_v2.5.2_hotfix.zip/download)
-- [v2.5.3](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.2_hotfix_to_v2.5.3.zip/download)
-- [v2.5.3A](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.3_to_v2.5.3A.zip/download)
-- [v2.5.5](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.3A_to_v2.5.5.zip/download)
-- [v2.5.6](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.5.5_to_v2.5.6.zip/download)
-- [v2.6.0](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/2.5.6_to_2.6.0.zip/download)
-- [v2.6.0 (Sep Update)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.6.0_to_v2.6.0%28sep%29.zip/download)
-- [v2.6.0 (Nov Update)](https://sourceforge.net/projects/nothingphone-1-rom/files/OTA/v2.6.0%28Sep%29_to_v2.6.0%28Nov%29.zip/download)
-
 ##### Nothing Phone(1) QFIL ROM
 ######  Required EDL Command or EDL Cable V1/V2
 - [QFIL ROM](https://sourceforge.net/projects/nothingphone-1-rom/files/QFIL/qfil_nothing_phone.rar/download)
@@ -150,6 +105,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.6.0 (Sep Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.6.0-240828-1751.zip)
 - [v2.6.0 (Oct Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.6.0-241016-1700.zip)
 - [v3.0.0 (Beta1)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v3.0.0_Beta1.zip)
+- [v3.0.0](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v3.0.0-241207-0124.zip)
 
 ##### Nothing Phone(2) Global Fastboot ROM (SourceForge)
 ###### ⚠Don't use in Pong_EEA and Pong_IND environments!!
@@ -182,11 +138,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.6.0 (Oct Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.6.0-241021-2253_init_boot.zip)
 - [v3.0.0 (Beta1)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v3.0.0-OB1_init_boot.zip)
 - [v3.0.0 (Beta2)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v3.0.0-OB2_init_boot.zip)
-
-##### Nothing Phone(2a) Fastboot ROM (GitHub)
-###### Pacman/Pacman_EEA/Pacman_IND/Pacman_JPN SKU supported
-- [Pacman Archive](https://github.com/spike0en/Pacman_Archive)
-- [Nothing Phone(2a) Fastboot ROM  Flasher Japanese (Windows Only)](https://github.com/reindex-ot/flashtool)
+- [v3.0.0](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_init_boot_v3.0.0-241210-2057.zip)
 
 ##### Nothing Phone(2a) Flash Tool (GoogleDrive)
 ######  Power Off → Press Vol Up+Down → Connect USB
@@ -199,7 +151,8 @@ JPNのモデルではBeta参加用のAPKをインストールしても、**ボ�
 ######  Nothing OS 3.0 Local OTA File (OneDrive) : ロールバックファイルでのダウングレードは初期化が必要です。
 - [Nothing OS 3.0 Beta1 (Incremental)](https://1drv.ms/u/c/469c634aaa8d2801/EQEojapKY5wggEbcIwAAAAABvcbTQsuemV2D15TiDEFLkA?e=rEuwhX)
 - [Nothing OS 3.0 Beta2 (Incremental)](https://1drv.ms/u/c/469c634aaa8d2801/EdVNe8GKcJJGuJ9NyG6flrUBBhkrGKp5Cnngu6I4xQBqtg?e=fbACbW)
-- [Nothing OS 2.6 Rollback](https://1drv.ms/u/c/469c634aaa8d2801/EQEojapKY5wggEbbIwAAAAABSzl7NxbqsGHzGvWyDHb8JQ?e=hPU9Mg)
+- [Nothing OS 3.0 Stable (Incremental)](https://android.googleapis.com/packages/ota-api/package/3dbb2256632200021b4be3e7fd50e1d2ae4b2994.zip)
+- [Nothing OS 2.6 Rollback (Beta1 & Beta2 Only)](https://1drv.ms/u/c/469c634aaa8d2801/EQEojapKY5wggEbbIwAAAAABSzl7NxbqsGHzGvWyDHb8JQ?e=hPU9Mg)
 
 ### ■ CMF Phone 1 - Tetris
 ##### CMF Phone 1 init_boot.img Files
@@ -208,10 +161,7 @@ JPNのモデルではBeta参加用のAPKをインストールしても、**ボ�
 - [v2.6.0 (Sep Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v2.6.0-240910-1735_init_boot.zip)
 - [v2.6.0 (Oct Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v2.6.0-241021-2030_init_boot.zip)
 - [v2.6.0 (Dec Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v2.6.0-241125-2107_init_boot.zip)
-
-##### CMF Phone 1 Fastboot ROM (Pixeldrain)
-- [v2.6.0 (Oct Update)](https://pixeldrain.com/u/TZF5yTNW)
-- [v2.6.0 (Dec Update)](https://pixeldrain.com/u/HEc6WKXC)
+- [v3.0.0 (Beta1)](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v3.0.0-241205-0050_init_boot.zip)
 
 ##### CMF Phone 1 Flash Tool (GoogleDrive)
 ######  Power Off → Press Vol Up+Down → Connect USB
@@ -227,8 +177,7 @@ JPNのモデルではBeta参加用のAPKをインストールしても、**ボ�
 - [NothingQuickTools](https://github.com/DylanAkp/NothingQuickTools)
 - [Glyphify](https://github.com/Fr4nKB/Glyphify)
 
-### ■ ROM Archives Link
-- [Spacewar](https://github.com/spike0en/Spacewar_Archive)
-- [Pong](https://github.com/spike0en/Pong_Archive)
-- [Pacman & PacmanPro](https://github.com/spike0en/Pacman_Archive)
-- [Tetris](https://github.com/spike0en/Tetris_Archive)
+### ■ OTA Images Archive Link
+###### Spikeのリポジトリで助けられたと思った方はGitHubのリポジトリにStarを付けてあげてください。
+- [Snapdragon Devices](https://github.com/spike0en/nothing_sdm_archive)
+- [MTK Devices](https://github.com/spike0en/nothing_mtk_archive)

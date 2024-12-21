@@ -6,10 +6,17 @@ permalink: /nothing/
 
 ### 愚か者のQuinten Van Dammeへ
 やぁ、愚か者の[Quinten Van Damme](https://github.com/quintenvandamme)。<br>
-現在の君は自分が公開しているファイルをミラーしようとしているかい?<br>
+現在の君は、自分が公開しているファイルをミラーしようとしているかい?<br>
 君が裏切る行為をしたので、色々と自分にかかる負担が大きかったです。ある意味ありがとうございます。<br>
 自分で色々とファイルを公開する能力がない(init_boot.imgの公開すら人任せ)のに自分が公開していると振る舞うような行為はマジでやめろ。<br>
 **お前の事は一生恨むつもりなのでよろしく☆**
+
+### TO THE FOOL Quinten Van Damme
+Hi, fool [Quinten Van Damme](https://github.com/quintenvandamme).<br>
+Are you currently trying to mirror the files you're publishing?<br>
+Thanks to your treacherous actions, the burden on me has been significant. In a way, thank you for that.<br>
+Stop pretending as if you're the one publishing files when you lack the ability to do so yourself (even leaving the release of init_boot.img to others).<br>
+**I INTEND TO HOLD A GRUDGE AGAINST YOU FOR LIFE, SO BEST REGARDS☆**
 
 ### ■ How to use (Fastboot ROM)
 <div class="video-container">
@@ -83,6 +90,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.6.0](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.6.0.7z/download)
 - [v2.6.0 (Sep Update)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.6.0-240904-1634.7z/download)
 - [v2.6.0 (Nov Update)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.6.0-241031-1818.7z/download)
+- [v3.0.0 (Beta1)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v3.0.0-241211-0926.7z/download)
 
 ##### Nothing Phone(1) QFIL ROM
 ######  Required EDL Command or EDL Cable V1/V2
@@ -123,6 +131,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.6.0 (Sep Update)](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.6.0-240828-1751.7z/download)
 - [v2.6.0 (Oct Update)](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.6.0-241016-1700.7z/download)
 - [v3.0.0 (Beta1)](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v3.0.0_Beta1.7z/download)
+- [v3.0.0](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v3.0.0-241207-0124.7z/download)
 
 ##### Nothing Phone(2) Flash Tool (GoogleDrive)
 ######  Required EDL Command or EDL Cable V2

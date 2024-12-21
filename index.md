@@ -12,11 +12,10 @@ Fastboot ROMにはADBとFastbootのバイナリが含まれていません。
 [こちら](https://www.mediafire.com/file/lpjnhw7ii7nnmob/15_Seconds_Online_ADB_Installer_and_Updater.zip/)を必ず使用して環境の構築と最新のバージョンにしてください。<br>
 Fastboot ROMなどの使用に関しては完全に自己責任となります。<br><br>
 
-### ご注意
-Nothing Archiveは、諸事情で殆ど404の状態になっています。<br>
-管理を行っているSpikeが再公開を行う動きを見せない限りはこのままになるでしょう。<br>
-Pongは現状残されていますが、今後は削除される可能性があります。
-
+### News
+SpikeがArchiveのリポジトリを再始動させました。<br>
+彼のやる気はリポジトリのStarです。<br>
+GitHubのアカウントを登録している方はStarを付けてあげてください。
 
 <iframe width="70%" height="120" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1840898214&color=%239699e6&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 **さて、あなたのデバイスに魔法をかけますよ。**

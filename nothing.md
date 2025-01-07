@@ -21,7 +21,7 @@ Stop pretending as if you're the one publishing files when you lack the ability 
 ### ■ How to use (Fastboot ROM)
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x9vmZL6DLJk?si=cC450KSKrAI0ZgZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+</div><br>
 
 ⚠ Please use "fastboot flashing unlock" or "fastbootd (fastboot reboot fastboot)" to perform Flash.<br>
 If you don't do that, you'll get bricked. Okay?
@@ -148,6 +148,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v3.0.0 (Beta1)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v3.0.0-OB1_init_boot.zip)
 - [v3.0.0 (Beta2)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v3.0.0-OB2_init_boot.zip)
 - [v3.0.0](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_init_boot_v3.0.0-241210-2057.zip)
+- [v3.0.0 (Jan Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_init_boot_v3.0.0-250103-1741.zip)
 
 ##### Nothing Phone(2a) Flash Tool (GoogleDrive)
 ######  Power Off → Press Vol Up+Down → Connect USB

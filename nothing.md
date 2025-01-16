@@ -59,6 +59,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.6.0 (Sep Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.6.0-240904-1634.zip)
 - [v2.6.0 (Nov Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.6.0-241031-1818.zip)
 - [v3.0.0 (Beta1)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v3.0.0-241211-0926.zip)
+- [v3.0.0](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v3.0.0-250108-1938.zip)
 
 ##### Nothing Phone(1) Fastboot ROM (SourceForge)
 - [v1.1.0 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.1.0_Global.rar/download)
@@ -91,6 +92,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.6.0 (Sep Update)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.6.0-240904-1634.7z/download)
 - [v2.6.0 (Nov Update)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.6.0-241031-1818.7z/download)
 - [v3.0.0 (Beta1)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v3.0.0-241211-0926.7z/download)
+- [v3.0.0](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v3.0.0-250108-1938.7z/download)
 
 ##### Nothing Phone(1) QFIL ROM
 ######  Required EDL Command or EDL Cable V1/V2
@@ -154,16 +156,6 @@ If you don't do that, you'll get bricked. Okay?
 ######  Power Off → Press Vol Up+Down → Connect USB
 - [Nothing Flash Tool](https://drive.google.com/uc?export=download&id=1_j0xWERd2YkC5ktyQjqXI67tmVRXg7LF)
 
-##### Nothing Phone(2a) Pacman_JPN Join Nothing OS 3.0 Open Beta (Local OTA File)
-Pacman_JPN(日本国内版)でNothing OS 3.0のOpen Betaに参加するためのローカルOTAファイルです。<br>
-JPNのモデルではBeta参加用のAPKをインストールしても、**ボタンがグレーアウトしているため一般参加ができません。**<br>
-｢NothingOfflineOtaUpdate｣や｢adb sideload｣を使用してBetaのローカルOTAを行なうと強制的にBetaに参加できます(FeliCaの機能も維持されます)。
-######  Nothing OS 3.0 Local OTA File (OneDrive) : ロールバックファイルでのダウングレードは初期化が必要です。
-- [Nothing OS 3.0 Beta1 (Incremental)](https://1drv.ms/u/c/469c634aaa8d2801/EQEojapKY5wggEbcIwAAAAABvcbTQsuemV2D15TiDEFLkA?e=rEuwhX)
-- [Nothing OS 3.0 Beta2 (Incremental)](https://1drv.ms/u/c/469c634aaa8d2801/EdVNe8GKcJJGuJ9NyG6flrUBBhkrGKp5Cnngu6I4xQBqtg?e=fbACbW)
-- [Nothing OS 3.0 Stable (Incremental)](https://android.googleapis.com/packages/ota-api/package/3dbb2256632200021b4be3e7fd50e1d2ae4b2994.zip)
-- [Nothing OS 2.6 Rollback (Beta1 & Beta2 Only)](https://1drv.ms/u/c/469c634aaa8d2801/EQEojapKY5wggEbbIwAAAAABSzl7NxbqsGHzGvWyDHb8JQ?e=hPU9Mg)
-
 ### ■ CMF Phone 1 - Tetris
 ##### CMF Phone 1 init_boot.img Files
 ###### Magisk patched init_boot included
@@ -172,10 +164,15 @@ JPNのモデルではBeta参加用のAPKをインストールしても、**ボ�
 - [v2.6.0 (Oct Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v2.6.0-241021-2030_init_boot.zip)
 - [v2.6.0 (Dec Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v2.6.0-241125-2107_init_boot.zip)
 - [v3.0.0 (Beta1)](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v3.0.0-241205-0050_init_boot.zip)
+- [v3.0.0](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v3.0.0-250111-2249_init_boot.zip)
 
 ##### CMF Phone 1 Flash Tool (GoogleDrive)
 ######  Power Off → Press Vol Up+Down → Connect USB
 - [Nothing Flash Tool](https://drive.google.com/uc?export=download&id=1TQ_-ESPmfqM--3h-Dy9OKHDRVaI7buB5)
+
+### ■ Nothing ROM & OTA Archive
+- [Nothing Archive](https://github.com/spike0en/nothing_archive/blob/main/README_ja-JP.md)
+##### Spikeのリポジトリで助けられたと思った方はGitHubのリポジトリにStarを付けてあげてください。
 
 ### ■ App and Magisk Module
 ##### Nothing Magisk Modules
@@ -186,8 +183,3 @@ JPNのモデルではBeta参加用のAPKをインストールしても、**ボ�
 ##### Nothing Support Apps
 - [NothingQuickTools](https://github.com/DylanAkp/NothingQuickTools)
 - [Glyphify](https://github.com/Fr4nKB/Glyphify)
-
-### ■ OTA Images Archive Link
-###### Spikeのリポジトリで助けられたと思った方はGitHubのリポジトリにStarを付けてあげてください。
-- [Snapdragon Devices](https://github.com/spike0en/nothing_sdm_archive)
-- [MTK Devices](https://github.com/spike0en/nothing_mtk_archive)

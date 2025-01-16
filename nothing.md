@@ -171,8 +171,8 @@ If you don't do that, you'll get bricked. Okay?
 - [Nothing Flash Tool](https://drive.google.com/uc?export=download&id=1TQ_-ESPmfqM--3h-Dy9OKHDRVaI7buB5)
 
 ### ■ Nothing ROM & OTA Archive
+###### Spikeのリポジトリで助けられたと思った方はGitHubのリポジトリにStarを付けてあげてください。
 - [Nothing Archive](https://github.com/spike0en/nothing_archive/blob/main/README_ja-JP.md)
-##### Spikeのリポジトリで助けられたと思った方はGitHubのリポジトリにStarを付けてあげてください。
 
 ### ■ App and Magisk Module
 ##### Nothing Magisk Modules

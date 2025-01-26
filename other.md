@@ -35,6 +35,16 @@ permalink: /other/
 - [Phh Treble Settings Japanese Magisk Module (Multiple Languages Support)](https://github.com/reindex-ot/TrebleApp_Japanese)
 - [Phh Treble Settings Multiple Languages Support Source code](https://github.com/exthmui-10-treble/treble_app)
 
+### ■ KLLISRE B450M-F (AMD Socket AM4 Motherboard)
+- [BIOS Update File v5.17 (Google Drive)](https://drive.google.com/uc?export=download&id=1NqjvH6QH1-A7fiARYl9k1_ErhnlXgX80)
+- [BIOS Update File v5.17 (MEGA)](https://mega.nz/file/H4gFyRBZ#2E7yz4D1xoifziogLl8mAkqtmggf67UQCDRPWsCWEQE)
+- [KLLISRE B450M-F Realtek HD Audio Driver (64bit)](https://drive.google.com/uc?export=download&id=1OQkhRygzAx7jm6kZveLzP7vLQdNuA1WW)
+
+##### KLLISRE B450M-Fについて
+AliExpressなどでCPU、RAMがセットで販売されているマザーボードのKLLISRE B450M-F用のファイルです。<br>
+公式でオンボードサウンドドライバーやBIOSの更新ファイルが公開されていないのでこちらで公開しています。<br>
+BIOSを更新すると一部のメーカーのSSDが認識しないなどの問題修正ができたりします。更新推奨です。<br>
+
 ### ■ Memo
 Androidの各種imgのバックアップの説明 (Japanese)
 - [GitHub Gist](https://gist.github.com/reindex-ot/3b453682b61d45ccc5bcfb2d645bb85a)

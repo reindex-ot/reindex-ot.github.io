@@ -13,6 +13,7 @@ permalink: /hiby/
 - [1.40_20240521-1829](https://drive.google.com/uc?export=download&id=1P_W0ay1EffweCAcdTxgSAaqcV9M5vbLM)
 - [1.41_20240514-2009 (Beta)](https://drive.google.com/uc?export=download&id=1KBQMUToT4jeYmg1_91URAK8P_cmamJhF)
 - [1.50_20240821-1638](https://drive.google.com/uc?export=download&id=1nF_2YvqQwogT9AJSEPa2Fu9VtDNZBEbS)
+- [1.60_20241130-1654](https://drive.google.com/uc?export=download&id=15DR7qi1iPGV5Tds1dBINyATULX_e7PdQ)
 
 
 ##### HiBy Digital M300 Fastboot ROM (GoogleDrive)
@@ -24,6 +25,7 @@ permalink: /hiby/
 - [1.40_20240521-1829](https://drive.google.com/uc?export=download&id=1WAeP-wZX8RutUuHlfG0V2LMvz4M3wuET)
 - [1.41_20240514-2009 (Beta)](https://drive.google.com/uc?export=download&id=1CmRB_7SpJMsuxnUGlCtVxPySYmnRiizo)
 - [1.50_20240821-1638](https://drive.google.com/uc?export=download&id=18Sg8TWTiYylQGLdFekim1A9EJRpwdk3u)
+- [1.60_20241130-1654](https://drive.google.com/uc?export=download&id=1JI_6MPiR7zeBhYTWlmK1MHlFWf6IB0xE)
 
 
 ##### HiBy Digital M300 Local OTA Files (GoogleDrive)
@@ -33,6 +35,7 @@ permalink: /hiby/
 - [1.40 (v1.30→v1.40)](https://drive.google.com/uc?export=download&id=1zYB5fpaCTddzBf7souQLZJBRAG-XkHoY)
 - [1.41 (Beta: v1.30→v1.41)](https://drive.google.com/uc?export=download&id=1DtMxwALQa1BwB5f7VA61WZWja37B-5ZW)
 - [1.50 (v1.40→v1.50)](https://drive.google.com/uc?export=download&id=1cS36LJ139J2tyfMsjU_SdoQ4ade0eJUM)
+- [1.60 (v1.50→v1.60)](https://drive.google.com/uc?export=download&id=1xgTKQnetSamUJHQxxDOM1h_sYqkhX1Oq)
 
 
 ##### HiBy Digital M300 blobs

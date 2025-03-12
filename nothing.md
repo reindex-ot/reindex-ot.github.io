@@ -56,10 +56,11 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.5.5](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.5.5.zip)
 - [v2.5.6](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.5.6.zip)
 - [v2.6.0](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.6.0.zip)
-- [v2.6.0 (Sep Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.6.0-240904-1634.zip)
-- [v2.6.0 (Nov Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.6.0-241031-1818.zip)
+- [v2.6.0-240904-1634](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.6.0-240904-1634.zip)
+- [v2.6.0-241031-1818](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v2.6.0-241031-1818.zip)
 - [v3.0.0 (Beta1)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v3.0.0-241211-0926.zip)
-- [v3.0.0](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v3.0.0-250108-1938.zip)
+- [v3.0.0-250108-1938](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v3.0.0-250108-1938.zip)
+- [v3.0.0-250303-1817](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone1/Spacewar_boot_v3.0.0-250303-1817.zip)
 
 ##### Nothing Phone(1) Fastboot ROM (SourceForge)
 - [v1.1.0 (Global)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v1.1.0_Global.rar/download)
@@ -89,10 +90,11 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.5.5](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.5.7z/download)
 - [v2.5.6](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.5.6.7z/download)
 - [v2.6.0](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.6.0.7z/download)
-- [v2.6.0 (Sep Update)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.6.0-240904-1634.7z/download)
-- [v2.6.0 (Nov Update)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.6.0-241031-1818.7z/download)
+- [v2.6.0-240904-1634](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.6.0-240904-1634.7z/download)
+- [v2.6.0-241031-1818](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v2.6.0-241031-1818.7z/download)
 - [v3.0.0 (Beta1)](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v3.0.0-241211-0926.7z/download)
-- [v3.0.0](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v3.0.0-250108-1938.7z/download)
+- [v3.0.0-250108-1938](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v3.0.0-250108-1938.7z/download)
+- [v3.0.0-250303-1817](https://sourceforge.net/projects/nothingphone-1-rom/files/FastbootROM/Spacewar_FastbootROM_v3.0.0-250303-1817.7z/download)
 
 ##### Nothing Phone(1) QFIL ROM
 ######  Required EDL Command or EDL Cable V1/V2
@@ -112,10 +114,11 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.5.5](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.5.5.zip)
 - [v2.5.6](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.5.6.zip)
 - [v2.6.0](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.6.0.zip)
-- [v2.6.0 (Sep Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.6.0-240828-1751.zip)
-- [v2.6.0 (Oct Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.6.0-241016-1700.zip)
+- [v2.6.0-240828-1751](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.6.0-240828-1751.zip)
+- [v2.6.0-241016-1700](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v2.6.0-241016-1700.zip)
 - [v3.0.0 (Beta1)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v3.0.0_Beta1.zip)
-- [v3.0.0](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v3.0.0-241207-0124.zip)
+- [v3.0.0-241207-0124](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v3.0.0-241207-0124.zip)
+- [v3.0.0-250113-1723](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2/Pong_boot_v3.0.0-250113-1723.zip)
 
 ##### Nothing Phone(2) Global Fastboot ROM (SourceForge)
 ###### ⚠Don't use in Pong_EEA and Pong_IND environments!!
@@ -130,10 +133,11 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.5.5](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.5.7z/download)
 - [v2.5.6](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.5.6.7z/download)
 - [v2.6.0](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.6.0.7z/download)
-- [v2.6.0 (Sep Update)](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.6.0-240828-1751.7z/download)
-- [v2.6.0 (Oct Update)](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.6.0-241016-1700.7z/download)
+- [v2.6.0-240828-1751](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.6.0-240828-1751.7z/download)
+- [v2.6.0-241016-1700](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v2.6.0-241016-1700.7z/download)
 - [v3.0.0 (Beta1)](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v3.0.0_Beta1.7z/download)
-- [v3.0.0](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v3.0.0-241207-0124.7z/download)
+- [v3.0.0-241207-0124](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v3.0.0-241207-0124.7z/download)
+- [v3.0.0-250113-1723](https://sourceforge.net/projects/nothingphone-2-rom/files/Fastboot%20ROM/Pong_FastbootROM_v3.0.0-250113-1723.7z/download)
 
 ##### Nothing Phone(2) Flash Tool (GoogleDrive)
 ######  Required EDL Command or EDL Cable V2
@@ -145,12 +149,13 @@ If you don't do that, you'll get bricked. Okay?
 - [v2.5.5a](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.5.5a_init_boot.zip)
 - [v2.5.6](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.5.6_init_boot.zip)
 - [v2.6.0](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.6.0_init_boot.zip)
-- [v2.6.0 (Sep Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.6.0-240828-1906_init_boot.zip)
-- [v2.6.0 (Oct Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.6.0-241021-2253_init_boot.zip)
+- [v2.6.0-240828-1906](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.6.0-240828-1906_init_boot.zip)
+- [v2.6.0-241021-2253](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v2.6.0-241021-2253_init_boot.zip)
 - [v3.0.0 (Beta1)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v3.0.0-OB1_init_boot.zip)
 - [v3.0.0 (Beta2)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_JPN_v3.0.0-OB2_init_boot.zip)
-- [v3.0.0](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_init_boot_v3.0.0-241210-2057.zip)
-- [v3.0.0 (Jan Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_init_boot_v3.0.0-250103-1741.zip)
+- [v3.0.0-241210-2057](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_init_boot_v3.0.0-241210-2057.zip)
+- [v3.0.0-250103-1741](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_init_boot_v3.0.0-250103-1741.zip)
+- [v3.0.0-250114-1909](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_init_boot_v3.0.0-250114-1909.zip)
 
 ##### Nothing Phone(2a) Flash Tool (GoogleDrive)
 ######  Power Off → Press Vol Up+Down → Connect USB
@@ -160,11 +165,12 @@ If you don't do that, you'll get bricked. Okay?
 ##### CMF Phone 1 init_boot.img Files
 ###### Magisk patched init_boot included
 - [v2.6.0](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v2.6.0_init_boot.zip)
-- [v2.6.0 (Sep Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v2.6.0-240910-1735_init_boot.zip)
-- [v2.6.0 (Oct Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v2.6.0-241021-2030_init_boot.zip)
-- [v2.6.0 (Dec Update)](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v2.6.0-241125-2107_init_boot.zip)
+- [v2.6.0-240910-1735](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v2.6.0-240910-1735_init_boot.zip)
+- [v2.6.0-241021-2030](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v2.6.0-241021-2030_init_boot.zip)
+- [v2.6.0-241125-2107](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v2.6.0-241125-2107_init_boot.zip)
 - [v3.0.0 (Beta1)](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v3.0.0-241205-0050_init_boot.zip)
-- [v3.0.0](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v3.0.0-250111-2249_init_boot.zip)
+- [v3.0.0-250111-2249](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v3.0.0-250111-2249_init_boot.zip)
+- [v3.0.0-250111-2249](https://github.com/reindex-ot/boot.img_repo/raw/main/cmf/phone1/Tetris_v3.0.0-250208-2015_init_boot.zip)
 
 ##### CMF Phone 1 Flash Tool (GoogleDrive)
 ######  Power Off → Press Vol Up+Down → Connect USB

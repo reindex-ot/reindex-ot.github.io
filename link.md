@@ -39,6 +39,7 @@ permalink: /link/
 - [umamusume-localify (Kimjio build)](https://github.com/Kimjio/umamusume-localify/)
 - [Windhawk](https://windhawk.net/)
 - [Free Download Manager](https://www.freedownloadmanager.org/)
+- [Display Driver Uninstaller (DDU)](https://www.wagnardsoft.com/)
 
 #### ■ Web Browser Add-Ons
 

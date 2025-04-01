@@ -6,9 +6,6 @@ layout: home
 ---
 <img src="./img/vivlos.png" width="100%">
 
-## ご報告
-もうNothing Phone関連とかFastboot ROM公開したりとかしないもんねーだ☆ (2025.04.01)
-
 ## Welcome!
 AndroidのFastboot ROMやboot.img、その他諸々を公開しています。<br>
 Fastboot ROMにはADBとFastbootのバイナリが含まれていません。

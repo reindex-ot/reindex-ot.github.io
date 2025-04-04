@@ -14,7 +14,8 @@ Fastboot ROMなどの使用に関しては完全に自己責任となります�
 
 ##### eSTK.meを買ってみませんか?
 docomoのEIDに対応した物理eSIM、「eSTK.me」を買ってみませんか?<br>
-[こちら](https://www.estk.me?aid=10811)のリンクからeSTK.meを購入で通常よりもお得になりますよ?
+[こちら](https://www.estk.me?aid=10811)のリンクからeSTK.meを購入で通常よりもお得になりますよ?<br>
+商品についての説明は[noteの記事](https://note.com/reindex/n/ne197016f3e17)をご確認ください。<br>
 
 クーポンコードで**reindex**を入力でも同様にお得なお値段になりますよ。
 

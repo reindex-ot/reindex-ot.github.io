@@ -12,6 +12,12 @@ Fastboot ROMにはADBとFastbootのバイナリが含まれていません。
 [こちら](https://www.mediafire.com/file/lpjnhw7ii7nnmob/15_Seconds_Online_ADB_Installer_and_Updater.zip/)を必ず使用して環境の構築と最新のバージョンにしてください。<br>
 Fastboot ROMなどの使用に関しては完全に自己責任となります。<br><br>
 
+### eSTK.meを買ってみませんか?
+docomoのEIDに対応した物理eSIM、「eSTK.me」を買ってみませんか?<br>
+[こちら](https://www.estk.me?aid=10811)のリンクからeSTK.meを購入で通常よりもお得になりますよ?
+
+クーポンコードで**reindex**を入力でも同様にお得なお値段になります。
+
 ### News
 SpikeがArchiveのリポジトリを再始動させました。<br>
 彼のやる気はリポジトリのStarです。<br>

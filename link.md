@@ -26,6 +26,8 @@ permalink: /link/
 - [SmartTube](https://smarttubeapp.github.io/)
 - [Glyphify](https://github.com/Fr4nKB/Glyphify/)
 - [MMRL](https://github.com/DerGoogler/MMRL/)
+- [NekokoLPA](https://github.com/iebb/NekokoLPA)
+- [EasyEUICC & OpenEUICC](https://gitea.angry.im/PeterCxy/OpenEUICC)
 
 #### ■ Windows Apps
 

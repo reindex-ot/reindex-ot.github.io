@@ -142,6 +142,7 @@ If you don't do that, you'll get bricked. Okay?
 - [v3.0.0-241210-2057](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_init_boot_v3.0.0-241210-2057.zip)
 - [v3.0.0-250103-1741](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_init_boot_v3.0.0-250103-1741.zip)
 - [v3.0.0-250114-1909](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_init_boot_v3.0.0-250114-1909.zip)
+- [V3.0.0-250304-1904](https://github.com/reindex-ot/boot.img_repo/raw/main/nothing/phone2a/Pacman_init_boot_V3.0.0-250304-1904.zip)
 
 ##### Nothing Phone(2a) Flash Tool (GoogleDrive)
 ######  Power Off → Press Vol Up+Down → Connect USB

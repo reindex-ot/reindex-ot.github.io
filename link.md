@@ -42,6 +42,7 @@ permalink: /link/
 - [Windhawk](https://windhawk.net/)
 - [Free Download Manager](https://www.freedownloadmanager.org/)
 - [Display Driver Uninstaller (DDU)](https://www.wagnardsoft.com/)
+- [Internet Friendly Media Encoder (IFME)](https://github.com/Anime4000/IFME)
 
 #### ■ Web Browser Add-Ons
 

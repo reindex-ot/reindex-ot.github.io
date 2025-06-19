@@ -170,6 +170,7 @@ If you don't do that, you'll get bricked. Okay?
 ### ■ App and Magisk Module
 ##### Nothing Magisk Modules
 - [Nothing Phone Patch](https://github.com/reindex-ot/magisk-module-nothing)
+- [Nothing EUICC Force Enabler](https://github.com/reindex-ot/nothing-euicc)
 - [Ndot to Roboto](https://github.com/reindex-ot/Ndot-to-Roboto)
 - [Bye-bye NotoSerif](https://github.com/reindex-ot/Bye-bye-NotoSerif)
 

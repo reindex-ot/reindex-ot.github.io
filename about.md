@@ -18,3 +18,5 @@ Re*Index.(ot_inc)
 [Neocitiesで作った物](https://reindex.neocities.org/)
 
 因みに自分は[運動家(ENFP-T)](https://www.16personalities.com/ja/結果/enfp-t/m/1sjmact1k)な人間らしいです。意外と合ってたんだよな...
+
+<a href="https://icp.gov.moe/?keyword=20250780" target="_blank">萌ICP备20250780号</a>

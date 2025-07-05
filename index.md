@@ -24,3 +24,5 @@ GitHubのアカウントを登録している方はStarを付けてあげてく�
 
 <iframe width="70%" height="120" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1840898214&color=%239699e6&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 **さて、あなたのデバイスに魔法をかけますよ。**
+
+<a href="https://icp.gov.moe/?keyword=20250780" target="_blank">萌ICP备20250780号</a>

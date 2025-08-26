@@ -43,6 +43,10 @@ permalink: /link/
 - [Free Download Manager](https://www.freedownloadmanager.org/)
 - [Display Driver Uninstaller (DDU)](https://www.wagnardsoft.com/)
 - [Internet Friendly Media Encoder (IFME)](https://github.com/Anime4000/IFME)
+- [ImgDrive](https://www.yubsoft.com/imgdrive/)
+- [ImgDrive Lite](https://www.yubsoft.com/imgdrivelite/)
+- [Folder2ISO](https://www.yubsoft.com/folder2iso/)
+- [Xreveal](https://www.xreveal.com/)
 
 #### ■ Web Browser Add-Ons
 

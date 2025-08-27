@@ -28,6 +28,7 @@ permalink: /link/
 - [MMRL](https://github.com/DerGoogler/MMRL/)
 - [NekokoLPA](https://github.com/iebb/NekokoLPA)
 - [EasyEUICC & OpenEUICC](https://gitea.angry.im/PeterCxy/OpenEUICC)
+- [MissingCore Music](https://github.com/MissingCore/Music)
 
 #### ■ Windows Apps
 

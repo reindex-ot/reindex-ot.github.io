@@ -28,6 +28,9 @@ permalink: /other/
 インストールが正常にされればVCOMの接続が可能になります。<br>
 このドライバーはMTKClient、MTKなNothing Flash Toolなどで必須になります。
 
+### ■ Magisk
+- [MagiskPatcher (Web)](https://circlecashteam.github.io/MagiskPatcher/)
+
 ### ■ OnePlus 9
 - [Fuck OrangeState (Orange State Boot Messeage Remover)](https://drive.google.com/uc?export=download&id=1MUlZYzqKGtAV4iqjjWHT4MMQe906LvmV)
 

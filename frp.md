@@ -10,7 +10,7 @@ permalink: /frp/
 #### Short URL & E-FRP Link
 - [https://x.gd/nti5H](https://x.gd/nti5H)
 - [https://kuku.lu/s3aa78f](https://kuku.lu/s3aa78f)
-- [E-FRP](https://easy-firmware.com/efrp/)
+- [E-FRP](https://www.efrp.app/)
 
 #### QR Code
 <img src="https://raw.githubusercontent.com/reindex-ot/reindex-ot.github.io/main/img/frp.png" width="20%">

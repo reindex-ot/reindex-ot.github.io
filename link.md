@@ -103,7 +103,7 @@ permalink: /link/
 - [電音部 DEN-ON-BU](https://denonbu.jp/)
 - [D4DJ公式サイト](https://d4dj-pj.com/)
 - [ネガティヴハッピィ](https://negahapi.com/)
-- [ハッピーJACK](https://www.youtube.com/@HappyJackDoman)
+- [ハッピーJ@CK](https://www.youtube.com/@HappyJackDoman)
 - [primaniacs](https://primaniacs.com/)
 - [FAIRYTAIL PARFUM](https://www.fairytail.jp/)
 - [TSUKI Project Archive](https://systemspace.network/)

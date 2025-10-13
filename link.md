@@ -104,6 +104,7 @@ permalink: /link/
 - [D4DJ公式サイト](https://d4dj-pj.com/)
 - [ネガティヴハッピィ](https://negahapi.com/)
 - [ハッピーJ@CK](https://www.youtube.com/@HappyJackDoman)
+- [璃瑠々-RiRuRu-](https://www.youtube.com/@riruru11_11)
 - [primaniacs](https://primaniacs.com/)
 - [FAIRYTAIL PARFUM](https://www.fairytail.jp/)
 - [TSUKI Project Archive](https://systemspace.network/)

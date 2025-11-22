@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<img src="./img/vivlos.webp" width="100%">
+<img src="./img/vivlos.webp" alt="ヴィブロス" width="100%">
 
 ## Welcome!
 AndroidのFastboot ROMやboot.img、その他諸々を公開しています。<br>

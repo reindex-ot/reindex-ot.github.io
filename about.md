@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="https://github.com/reindex-ot/reindex-ot.github.io/blob/main/img/copanorickey.png?raw=true" width="100%">
+<img src="./img/copanorickey.webp" width="100%">
 
 ##### Name:
 Re*Index.(ot_inc)

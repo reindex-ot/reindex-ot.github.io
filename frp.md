@@ -13,7 +13,7 @@ permalink: /frp/
 - [E-FRP](https://www.efrp.app/)
 
 #### QR Code
-<img src="https://raw.githubusercontent.com/reindex-ot/reindex-ot.github.io/main/img/frp.png" width="20%">
+<img src="./img/frp.png" width="20%">
 
 #### YouTube
 - [FRP Bypass](https://www.youtube.com/results?search_query=FRP+Bypass)

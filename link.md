@@ -3,6 +3,7 @@ layout: page
 title: Link
 permalink: /link/
 ---
+<img src="https://reindex-ot.github.io/img/stillinlove.webp" alt="スティルインラブ" fetchpriority ="high" width="100%">
 
 個人的にリンクをまとめている場所です。<br>
 殆どが日本語訳で開発のお手伝いをしている物になります。<br>

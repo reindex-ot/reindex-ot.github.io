@@ -25,6 +25,7 @@ permalink: /link/
 - [Nullgram](https://github.com/qwq233/Nullgram/)
 - [Cherrygram](https://github.com/arsLan4k1390/Cherrygram/)
 - [SmartTube](https://smarttubeapp.github.io/)
+- [Spam Call Blocker](https://github.com/adamff-dev/spam-call-blocker-app)
 - [Glyphify](https://github.com/Fr4nKB/Glyphify/)
 - [MMRL](https://github.com/DerGoogler/MMRL/)
 - [NekokoLPA](https://github.com/iebb/NekokoLPA)

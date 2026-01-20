@@ -173,6 +173,7 @@ If you don't do that, you'll get bricked. Okay?
 - [Nothing EUICC Force Enabler](https://github.com/reindex-ot/nothing-euicc)
 - [Ndot to Roboto](https://github.com/reindex-ot/Ndot-to-Roboto)
 - [Bye-bye NotoSerif](https://github.com/reindex-ot/Bye-bye-NotoSerif)
+- [NOS Aura Killer](https://github.com/reindex-ot/NOS_AuraKiller)
 
 ##### Nothing Support Apps
 - [NothingQuickTools](https://github.com/DylanAkp/NothingQuickTools)

@@ -52,6 +52,7 @@ permalink: /link/
 - [ImgDrive Lite](https://www.yubsoft.com/imgdrivelite/)
 - [Folder2ISO](https://www.yubsoft.com/folder2iso/)
 - [Xreveal](https://www.xreveal.com/)
+- [Ryzen Master (Unofficial)](https://github.com/reindex-ot/RyzenMaster_localization_repo)
 
 #### ■ Web Browser Add-Ons
 

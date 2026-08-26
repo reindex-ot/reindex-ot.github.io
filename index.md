@@ -21,6 +21,7 @@ docomoのEIDに対応した物理eSIM、「eSTK.me」を買ってみませんか
 **さて、あなたのデバイスに魔法をかけますよ。**
 
 <div id="my-banner"></div>
-<script src="https://keepandroidopen.org/banner.js?lang=ja&size=mini&id=my-banner"></script>
+<script src="https://keepandroidopen.org/banner.js?lang=ja&size=minimal&id=my-banner"></script>
 
-<a href="https://icp.gov.moe/?keyword=20250780" target="_blank">萌ICP备20250780号</a>
+
+a href="https://icp.gov.moe/?keyword=20250780" target="_blank">萌ICP备20250780号</a>

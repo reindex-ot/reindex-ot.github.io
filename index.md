@@ -17,10 +17,10 @@ docomoのEIDに対応した物理eSIM、「eSTK.me」を買ってみませんか
 [こちら](https://store.estk.me/?code=reindex)のリンクからeSTK.meを購入時にクーポンコード **reindex** を入力でお得な値段になりますよ?<br>
 商品についての説明は[noteの記事](https://note.com/reindex/n/ne197016f3e17)をご確認ください。<br>
 
-<div id="my-banner"></div>
-<script src="https://keepandroidopen.org/banner.js?lang=ja&size=normal&id=my-banner"></script>
-
 <iframe width="70%" height="120" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1840898214&color=%239699e6&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 **さて、あなたのデバイスに魔法をかけますよ。**
+
+<div id="my-banner"></div>
+<script src="https://keepandroidopen.org/banner.js?lang=ja&size=mini&id=my-banner"></script>
 
 <a href="https://icp.gov.moe/?keyword=20250780" target="_blank">萌ICP备20250780号</a>

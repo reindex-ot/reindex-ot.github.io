@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ライセンス管理</title>
+<script type="text/javascript" nonce="739d0d09704b464cad2e78f0cf4" src="//local.adguard.org?ts=1790258746678&amp;type=content-script&amp;dmn=c4154cf7-ee95-47ce-b246-b341dc769384.frame.claudeusercontent.com&amp;url=https%3A%2F%2Fc4154cf7-ee95-47ce-b246-b341dc769384.frame.claudeusercontent.com%2F_f%2F1790259795-3531%2F_src%2Findex.html%3F__frame_t%3Dn0gmpuX89qmQo79xkve3YMKa.26de054a-a94a-4271-a308-4a70a75ea560.08b7bf25-3ab1-4494-92b3-7fbb0574ced1.1790263396&amp;app=chrome.exe&amp;css=3&amp;js=1&amp;rel=1&amp;rji=1&amp;sbe=1&amp;stealth=1&amp;st-dnt"></script><script type="text/javascript" nonce="739d0d09704b464cad2e78f0cf4" src="//local.adguard.org?ts=1790258746678&amp;name=AdGuard%20Extra&amp;name=AdGuard%20Popup%20Blocker&amp;name=Web%20of%20Trust&amp;type=user-script"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<style>
+:root{
+  --bg:#f6f5f2; --panel:#ffffff; --ink:#1c1e22; --sub:#666d76;
+  --line:#dfdcd4; --accent:#3a6b5c; --accent-ink:#ffffff; --danger:#a4442f;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#15171a; --panel:#1d2023; --ink:#e9e7e1; --sub:#9aa0a6;
+    --line:#33373c; --accent:#7fbfa6; --accent-ink:#0e1210; --danger:#e08c78;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#15171a; --panel:#1d2023; --ink:#e9e7e1; --sub:#9aa0a6;
+  --line:#33373c; --accent:#7fbfa6; --accent-ink:#0e1210; --danger:#e08c78;
+}
+*{box-sizing:border-box}
+html{scroll-padding-top:env(safe-area-inset-top,0px);}
+html,body{height:100%;}
+body{
+  margin:0; background:var(--bg); color:var(--ink);
+  font:15px/1.6 -apple-system,"Hiragino Kaku Gothic ProN","Yu Gothic",sans-serif;
+}
+.wrap{max-width:760px; margin:0 auto; padding:32px 20px 80px;}
+h1{font-size:20px; font-weight:600; margin:0 0 4px;}
+.lede{color:var(--sub); font-size:13px; margin:0 0 28px;}
+.panel{background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:18px; margin-bottom:20px;}
+.panel h2{font-size:13px; font-weight:600; margin:0 0 12px; color:var(--sub); letter-spacing:.02em;}
+textarea{
+  width:100%; min-height:120px; resize:vertical; padding:10px 12px;
+  border:1px solid var(--line); border-radius:8px; background:var(--bg); color:var(--ink);
+  font:13px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace;
+}
+.row{display:flex; gap:8px; margin-top:10px; flex-wrap:wrap; align-items:center;}
+button{
+  font:inherit; font-size:13px; padding:8px 14px; border-radius:7px; border:1px solid var(--line);
+  background:var(--panel); color:var(--ink); cursor:pointer;
+}
+button.primary{background:var(--accent); color:var(--accent-ink); border-color:var(--accent);}
+button.danger{color:var(--danger); border-color:var(--danger); background:transparent;}
+button:disabled{opacity:.5; cursor:default;}
+input[type=file]{display:none;}
+input[type=search]{
+  width:100%; padding:8px 12px; border:1px solid var(--line); border-radius:7px;
+  background:var(--panel); color:var(--ink); font:13px inherit; margin-bottom:14px;
+}
+.msg{font-size:12px; color:var(--sub); min-height:16px;}
+.msg.err{color:var(--danger);}
+.card{border:1px solid var(--line); border-radius:9px; padding:14px 16px; margin-bottom:10px; background:var(--panel);}
+.card-top{display:flex; justify-content:space-between; gap:10px; cursor:pointer;}
+.card-title{font-weight:600; font-size:14px;}
+.card-sub{color:var(--sub); font-size:12px; margin-top:2px;}
+.tag{
+  font-size:11px; padding:1px 7px; border-radius:5px; background:var(--bg); border:1px solid var(--line);
+  color:var(--sub); white-space:nowrap; height:fit-content;
+}
+.detail{margin-top:12px; padding-top:12px; border-top:1px solid var(--line); display:none;}
+.detail.open{display:block;}
+dl{display:grid; grid-template-columns:auto 1fr; gap:5px 14px; margin:0; font-size:12.5px;}
+dt{color:var(--sub); white-space:nowrap;}
+dd{margin:0; overflow-wrap:anywhere; font-family:ui-monospace,SFMono-Regular,Menlo,monospace;}
+.detail-actions{margin-top:12px;}
+.empty{color:var(--sub); font-size:13px; text-align:center; padding:30px 0;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Alternative A2DP Driver ライセンス管理</h1>
+  <p class="lede">.aalic ライセンスファイルを読み込んで、端末ごとの登録状況を一覧管理します。</p>
+
+  <div class="panel">
+    <h2>ライセンスを追加</h2>
+    <textarea id="paste" placeholder="ここに .aalic ファイルの中身を貼り付け（例: licensed_software:...）"></textarea>
+    <div class="row">
+      <button id="fileBtn">ファイルから読み込む</button>
+      <input type="file" id="fileInput" accept=".aalic,.txt">
+      <button class="primary" id="saveBtn">この内容を保存</button>
+      <span class="msg" id="msg"></span>
+    </div>
+  </div>
+
+  <input type="search" id="search" placeholder="機種名・SKU・メールアドレスで絞り込み">
+  <div id="list"></div>
+</div>
+
+<script>
+let db = null;
+let unsub = null;
+let allDocs = [];
+
+const $ = (s)=>document.querySelector(s);
+const listEl = $('#list');
+const msgEl = $('#msg');
+
+function setMsg(text, isErr){
+  msgEl.textContent = text || '';
+  msgEl.classList.toggle('err', !!isErr);
+}
+
+function parseAalic(raw){
+  const parsed = {};
+  raw.split(/\r\n|\r|\n/).forEach(line=>{
+    const i = line.indexOf(':');
+    if(i <= 0) return;
+    const key = line.slice(0,i).trim();
+    const val = line.slice(i+1).trim();
+    if(key) parsed[key] = val;
+  });
+  return parsed;
+}
+
+function machineLabel(p){
+  return p.system_version || p.system_family || p.system_product_name || p.system_manufacturer || '不明な端末';
+}
+
+function fmtDate(p){
+  return p.licensed_date || '';
+}
+
+function render(){
+  const q = $('#search').value.trim().toLowerCase();
+  const docs = allDocs.filter(d=>{
+    if(!q) return true;
+    const p = d.parsed || {};
+    return [p.system_manufacturer,p.system_product_name,p.system_version,p.system_family,
+            p.license_sku,p.licensee,p.email].join(' ').toLowerCase().includes(q);
+  });
+
+  if(docs.length === 0){
+    listEl.innerHTML = `<div class="empty">${allDocs.length===0 ? 'まだライセンスが登録されていません。' : '一致するライセンスがありません。'}</div>`;
+    return;
+  }
+
+  listEl.innerHTML = docs.map(d=>{
+    const p = d.parsed || {};
+    const rows = Object.entries(p).map(([k,v])=>`<dt>${escapeHtml(k)}</dt><dd>${escapeHtml(v)}</dd>`).join('');
+    return `
+    <div class="card" data-id="${d.id}">
+      <div class="card-top" data-toggle="${d.id}">
+        <div>
+          <div class="card-title">${escapeHtml(machineLabel(p))}</div>
+          <div class="card-sub">${escapeHtml(p.system_manufacturer||'')} ・ ${escapeHtml(fmtDate(p))}</div>
+        </div>
+        <span class="tag">${escapeHtml(p.license_sku||'—')}</span>
+      </div>
+      <div class="detail" id="detail-${d.id}">
+        <dl>${rows}</dl>
+        <div class="detail-actions">
+          <button data-dl="${d.id}">ファイルを再ダウンロード</button>
+          <button class="danger" data-del="${d.id}">このライセンスを削除</button>
+        </div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function escapeHtml(s){
+  return String(s ?? '').replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+listEl.addEventListener('click', async (e)=>{
+  const toggleId = e.target.closest('[data-toggle]')?.dataset.toggle;
+  if(toggleId){
+    document.getElementById('detail-'+toggleId).classList.toggle('open');
+    return;
+  }
+  const dlId = e.target.closest('[data-dl]')?.dataset.dl;
+  if(dlId){
+    const doc = allDocs.find(d=>d.id===dlId);
+    if(!doc){ return; }
+    let downloads;
+    try{ downloads = await claude.use('downloads'); }catch(e){ downloads = null; }
+    if(!downloads){ setMsg('この環境ではダウンロードを利用できません', true); return; }
+    const p = doc.parsed || {};
+    const base = (machineLabel(p) || 'license').replace(/[\\/:*?"<>|]/g,'_');
+    try{
+      const zip = new JSZip();
+      zip.file(base + '.aalic', doc.raw);
+      const blob = await zip.generateAsync({ type: 'blob' });
+      await downloads.save({ filename: base + '.zip', data: blob });
+    }catch(err){
+      if(err?.code !== 'declined') setMsg('ダウンロードに失敗しました: ' + (err?.message||err), true);
+    }
+    return;
+  }
+  const delId = e.target.closest('[data-del]')?.dataset.del;
+  if(delId){
+    if(!db) return;
+    if(!confirm('このライセンスを削除しますか？')) return;
+    try{
+      await db.collection('licenses').doc(delId).delete();
+    }catch(err){
+      setMsg('削除に失敗しました: ' + (err?.message||err), true);
+    }
+  }
+});
+
+$('#search').addEventListener('input', render);
+
+$('#fileBtn').addEventListener('click', ()=> $('#fileInput').click());
+$('#fileInput').addEventListener('change', (e)=>{
+  const file = e.target.files[0];
+  if(!file) return;
+  const reader = new FileReader();
+  reader.onload = ()=> { $('#paste').value = reader.result; };
+  reader.onerror = ()=> setMsg('ファイルの読み込みに失敗しました', true);
+  reader.readAsText(file);
+});
+
+$('#saveBtn').addEventListener('click', async ()=>{
+  const raw = $('#paste').value;
+  if(!raw.trim()){ setMsg('内容が空です', true); return; }
+  const parsed = parseAalic(raw);
+  if(!parsed.licensed_software && !parsed.license_sku){
+    setMsg('ライセンスファイルの形式として認識できませんでした（key:value 形式ではありません）', true);
+    return;
+  }
+  if(!db){ setMsg('データストアに接続できません', true); return; }
+  $('#saveBtn').disabled = true;
+  try{
+    await db.collection('licenses').add({ raw, parsed, addedAt: Date.now() });
+    $('#paste').value = '';
+    $('#fileInput').value = '';
+    setMsg('保存しました');
+  }catch(err){
+    setMsg('保存に失敗しました: ' + (err?.message||err), true);
+  }finally{
+    $('#saveBtn').disabled = false;
+  }
+});
+
+async function init(){
+  try{
+    db = await claude.use('db');
+  }catch(e){ db = null; }
+
+  if(!db){
+    setMsg('データの永続保存が利用できないため、このセッション中のみ保存されます', true);
+    return;
+  }
+
+  unsub = db.collection('licenses').orderBy('addedAt','desc').onSnapshot(
+    (snap)=>{
+      allDocs = snap.docs.map(d=>({ id:d.id, ...d.data() }));
+      render();
+    },
+    (err)=>{ setMsg('読み込みエラー: ' + (err?.message||err), true); }
+  );
+}
+
+render();
+init();
+</script>
+</body>
+</html>
